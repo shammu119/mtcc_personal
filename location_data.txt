@@ -1,0 +1,211 @@
+Atoll	Constituency 	Constituent Islands	Name of MP	Const	Location
+HA	Hoarafushi Dhaairaa	Hoarafushi	Ali Moosa	A01	HA - Hoarafushi
+HA	Hoarafushi Dhaairaa	Thuraakunu	Ali Moosa	A01	HA - Thuraakunu
+HA	Hoarafushi Dhaairaa	Uligamu	Ali Moosa	A01	HA - Uligamu
+HA	Ihavandhoo Dhaairaa	Ihavandhoo	Ahmed Naseer	A02	HA - Ihavandhoo
+HA	Ihavandhoo Dhaairaa	Maarandhoo	Ahmed Naseer	A02	HA - Maarandhoo
+HA	Ihavandhoo Dhaairaa	Molhadhoo	Ahmed Naseer	A02	HA - Molhadhoo
+HA	Baarashu Dhaairaa	Baarah	Ibrahim Shujaau	A03	HA - Baarah
+HA	Baarashu Dhaairaa	Muraidhoo	Ibrahim Shujaau	A03	HA - Muraidhoo
+HA	Baarashu Dhaairaa	Thakandhoo	Ibrahim Shujaau	A03	HA - Thakandhoo
+HA	Baarashu Dhaairaa	Utheemu	Ibrahim Shujaau	A03	HA - Utheemu
+HA	Dhidhdhoo Dhaairaa	Dhidhdhoo	Abdul Latheef Mohamed	A04	HA - Dhidhdhoo
+HA	Kelaa Dhaairaa	Filladhoo	Abdulla Shareef	A05	HA - Filladhoo
+HA	Kelaa Dhaairaa	Kelaa	Abdulla Shareef	A05	HA - Kelaa
+HA	Kelaa Dhaairaa	Vashafaru	Abdulla Shareef	A05	HA - Vashafaru
+HDh	Hanimaadhoo Dhaairaa	Finey	Abdul Gafoor Moosa	B01	HDh - Finey
+HDh	Hanimaadhoo Dhaairaa	Hanimaadhoo	Abdul Gafoor Moosa	B01	HDh - Hanimaadhoo
+HDh	Hanimaadhoo Dhaairaa	Naivaidhoo	Abdul Gafoor Moosa	B01	HDh - Naivaidhoo
+HDh	Nolhivaram Dhaairaa	Nolhivaran	Mohamed Rasheed	B02	HDh - Nolhivaran
+HDh	Nolhivaram Dhaairaa	Nolhivaranfaru	Mohamed Rasheed	B02	HDh - Nolhivaranfaru
+HDh	Vaikaradhoo Dhaairaa	Kurinbi	Hussain Ziyad	B03	HDh - Kurinbi
+HDh	Vaikaradhoo Dhaairaa	Nellaidhoo	Hussain Ziyad	B03	HDh - Nellaidhoo
+HDh	Vaikaradhoo Dhaairaa	Vaikaradhoo	Hussain Ziyad	B03	HDh - Vaikaradhoo
+HDh	Kulhudhuffushi Uthuru Dhaairaa	Kulhudhuffushi	Mohamed Dawood	B04	HDh - Kulhudhuffushi
+HDh	Kulhudhuffushi Dhekunu Dhaairaa	Kulhudhuffushi	Faruhath Mohamed	B05	HDh - Kulhudhuffushi
+HDh	Makunudhoo Dhaairaa	Kumundhoo	Adam Shafeeq	B06	HDh - Kumundhoo
+HDh	Makunudhoo Dhaairaa	Makunudhoo	Adam Shafeeq	B06	HDh - Makunudhoo
+HDh	Makunudhoo Dhaairaa	Neykurendhoo	Adam Shafeeq	B06	HDh - Neykurendhoo
+Sh	Kanditheemu Dhaairaa	Bileyfahi	Ameen Faisal	C01	Sh - Bileyfahi
+Sh	Kanditheemu Dhaairaa	Feydhoo	Ameen Faisal	C01	Sh - Feydhoo
+Sh	Kanditheemu Dhaairaa	Goidhoo	Ameen Faisal	C01	Sh - Goidhoo
+Sh	Kanditheemu Dhaairaa	Kanditheemu	Ameen Faisal	C01	Sh - Kanditheemu
+Sh	Kanditheemu Dhaairaa	Noomaraa	Ameen Faisal	C01	Sh - Noomaraa
+Sh	Milandhoo Dhaairaa	Feevah	Hassan Mufeed Abdul Gadir	C02	Sh - Feevah
+Sh	Milandhoo Dhaairaa	Milandhoo	Hassan Mufeed Abdul Gadir	C02	Sh - Milandhoo
+Sh	Milandhoo Dhaairaa	Narudhoo	Hassan Mufeed Abdul Gadir	C02	Sh - Narudhoo
+Sh	Komandoo Dhaairaa	Foakaidhoo	Mohamed Ibrahim	C03	Sh - Foakaidhoo
+Sh	Komandoo Dhaairaa	Komandoo	Mohamed Ibrahim	C03	Sh - Komandoo
+Sh	Komandoo Dhaairaa	Maroshi	Mohamed Ibrahim	C03	Sh - Maroshi
+Sh	Funadhoo Dhaairaa	Funadhoo	Mohamed Mamdhooh	C04	Sh - Funadhoo
+Sh	Funadhoo Dhaairaa	Lhaimagu	Mohamed Mamdhooh	C04	Sh - Lhaimagu
+Sh	Funadhoo Dhaairaa	Maaungoodhoo	Mohamed Mamdhooh	C04	Sh - Maaungoodhoo
+N	Kendhikulhudhoo Dhaairaa	Henbadhoo	Mohamed Afoo Hamid	D01	N - Henbadhoo
+N	Kendhikulhudhoo Dhaairaa	Kendhikulhudhoo	Mohamed Afoo Hamid	D01	N - Kendhikulhudhoo
+N	Kendhikulhudhoo Dhaairaa	Kudafari	Mohamed Afoo Hamid	D01	N - Kudafari
+N	Kendhikulhudhoo Dhaairaa	Maalhendhoo	Mohamed Afoo Hamid	D01	N - Maalhendhoo
+N	Manadhoo Dhaairaa	Landhoo	Husnee Mubarak	D02	N - Landhoo
+N	Manadhoo Dhaairaa	Maafaru	Husnee Mubarak	D02	N - Maafaru
+N	Manadhoo Dhaairaa	Manadhoo	Husnee Mubarak	D02	N - Manadhoo
+N	Velidhoo Dhaairaa	Fohdhoo	Mohamed Abbas	D03	N - Fohdhoo
+N	Velidhoo Dhaairaa	Lhohi	Mohamed Abbas	D03	N - Lhohi
+N	Velidhoo Dhaairaa	Velidhoo	Mohamed Abbas	D03	N - Velidhoo
+N	Holhudhoo Dhaaairaa	Holhudhoo	Abdul Sattar Mohamed	D04	N - Holhudhoo
+N	Holhudhoo Dhaaairaa	Magoodhoo	Abdul Sattar Mohamed	D04	N - Magoodhoo
+N	Holhudhoo Dhaaairaa	Milandhoo	Abdul Sattar Mohamed	D04	N - Milandhoo
+R	Alifushi Dhaairaa	Alifushi	Abdul Latheef Abdul Rahman	E01	R - Alifushi
+R	Alifushi Dhaairaa	Angolhitheemu	Abdul Latheef Abdul Rahman	E01	R - Angolhitheemu
+R	Alifushi Dhaairaa	Rasgetheemu	Abdul Latheef Abdul Rahman	E01	R - Rasgetheemu
+R	Alifushi Dhaairaa	Vaadhoo	Abdul Latheef Abdul Rahman	E01	R - Vaadhoo
+R	Ungoofaaru Dhaairaa	Hulhudhuffaaru	Ibrahim Shifaz	E02	R - Hulhudhuffaaru
+R	Ungoofaaru Dhaairaa	Maakurathu	Ibrahim Shifaz	E02	R - Maakurathu
+R	Ungoofaaru Dhaairaa	Ungoofaaru	Ibrahim Shifaz	E02	R - Ungoofaaru
+R	Dhuvaafaru Dhaairaa	Dhuvaafaru	Mohamed Ali	E03	R - Dhuvaafaru
+R	Inguraidhoo Dhaairaa	Fainu	Ibrahim Falah	E04	R - Fainu
+R	Inguraidhoo Dhaairaa	Inguraidhoo	Ibrahim Falah	E04	R - Inguraidhoo
+R	Inguraidhoo Dhaairaa	Innamaadhoo	Ibrahim Falah	E04	R - Innamaadhoo
+R	Inguraidhoo Dhaairaa	Kinolhas	Ibrahim Falah	E04	R - Kinolhas
+R	Inguraidhoo Dhaairaa	Rasmaadhoo	Ibrahim Falah	E04	R - Rasmaadhoo
+R	Maduvvari Dhaairaa	Maduvvari	Ahmed Zahir	E05	R - Maduvvari
+R	Maduvvari Dhaairaa	Meedhoo	Ahmed Zahir	E05	R - Meedhoo
+B	Thulhaadhoo Dhaairaa	Fehendhoo	Abdul Hannaan Aboobakuru	F01	B - Fehendhoo
+B	Thulhaadhoo Dhaairaa	Fehendhoo	Abdul Hannaan Aboobakuru	F01	B - Fehendhoo
+B	Thulhaadhoo Dhaairaa	Goidhoo	Abdul Hannaan Aboobakuru	F01	B - Goidhoo
+B	Thulhaadhoo Dhaairaa	Thulhaadhoo	Abdul Hannaan Aboobakuru	F01	B - Thulhaadhoo
+B	Eydhafushi Dhaairaa	Eydhafushi	Ahmed Saleem	F02	B - Eydhafushi
+B	Kendhoo Dhaairaa	Dhonfanu	Mauroof Zakir	F03	B - Dhonfanu
+B	Kendhoo Dhaairaa	Kamadhoo	Mauroof Zakir	F03	B - Kamadhoo
+B	Kendhoo Dhaairaa	Kendhoo	Mauroof Zakir	F03	B - Kendhoo
+B	Kendhoo Dhaairaa	Kihaadhoo	Mauroof Zakir	F03	B - Kihaadhoo
+B	Kendhoo Dhaairaa	Kudarikilu	Mauroof Zakir	F03	B - Kudarikilu
+B	Hithaadhoo Dhaairaa	Dharavandhoo	Mohamed Siruhaan	F04	B - Dharavandhoo
+B	Hithaadhoo Dhaairaa	Hithaadhoo	Mohamed Siruhaan	F04	B - Hithaadhoo
+B	Hithaadhoo Dhaairaa	Maalhos	Mohamed Siruhaan	F04	B - Maalhos
+Lh	Hinnavaru Dhaairaa	Hinnavaru	Mohamed Abdul Rahman	G01	Lh - Hinnavaru
+Lh	Naifaru Dhaairaa	Naifaru	Yaaseen Abdulla	G02	Lh - Naifaru
+Lh	Kurendhoo Dhaairaa	Kurendhoo	Mohamed Shamin Habeeb	G03	Lh - Kurendhoo
+Lh	Kurendhoo Dhaairaa	Olhuvelifushi	Mohamed Shamin Habeeb	G03	Lh - Olhuvelifushi
+K	Kaashidhoo Dhaairaa	Gaafaru	Munthazim Ibrahim	H01	K - Gaafaru
+K	Kaashidhoo Dhaairaa	Kaashidhoo	Munthazim Ibrahim	H01	K - Kaashidhoo
+K	Thulusdhoo Dhaairaa	Dhiffushi	Ibrahim Naseem	H02	K - Dhiffushi
+K	Thulusdhoo Dhaairaa	Thulusdhoo	Ibrahim Naseem	H02	K - Thulusdhoo
+K	Maafushi Dhaairaa	Guraidhoo	Hussain Riza Adam	H03	K - Guraidhoo
+K	Maafushi Dhaairaa	Maafushi	Hussain Riza Adam	H03	K - Maafushi
+K	Huraa Dhaairaa	Gulhi	Dr Anaara Naeem	H04	K - Gulhi
+K	Huraa Dhaairaa	Himmafushi	Dr Anaara Naeem	H04	K - Himmafushi
+K	Huraa Dhaairaa	Huraa	Dr Anaara Naeem	H04	K - Huraa
+ADh	Maamigili Dhaairaa	Fenfushi	Qasim Ibrahim	I01	ADh - Fenfushi
+ADh	Maamigili Dhaairaa	Maamigili	Qasim Ibrahim	I01	ADh - Maamigili
+ADh	Mahibadhoo Dhaairaa	Hangnaameedhoo	Ahmed Thariq	I02	ADh - Hangnaameedhoo
+ADh	Mahibadhoo Dhaairaa	Kunburudhoo	Ahmed Thariq	I02	ADh - Kunburudhoo
+ADh	Mahibadhoo Dhaairaa	Mahibadhoo	Ahmed Thariq	I02	ADh - Mahibadhoo
+ADh	Dhangethi Dhaairaa	Dhangethi	Abdulla Rasheed	I03	ADh - Dhangethi
+ADh	Dhangethi Dhaairaa	Dhidhdhoo	Abdulla Rasheed	I03	ADh - Dhidhdhoo
+ADh	Dhangethi Dhaairaa	Dhigurah	Abdulla Rasheed	I03	ADh - Dhigurah
+ADh	Dhangethi Dhaairaa	Mandhoo	Abdulla Rasheed	I03	ADh - Mandhoo
+ADh	Dhangethi Dhaairaa	Omadhoo	Abdulla Rasheed	I03	ADh - Omadhoo
+V	Felidhoo Dhaairaa	Felidhoo	Adam Zahir	J01	V - Felidhoo
+V	Felidhoo Dhaairaa	Fulidhoo	Adam Zahir	J01	V - Fulidhoo
+V	Felidhoo Dhaairaa	Thinadhoo	Adam Zahir	J01	V - Thinadhoo
+V	Keyodhoo Dhaairaa	Keyodhoo	Mohamed Niushad	J02	V - Keyodhoo
+V	Keyodhoo Dhaairaa	Rakeedhoo	Mohamed Niushad	J02	V - Rakeedhoo
+M	Dhiggaru Dhaairaa	Dhiggaru	Ahmed Nazim	K01	M - Dhiggaru
+M	Dhiggaru Dhaairaa	Maduvvari	Ahmed Nazim	K01	M - Maduvvari
+M	Dhiggaru Dhaairaa	Muli	Ahmed Nazim	K01	M - Muli
+M	Dhiggaru Dhaairaa	Raiymandhoo	Ahmed Nazim	K01	M - Raiymandhoo
+M	Dhiggaru Dhaairaa	Veyvah	Ahmed Nazim	K01	M - Veyvah
+M	Mulaku Dhaairaa	Kolhufushi	Ibrahim Naufal	K02	M - Kolhufushi
+M	Mulaku Dhaairaa	Mulah	Ibrahim Naufal	K02	M - Mulah
+M	Mulaku Dhaairaa	Naalaafushi	Ibrahim Naufal	K02	M - Naalaafushi
+F	Bileydhoo Dhaairaa	Bileydhoo	Ahmed Aslam	L01	F - Bileydhoo
+F	Bileydhoo Dhaairaa	Feeali	Ahmed Aslam	L01	F - Feeali
+F	Bileydhoo Dhaairaa	Magoodhoo	Ahmed Aslam	L01	F - Magoodhoo
+F	Nilandhoo Dhaairaa	Dharanboodhoo	Fathimath Sauda	L02	F - Dharanboodhoo
+F	Nilandhoo Dhaairaa	Nilandhoo	Fathimath Sauda	L02	F - Nilandhoo
+Dh	Meedhoo Dhaairaa	Bandidhoo	Ahmed Siyam Mohamed	M01	Dh - Bandidhoo
+Dh	Meedhoo Dhaairaa	Hulhudheli	Ahmed Siyam Mohamed	M01	Dh - Hulhudheli
+Dh	Meedhoo Dhaairaa	Meedhoo	Ahmed Siyam Mohamed	M01	Dh - Meedhoo
+Dh	Meedhoo Dhaairaa	Rinbidhoo	Ahmed Siyam Mohamed	M01	Dh - Rinbidhoo
+Dh	Kudahuvadhoo Dhaairaa	Kudahuvadhoo	Hussain Hameed	M02	Dh - Kudahuvadhoo
+Dh	Kudahuvadhoo Dhaairaa	Maaenboodhoo	Hussain Hameed	M02	Dh - Maaenboodhoo
+Dh	Kudahuvadhoo Dhaairaa	Vaani	Hussain Hameed	M02	Dh - Vaani
+Th	Vilifushi Dhaairaa	Buruni	Hussain Waheed	N01	Th - Buruni
+Th	Vilifushi Dhaairaa	Madifushi	Hussain Waheed	N01	Th - Madifushi
+Th	Vilifushi Dhaairaa	Vilufushi	Hussain Waheed	N01	Th - Vilufushi
+Th	Thimarafushi Dhaairaa	Thimarafushi	Ahmed Riyaz	N02	Th - Thimarafushi
+Th	Thimarafushi Dhaairaa	Veymandoo	Ahmed Riyaz	N02	Th - Veymandoo
+Th	Guraidhoo Dhaairaa	Dhiyamagili	Hanan Mohamed Rasheed	N03	Th - Dhiyamagili
+Th	Guraidhoo Dhaairaa	Gaadhihfushi	Hanan Mohamed Rasheed	N03	Th - Gaadhihfushi
+Th	Guraidhoo Dhaairaa	Guraidhoo	Hanan Mohamed Rasheed	N03	Th - Guraidhoo
+Th	Kinbidhoo Dhaairaa	Hirilandhoo	Ali Ashrag	N04	Th - Hirilandhoo
+Th	Kinbidhoo Dhaairaa	Kandoodhoo	Ali Ashrag	N04	Th - Kandoodhoo
+Th	Kinbidhoo Dhaairaa	Kinbidhoo	Ali Ashrag	N04	Th - Kinbidhoo
+Th	Kinbidhoo Dhaairaa	Omadhoo	Ali Ashrag	N04	Th - Omadhoo
+Th	Kinbidhoo Dhaairaa	Vaandhoo	Ali Ashrag	N04	Th - Vaandhoo
+L	Isdhoo Dhaairaa	Dhanbidhoo	Ismail Shafeeu	O01	L - Dhanbidhoo
+L	Isdhoo Dhaairaa	Isdhoo	Ismail Shafeeu	O01	L - Isdhoo
+L	Isdhoo Dhaairaa	Kalaidhoo	Ismail Shafeeu	O01	L - Kalaidhoo
+L	Isdhoo Dhaairaa	Maabaidhoo	Ismail Shafeeu	O01	L - Maabaidhoo
+L	Gamu Dhaairaa	Gan	Yoosuf Nasheed	O02	L - Gan
+L	Gamu Dhaairaa	Munro	Yoosuf Nasheed	O02	L - Munro
+L	Fonadhoo Dhaairaa	Fonadhoo	Abdul Raheem Abdulla	O03	L - Fonadhoo
+L	Fonadhoo Dhaairaa	Maamendhoo	Abdul Raheem Abdulla	O03	L - Maamendhoo
+L	Maavashu Dhaairaa	Hithadhoo	Ahmed Shakir	O04	L - Hithadhoo
+L	Maavashu Dhaairaa	Kunahandhoo	Ahmed Shakir	O04	L - Kunahandhoo
+L	Maavashu Dhaairaa	Maavah	Ahmed Shakir	O04	L - Maavah
+GA	Villingili Dhaairaa	Villingili	Azim Abdul Azeez	P01	GA - Villingili
+GA	Dhaandhoo Dhaairaa	Dhaandhoo	Mohamed Fazeel	P02	GA - Dhaandhoo
+GA	Dhaandhoo Dhaairaa	Kondey	Mohamed Fazeel	P02	GA - Kondey
+GA	Dhaandhoo Dhaairaa	Nilandhoo	Mohamed Fazeel	P02	GA - Nilandhoo
+GA	Gemanafushi Dhaairaa	Dhevvadhoo	Asadhulla Shihab	P03	GA - Dhevvadhoo
+GA	Gemanafushi Dhaairaa	Gemanafushi	Asadhulla Shihab	P03	GA - Gemanafushi
+GA	Gemanafushi Dhaairaa	Kanduhulhudhoo	Asadhulla Shihab	P03	GA - Kanduhulhudhoo
+GA	Kolamaafushi Dhaairaa	Kolamaafushi	Ibrahim Didi	P04	GA - Kolamaafushi
+GA	Kolamaafushi Dhaairaa	Maamendhoo	Ibrahim Didi	P04	GA - Maamendhoo
+GDh	Thinadhoo Uthuru Dhaairaa	Thinadhoo	Saudhulla Hilmy	Q01	GDh - Thinadhoo
+GDh	Thinadhoo Dhekunu Dhaairaa	Thinadhoo	Mohamed Alsan Ahmed	Q02	GDh - Thinadhoo
+GDh	Madaveli Dhaairaa	Hoandehdhoo	Mohamed Shameez	Q03	GDh - Hoandehdhoo
+GDh	Madaveli Dhaairaa	Madaveli	Mohamed Shameez	Q03	GDh - Madaveli
+GDh	Madaveli Dhaairaa	Nadella	Mohamed Shameez	Q03	GDh - Nadella
+GDh	Faresmaathodaa Dhaairaa	Faresmaathodaa	Ashraf Rasheed	Q04	GDh - Faresmaathodaa
+GDh	Faresmaathodaa Dhaairaa	Fiyoari	Ashraf Rasheed	Q04	GDh - Fiyoari
+GDh	Faresmaathodaa Dhaairaa	Rathafandhoo	Ashraf Rasheed	Q04	GDh - Rathafandhoo
+GDh	Gahdhoo Dhaairaa	Gahdhoo	Mohamed Ali	Q05	GDh - Gahdhoo
+GDh	Gahdhoo Dhaairaa	Vaadhoo	Mohamed Ali	Q05	GDh - Vaadhoo
+Gn	Fuvahmulaku Uthuru Dhaairaa	Fuvahmulah City	Hamad Abdulla	R01	Gn - Fuvahmulah City
+Gn	Fuvahmulaku Medhu Dhaairaa	Fuvahmulah City	Ali Fazad	R02	Gn - Fuvahmulah City
+Gn	Fuvahmulaku Dhekunu Dhaairaa	Fuvahmulah City	Ibrahim Hussain	R03	Gn - Fuvahmulah City
+S	Hulhudhoo Dhaairaa	Addu City	Mohamed Shahid	S01	S - Addu City
+S	Feydhoo Dhekunu Dhaairaa	Addu City	Ibrahim Didi	S02	S - Addu City
+S	Maradhoo Dhaairaa	Addu City	Ahmed Didi	S03	S - Addu City
+S	Hithadhoo Uthuru Dhaairaa	Addu City	Mohamed Sinan	S04	S - Addu City
+S	Hithadhoo Medhu Dhaairaa	Addu City	Ahmed Azaan Marzooq	S05	S - Addu City
+S	Hithadhoo Dhekunu Dhaairaa	Addu City	Ibrahim Nazil	S06	S - Addu City
+S	Addu Meedhoo Dhaairaa	Addu City	Abdul Rahman	S07	S - Addu City
+S	Feydhoo Uthuru Dhaairaa	Addu City	Ismail Nizar	S08	S - Addu City
+S	Feydhoo Uthuru Dhaairaa	Addu City	Ismail Nizar	S08	S - Addu City
+K	Hulhumale Dhekunu Dhaairaa	Malé City	Dr Ahmed Shamheed	T01	K - Malé City
+K	Medhu Henveiru Dhaairaa	Malé City	Hussain Nasih	T02	K - Malé City
+K	Henveiru Dhekunu Dhaairaa	Malé City	Hussain Imran Latheef	T03	K - Malé City
+K	Henveiru Uthuru Dhaairaa	Malé City	Ahmed Aifan	T04	K - Malé City
+K	Galolhu Uthuru Dhaairaa	Malé City	Mohamed Ibrahim	T05	K - Malé City
+K	Galolhu Dhekunu Dhaairaa	Malé City	Meekail Ahmed Naseem	T06	K - Malé City
+K	Mahchangoalhi Uthuru Dhaairaa	Malé City	Ibrahim Mohamed	T07	K - Malé City
+K	Mahchangoalhi Dhekunu Dhaairaa	Malé City	Musthafa Hussain	T08	K - Malé City
+K	Maafannu Uthuru Dhaairaa	Malé City	Mohamed Nazim	T09	K - Malé City
+K	Maafannu Hulhangu Dhaairaa	Malé City	Mohamed Musthafa Ibrahim	T10	K - Malé City
+K	Maafannu Medhu Dhaairaa	Malé City	Asma Rasheed	T11	K - Malé City
+K	Maafannu Dhekunu Dhaairaa	Malé City	Abdulla Rifaau	T12	K - Malé City
+K	Vilimale Dhaairaa	Malé City	Mohamed Ismail	T13	K - Malé City
+K	Henveiru Hulhangu Dhaairaa	Malé City	Ali Ibrahim	T14	K - Malé City
+K	Mahchangoalhi Medhu Dhaairaa	Malé City	Ahmed Xamyr	T15	K - Malé City
+K	Hulhumale Medhu Dhaairaa	Malé City	Abdulla Shazeem	T16	K - Malé City
+K	Hulhumale Uthuru Dhaairaa	Malé City	Hussain Shareef	T17	K - Malé City
+AA	Mathiveri Dhaairaa	Bodufulhadhoo	Hassan Zareer	U01	AA - Bodufulhadhoo
+AA	Mathiveri Dhaairaa	Feridhoo	Hassan Zareer	U01	AA - Feridhoo
+AA	Mathiveri Dhaairaa	Himandhoo	Hassan Zareer	U01	AA - Himandhoo
+AA	Mathiveri Dhaairaa	Maalhos	Hassan Zareer	U01	AA - Maalhos
+AA	Mathiveri Dhaairaa	Mathiveri	Hassan Zareer	U01	AA - Mathiveri
+AA	Thoddoo Dhaairaa	Rasdhoo	Hussain Sameer	U02	AA - Rasdhoo
+AA	Thoddoo Dhaairaa	Thoddoo	Hussain Sameer	U02	AA - Thoddoo
+AA	Thoddoo Dhaairaa	Ukulhas	Hussain Sameer	U02	AA - Ukulhas
