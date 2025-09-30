@@ -75,11 +75,11 @@
 76,HDh,HDh - Ruffushi,Ruffushi,ހދ,ހދ - ރުއްފުށި,ރުއްފުށި
 77,HDh,HDh - Veligandu,Veligandu,ހދ,ހދ - ވެލިގަނޑު,ވެލިގަނޑު
 78,Sh,Sh - Kanditheemu,Kanditheemu,ށ,ށ - ކަނޑިތީމު,ކަނޑިތީމު
-79,Sh,Sh - Noomaraa,Noomaraa,ށ,ށ - ނޫމަރާ,ނޫމަރާ
+79,Sh,Sh - Noomara,Noomara,ށ,ށ - ނޫމަރާ,ނޫމަރާ
 80,Sh,Sh - Goidhoo,Goidhoo,ށ,ށ - ގޮއިދޫ,ގޮއިދޫ
 81,Sh,Sh - Feydhoo,Feydhoo,ށ,ށ - ފޭދޫ,ފޭދޫ
 82,Sh,Sh - Feevah,Feevah,ށ,ށ - ފީވައް,ފީވައް
-83,Sh,Sh - Bilehffahi,Bilehffahi,ށ,ށ - ބިލެތްފަހި,ބިލެތްފަހި
+83,Sh,Sh - Bilehfahi,Bilehfahi,ށ,ށ - ބިލެތްފަހި,ބިލެތްފަހި
 84,Sh,Sh - Foakaidhoo,Foakaidhoo,ށ,ށ - ފޯކައިދޫ,ފޯކައިދޫ
 85,Sh,Sh - Narudhoo,Narudhoo,ށ,ށ - ނަރުދޫ,ނަރުދޫ
 86,Sh,Sh - Maakandoodhoo,Maakandoodhoo,ށ,ށ - މާކަނޑޫދޫ,މާކަނޑޫދޫ
@@ -533,9 +533,9 @@
 556,AA,AA - Mathivereefinolhu,Mathivereefinolhu,އއ,އއ - މަތިވެރީފިނޮޅު,މަތިވެރީފިނޮޅު
 557,AA,AA - Meerufenfushi,Meerufenfushi,އއ,އއ - މީރުފެންފުށި,މީރުފެންފުށި
 558,AA,AA - Vihamaafaru,Vihamaafaru,އއ,އއ - ވިހަމާފަރު,ވިހަމާފަރު
-559,ADh,ADh - Hangnameedhoo,Hangnameedhoo,އދ,އދ - ހަންޏާމީދޫ,ހަންޏާމީދޫ
+559,ADh,ADh - Hangnaameedhoo,Hangnaameedhoo,އދ,އދ - ހަންޏާމީދޫ,ހަންޏާމީދޫ
 560,ADh,ADh - Omadhoo,Omadhoo,އދ,އދ - އޮމަދޫ,އޮމަދޫ
-561,ADh,ADh - Kuburudhoo,Kuburudhoo,އދ,އދ - ކުނބުރުދޫ,ކުނބުރުދޫ
+561,ADh,ADh - Kunburudhoo,Kunburudhoo,އދ,އދ - ކުނބުރުދޫ,ކުނބުރުދޫ
 562,ADh,ADh - Mahibadhoo,Mahibadhoo,އދ,އދ - މަހިބަދޫ,މަހިބަދޫ
 563,ADh,ADh - Mandhoo,Mandhoo,އދ,އދ - މަންދޫ,މަންދޫ
 564,ADh,ADh - Dhangethi,Dhangethi,އދ,އދ - ދަނގެތި,ދަނގެތި
@@ -981,3 +981,4 @@
 1051,Sh,SH - Foakaidhoo - Feevah - Feydhoo,Foakaidhoo - Feevah - Feydhoo,ށ,ށ - ފޯކައިދޫ - ފީވައް - ފޭދޫ,ފޯކައިދޫ - ފީވައް - ފޭދޫ
 1052,L,L - Dhanbidhoo - Kalaidhoo,Dhanbidhoo - Kalaidhoo,ލ,ލ - ދަނބިދޫ - ކަޅައިދޫ,ދަނބިދޫ - ކަޅައިދޫ
 1053,L,L - Hithadhoo - Kunahandhoo,Hithadhoo - Kunahandhoo,ލ,ލ - ހިތަދޫ - ކުނަހަންދޫ,ހިތަދޫ - ކުނަހަންދޫ
+
