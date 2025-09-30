@@ -1,980 +1,983 @@
 ﻿No.,Atoll,Location,name: en,Atoll: dv,fullname:dv,name: dv
-1,HA,HA - Thuraakunu,Thuraakunu,ހއ,ހއ. ތުރާކުނު,ތުރާކުނު
-2,HA,HA - Uligamu,Uligamu,ހއ,ހއ. އުލިގަން,އުލިގަން
-3,HA,HA - Berinmadhoo,Berinmadhoo,ހއ,ހއ. ބެރިންމަދޫ,ބެރިންމަދޫ
-4,HA,HA - Hathifushi,Hathifushi,ހއ,ހއ. ހަތިފުށި,ހަތިފުށި
-5,HA,HA - Molhadhoo,Molhadhoo,ހއ,ހއ. މޮޅަދޫ,މޮޅަދޫ
-6,HA,HA - Hoarafushi,Hoarafushi,ހއ,ހއ. ހޯރަފުށި,ހޯރަފުށި
-7,HA,HA - Ihavandhoo,Ihavandhoo,ހއ,ހއ. އިހަވަންދޫ,އިހަވަންދޫ
-8,HA,HA - Kelaa,Kelaa,ހއ,ހއ. ކެލާ,ކެލާ
-9,HA,HA - Vashafaru,Vashafaru,ހއ,ހއ. ވަށަފަރު,ވަށަފަރު
-10,HA,HA - Dhidhdhoo,Dhidhdhoo,ހއ,ހއ. ދިއްދޫ,ދިއްދޫ
-11,HA,HA - Filladhoo,Filladhoo,ހއ,ހއ. ފިއްލަދޫ,ފިއްލަދޫ
-12,HA,HA - Maarandhoo,Maarandhoo,ހއ,ހއ. މާރަންދޫ,މާރަންދޫ
-13,HA,HA - Thakandhoo,Thakandhoo,ހއ,ހއ. ތަކަންދޫ,ތަކަންދޫ
-14,HA,HA - Utheem,Utheem,ހއ,ހއ. އުތީމު,އުތީމު
-15,HA,HA - Muraidhoo,Muraidhoo,ހއ,ހއ. މުރައިދޫ,މުރައިދޫ
-16,HA,HA - Baarah,Baarah,ހއ,ހއ. ބާރަށް,ބާރަށް
-17,HA,HA - Maafahi,Maafahi,ހއ,ހއ. މާފަހި,މާފަހި
-18,HA,HA - Alidhoo,Alidhoo,ހއ,ހއ. އަލިދޫ,އަލިދޫ
-19,HA,HA - Huvahandhoo,Huvahandhoo,ހއ,ހއ. ހުވަހަންދޫ,ހުވަހަންދޫ
-20,HA,HA - Dhonakulhi,Dhonakulhi,ހއ,ހއ. ދޮނަކުޅި,ދޮނަކުޅި
-21,HA,HA - Beenaafushi,Beenaafushi,ހއ,ހއ. ބީނާފުށި,ބީނާފުށި
-22,HA,HA - Dhapparuhuraa,Dhapparuhuraa,ހއ,ހއ. ދައްޕަރުހުރާ,ދައްޕަރުހުރާ
-23,HA,HA - Dhigufaruhuraa,Dhigufaruhuraa,ހއ,ހއ. ދިގުފަރުހުރާ,ދިގުފަރުހުރާ
-24,HA,HA - Gaafushi,Gaafushi,ހއ,ހއ. ގާފުށި,ގާފުށި
-25,HA,HA - Gaamathikulhudhoo,Gaamathikulhudhoo,ހއ,ހއ. ގާމަތިކުޅުދޫ,ގާމަތިކުޅުދޫ
-26,HA,HA - Gallandhoo,Gallandhoo,ހއ,ހއ. ގައްލަންދޫ,ގައްލަންދޫ
-27,HA,HA - Govvaafushi,Govvaafushi,ހއ,ހއ. ގޮށްވާފުށި,ގޮށްވާފުށި
-28,HA,HA - Innafinolhu,Innafinolhu,ހއ,ހއ. އިންނަފިނޮޅު,އިންނަފިނޮޅު
-29,HA,HA - Kudafinolhu,Kudafinolhu,ހއ,ހއ. ކުޑަފިނޮޅު,ކުޑަފިނޮޅު
-31,HA,HA - Maafinolhu,Maafinolhu,ހއ,ހއ. މާފިނޮޅު,މާފިނޮޅު
-32,HA,HA - Madulu,Madulu,ހއ,ހއ. މަޑުލު,މަޑުލު
-33,HA,HA - Manafaru,Manafaru,ހއ,ހއ. މަނަފަރު,މަނަފަރު
-34,HA,HA - Matheerah,Matheerah,ހއ,ހއ. މަތީރަށް,މަތީރަށް
-35,HA,HA - Medhafushi,Medhafushi,ހއ,ހއ. މެދަފުށި,މެދަފުށި
-36,HA,HA - Mulidhoo,Mulidhoo,ހއ,ހއ. މުލިދޫ,މުލިދޫ
-37,HA,HA - Naridhoo,Naridhoo,ހއ,ހއ. ނަރިދޫ,ނަރިދޫ
-38,HA,HA - Ubulifinolhu,Ubulifinolhu,ހއ,ހއ. އުނބުލިފިނޮޅު,އުނބުލިފިނޮޅު
-39,HA,HA - Umaraiyfinolhu,Umaraiyfinolhu,ހއ,ހއ. އުމަރަތްފިނޮޅު,އުމަރަތްފިނޮޅު
-40,HA,HA - Vangaaru,Vangaaru,ހއ,ހއ. ވަނގާރު,ވަނގާރު
-41,HA,HA - Velifinolhu,Velifinolhu,ހއ,ހއ. ވެލިފިނޮޅު,ވެލިފިނޮޅު
-42,HDh,HDh - Faridhoo,Faridhoo,ހދ,ހދ. ފަރިދޫ,ފަރިދޫ
-43,HDh,HDh - Hondaidhoo,Hondaidhoo,ހދ,ހދ. ހޮނޑައިދޫ,ހޮނޑައިދޫ
-44,HDh,HDh - Hanimaadhoo,Hanimaadhoo,ހދ,ހދ. ހަނިމާދޫ,ހަނިމާދޫ
-45,HDh,HDh - Finey,Finey,ހދ,ހދ. ފިނޭ,ފިނޭ
-46,HDh,HDh - Naavaidhoo ,Naavaidhoo ,ހދ,ހދ. ނައިވާދޫ,ނައިވާދޫ
-47,HDh,HDh - Hirimaradhoo,Hirimaradhoo,ހދ,ހދ. ހިރިމަރަދޫ,ހިރިމަރަދޫ
-48,HDh,HDh - Nolhivaranfaru,Nolhivaranfaru,ހދ,ހދ. ނޮޅިވަރަންފަރު,ނޮޅިވަރަންފަރު
-49,HDh,HDh - Nellaidhoo,Nellaidhoo,ހދ,ހދ. ނެއްލައިދޫ,ނެއްލައިދޫ
-50,HDh,HDh - Nolhivaram,Nolhivaram,ހދ,ހދ. ނޮޅިވަރަމް,ނޮޅިވަރަމް
-51,HDh,HDh - Kurinbi,Kurinbi,ހދ,ހދ. ކުރިނބި,ކުރިނބި
-52,HDh,HDh - Kunburudhoo,Kunburudhoo,ހދ,ހދ. ކުނބުރުދޫ,ކުނބުރުދޫ
-53,HDh,HDh - Kulhudhuffushi,Kulhudhuffushi,ހދ,ހދ. ކުޅުދުއްފުށި,ކުޅުދުއްފުށި
-54,HDh,HDh - Kumundhoo,Kumundhoo,ހދ,ހދ. ކުމުންދޫ,ކުމުންދޫ
-55,HDh,HDh - Neykurendhoo,Neykurendhoo,ހދ,ހދ. ނޭކުރެންދޫ,ނޭކުރެންދޫ
-56,HDh,HDh - Vaikaradhoo,Vaikaradhoo,ހދ,ހދ. ވައިކަރަދޫ,ވައިކަރަދޫ
-57,HDh,HDh - Maavaidhoo,Maavaidhoo,ހދ,ހދ. މާވައިދޫ,މާވައިދޫ
-58,HDh,HDh - Makunudhoo,Makunudhoo,ހދ,ހދ. މަކުނުދޫ,މަކުނުދޫ
-59,HDh,HDh - Vaikaramuraidhoo,Vaikaramuraidhoo,ހދ,ހދ. ވައިކަރަމުރާދޫ,ވައިކަރަމުރާދޫ
-60,HDh,HDh - Theefaridhoo,Theefaridhoo,ހދ,ހދ. ތީފަރިދޫ,ތީފަރިދޫ
-61,HDh,HDh - Dhipparufushi,Dhipparufushi,ހދ,ހދ. ދިއްޕަރުފުށި,ދިއްޕަރުފުށި
-62,HDh,HDh - Fenboahuraa,Fenboahuraa,ހދ,ހދ. ފެންބޯހުރާ,ފެންބޯހުރާ
-63,HDh,HDh - Hirinaidhoo,Hirinaidhoo,ހދ,ހދ. ހިރިނައިދޫ,ހިރިނައިދޫ
-64,HDh,HDh - Hodaafushi,Hodaafushi,ހދ,ހދ. ހޮނޑާފުށި,ހޮނޑާފުށި
-65,HDh,HDh - Innafushi,Innafushi,ހދ,ހދ. އިންނަފުށި,އިންނަފުށި
-66,HDh,HDh - Kanamana,Kanamana,ހދ,ހދ. ކަނަމަނަ,ކަނަމަނަ
-68,HDh,HDh - Kattalafushi,Kattalafushi,ހދ,ހދ. ކައްޓަލަފުށި,ކައްޓަލަފުށި
-69,HDh,HDh - Keylakunu,Keylakunu,ހދ,ހދ. ކޭލަކުނު,ކޭލަކުނު
-70,HDh,HDh - Kudafaru,Kudafaru,ހދ,ހދ. ކުޑަފަރު,ކުޑަފަރު
-71,HDh,HDh - Kudamuraidhoo,Kudamuraidhoo,ހދ,ހދ. ކުޑަމުރައިދޫ,ކުޑަމުރައިދޫ
-72,HDh,HDh - Muiri,Muiri,ހދ,ހދ. މުއިރު,މުއިރު
-73,HDh,HDh - Naagoashi,Naagoashi,ހދ,ހދ. ނާގޯށި,ނާގޯށި
-74,HDh,HDh - Rahburi,Rahburi,ހދ,ހދ. ރަށްބުރި,ރަށްބުރި
-75,HDh,HDh - Rasfushi,Rasfushi,ހދ,ހދ. ރަސްފުށި,ރަސްފުށި
-76,HDh,HDh - Ruffushi,Ruffushi,ހދ,ހދ. ރުއްފުށި,ރުއްފުށި
-77,HDh,HDh - Veligandu,Veligandu,ހދ,ހދ. ވެލިގަނޑު,ވެލިގަނޑު
-78,Sh,Sh - Kanditheemu,Kanditheemu,ށ,ށ. ކަނޑިތީމު,ކަނޑިތީމު
-79,Sh,Sh - Noomaraa,Noomaraa,ށ,ށ. ނޫމަރާ,ނޫމަރާ
-80,Sh,Sh - Goidhoo,Goidhoo,ށ,ށ. ގޮއިދޫ,ގޮއިދޫ
-81,Sh,Sh - Feydhoo,Feydhoo,ށ,ށ. ފޭދޫ,ފޭދޫ
-82,Sh,Sh - Feevah,Feevah,ށ,ށ. ފީވައް,ފީވައް
-83,Sh,Sh - Bilehffahi,Bilehffahi,ށ,ށ. ބިލެތްފަހި,ބިލެތްފަހި
-84,Sh,Sh - Foakaidhoo,Foakaidhoo,ށ,ށ. ފޯކައިދޫ,ފޯކައިދޫ
-85,Sh,Sh - Narudhoo,Narudhoo,ށ,ށ. ނަރުދޫ,ނަރުދޫ
-86,Sh,Sh - Maakandoodhoo,Maakandoodhoo,ށ,ށ. މާކަނޑޫދޫ,މާކަނޑޫދޫ
-87,Sh,Sh - Maroshi,Maroshi,ށ,ށ. މަރޮށި,މަރޮށި
-88,Sh,Sh - Lhaimagu,Lhaimagu,ށ,ށ. ޅައިމަގު,ޅައިމަގު
-89,Sh,Sh - Firubaidhoo,Firubaidhoo,ށ,ށ. ފިރުނބައިދޫ,ފިރުނބައިދޫ
-90,Sh,Sh - Komandoo,Komandoo,ށ,ށ. ކޮމަންޑޫ,ކޮމަންޑޫ
-91,Sh,Sh - Maaungoodhoo,Maaungoodhoo,ށ,ށ. މާއުނގޫދޫ,މާއުނގޫދޫ
-92,Sh,Sh - Funadhoo,Funadhoo,ށ,ށ. ފުނަދޫ,ފުނަދޫ
-93,Sh,Sh - Milandhoo,Milandhoo,ށ,ށ. މިލަންދޫ,މިލަންދޫ
-95,Sh,Sh - Keekimini,Keekimini,ށ,ށ. ކީކިމިނި,ކީކިމިނި
-96,Sh,Sh - Bisalhaahuraa,Bisalhaahuraa,ށ,ށ. ބިސްއަޅާހުރާ,ބިސްއަޅާހުރާ
-97,Sh,Sh - Boduhuraa,Boduhuraa,ށ,ށ. ބޮޑުހުރާ,ބޮޑުހުރާ
-98,Sh,Sh - Bolissafaru,Bolissafaru,ށ,ށ. ބޮލިއްސަރު,ބޮލިއްސަރު
-99,Sh,Sh - Dhigurah,Dhigurah,ށ,ށ. ދިގުރަށް,ދިގުރަށް
-100,Sh,Sh - Dhiguvelidhoo,Dhiguvelidhoo,ށ,ށ. ދިގުވެލިދޫ,ދިގުވެލިދޫ
-101,Sh,Sh - Dholhiyadhoo,Dholhiyadhoo,ށ,ށ. ދޮޅިޔަދޫ,ދޮޅިޔަދޫ
-102,Sh,Sh - Dhonvelihuraa,Dhonvelihuraa,ށ,ށ. ދޮންވެލިހުރާ,ދޮންވެލިހުރާ
-103,Sh,Sh - Dolhiyadhoo Kudarah,Dolhiyadhoo Kudarah,ށ,ށ. ދޮޅިޔަދޫކުޑަރަށް,ދޮޅިޔަދޫކުޑަރަށް
-104,Sh,Sh - Eriadhoo,Eriadhoo,ށ,ށ. އެރިއަދޫ,އެރިއަދޫ
-105,Sh,Sh - Eskasdhoo,Eskasdhoo,ށ,ށ. އެސްކަސްދޫ,އެސްކަސްދޫ
-106,Sh,Sh - Farukolhu,Farukolhu,ށ,ށ. ފަރުކޮޅު,ފަރުކޮޅު
-107,Sh,Sh - Fushifaru,Fushifaru,ށ,ށ. ފުށިފަރު,ފުށިފަރު
-108,Sh,Sh - Gaakoshibee,Gaakoshibee,ށ,ށ. ގާކޮށިބީ,ގާކޮށިބީ
-109,Sh,Sh - Gallaidhoo,Gallaidhoo,ށ,ށ. ގައްލައިދޫ,ގައްލައިދޫ
-111,Sh,Sh - Hirubadhoo,Hirubadhoo,ށ,ށ. ހިނރުބަދޫ,ހިނރުބަދޫ
-112,Sh,Sh - Hurasfaru,Hurasfaru,ށ,ށ. ހުރަސްފަރު,ހުރަސްފަރު
-113,Sh,Sh - Ka'baalifaru,Ka'baalifaru,ށ,ށ. ކަނބާލިފަރު,ކަނބާލިފަރު
-114,Sh,Sh - Kakaaeriadhoo,Kakaaeriadhoo,ށ,ށ. ކަކާއެރިއަދޫ,ކަކާއެރިއަދޫ
-115,Sh,Sh - Kudadhoo,Kudadhoo,ށ,ށ. ކުޑަދޫ,ކުޑަދޫ
-116,Sh,Sh - Kudafarufinolhu,Kudafarufinolhu,ށ,ށ. ކުޑަފަރުފިނޮޅު,ކުޑަފަރުފިނޮޅު
-117,Sh,Sh - Kudafaruhuraa,Kudafaruhuraa,ށ,ށ. ކުޑަފަރުހުރާ,ކުޑަފަރުހުރާ
-119,Sh,Sh - Kudalhaimendhoo,Kudalhaimendhoo,ށ,ށ. ކުޑަޅައިމެންދޫ,ކުޑަޅައިމެންދޫ
-120,Sh,Sh - Madidhoo,Madidhoo,ށ,ށ. މަޑިދޫ,މަޑިދޫ
-121,Sh,Sh - Madikuredhdhoo,Madikuredhdhoo,ށ,ށ. މަޑިކުރެއްދޫ,މަޑިކުރެއްދޫ
-122,Sh,Sh - Mathikomandoo,Mathikomandoo,ށ,ށ. މަތިކޮމަންޑޫ,މަތިކޮމަންޑޫ
-123,Sh,Sh - Medhukuburudhoo,Medhukuburudhoo,ށ,ށ. މެދުކުނބުރުދޫ,މެދުކުނބުރުދޫ
-124,Sh,Sh - Medhurah,Medhurah,ށ,ށ. މެދުރަށް,މެދުރަށް
-125,Sh,Sh - Migoodhoo,Migoodhoo,ށ,ށ. މިގޫދޫ,މިގޫދޫ
-126,Sh,Sh - Muleehuraa,Muleehuraa,ށ,ށ. މުލީހުރާ,މުލީހުރާ
-127,Sh,Sh - Naainfaru,Naainfaru,ށ,ށ. ނާއިންފަރު,ނާއިންފަރު
-128,Sh,Sh - Naalaahuraa,Naalaahuraa,ށ,ށ. ނާލާހުރާ,ނާލާހުރާ
-129,Sh,Sh - Nalandhoo,Nalandhoo,ށ,ށ. ނަލަންދޫ,ނަލަންދޫ
-130,Sh,Sh - Naruribudhoo,Naruribudhoo,ށ,ށ. ނަރުރިނބުދޫ,ނަރުރިނބުދޫ
-131,Sh,Sh - Neyo,Neyo,ށ,ށ. ނެޔޮ,ނެޔޮ
-132,Sh,Sh - Vagaru,Vagaru,ށ,ށ. ވަގަރު,ވަގަރު
-133,N,N - Henbandhoo,Henbandhoo,ނ,ނ. ހެނބަދޫ,ހެނބަދޫ
-134,N,N - Kendhikolhudhoo,Kendhikolhudhoo,ނ,ނ. ކެނދިކޮޅުދޫ,ކެނދިކޮޅުދޫ
-135,N,N - Tholhendhoo,Tholhendhoo,ނ,ނ. ތޮޅެންދޫ,ތޮޅެންދޫ
-136,N,N - Maalhendhoo,Maalhendhoo,ނ,ނ. މާޅެންދޫ,މާޅެންދޫ
-137,N,N - Kudafari,Kudafari,ނ,ނ. ކުޑަފަރީ,ކުޑަފަރީ
-138,N,N - Landhoo,Landhoo,ނ,ނ. ލަންދޫ,ލަންދޫ
-139,N,N - Maafaru,Maafaru,ނ,ނ. މާފަރު,މާފަރު
-140,N,N - Lhohi,Lhohi,ނ,ނ. ޅޮހި,ޅޮހި
-141,N,N - Miladhoo,Miladhoo,ނ,ނ. މިލަދޫ,މިލަދޫ
-142,N,N - Magoodhoo,Magoodhoo,ނ,ނ. މަގޫދޫ,މަގޫދޫ
-143,N,N - Manadhoo,Manadhoo,ނ,ނ. މަނަދޫ,މަނަދޫ
-144,N,N - Holhudhoo,Holhudhoo,ނ,ނ. ހޮޅުދޫ,ހޮޅުދޫ
-145,N,N - Fodhdhoo,Fodhdhoo,ނ,ނ. ފޮއްދޫ,ފޮއްދޫ
-146,N,N - Velidhoo,Velidhoo,ނ,ނ. ވެލިދޫ,ވެލިދޫ
-147,N,N - Aarah,Aarah,ނ,ނ. އާރަށް,އާރަށް
-148,N,N - Badaidhidhdhoo,Badaidhidhdhoo,ނ,ނ. ބަނޑިއްދޫ,ބަނޑިއްދޫ
-149,N,N - Bodufushi,Bodufushi,ނ,ނ. ބޮޑުފުށި,ބޮޑުފުށި
-150,N,N - Bodulhaimendhoo,Bodulhaimendhoo,ނ,ނ. ބޮޑުޅައިމެންދޫ,ބޮޑުޅައިމެންދޫ
-151,N,N - Bomasdhoo,Bomasdhoo,ނ,ނ. ބޮމަސްދޫ,ބޮމަސްދޫ
-152,N,N - Burehifasdhoo,Burehifasdhoo,ނ,ނ. ބުރެހިފަސްދޫ,ބުރެހިފަސްދޫ
-153,N,N - Dheefuram,Dheefuram,ނ,ނ. ދީފުރަމް,ދީފުރަމް
-154,N,N - Dhekenanfaru,Dhekenanfaru,ނ,ނ. ދެކެނަންފަރު,ދެކެނަންފަރު
-155,N,N - Dhigurah,Dhigurah,ނ,ނ. ދިގުރަށް,ދިގުރަށް
-156,N,N - Dhonaerikandoodhoo,Dhonaerikandoodhoo,ނ,ނ. ދޮނައެރިކަންދޫދޫ,ދޮނައެރިކަންދޫދޫ
-157,N,N - Edhdhuffaru Mairah,Edhdhuffaru Mairah,ނ,ނ. އެއްދުފަރު މައިރަށް,އެއްދުފަރު މައިރަށް
-158,N,N - Ekulhivaru,Ekulhivaru,ނ,ނ. އެކުޅިވަރު,އެކުޅިވަރު
-160,N,N - Farumuli,Farumuli,ނ,ނ. ފަރުމުލި,ފަރުމުލި
-161,N,N - Felivaru,Felivaru,ނ,ނ. ފެލިވަރު,ފެލިވަރު
-162,N,N - Felivarukudarah,Felivarukudarah,ނ,ނ. ފެލިވަރުކުޑަރަށް,ފެލިވަރުކުޑަރަށް
-163,N,N - Fohdhipparu,Fohdhipparu,ނ,ނ. ފޮށްދިއްޕަރު,ފޮށްދިއްޕަރު
-164,N,N - Fushivelavaru,Fushivelavaru,ނ,ނ. ފުށިވެލަވަރު,ފުށިވެލަވަރު
-165,N,N - Goabilivaadhoo,Goabilivaadhoo,ނ,ނ. ގޯނބިލިވާދޫ,ގޯނބިލިވާދޫ
-166,N,N - Holhumeedhoo,Holhumeedhoo,ނ,ނ. ހޮޅުމީދޫ,ހޮޅުމީދޫ
-167,N,N - Huivani,Huivani,ނ,ނ. ހުއިވަނި,ހުއިވަނި
-168,N,N - Hulhudhdhoo,Hulhudhdhoo,ނ,ނ. ހުޅުއްދޫ,ހުޅުއްދޫ
-169,N,N - Huvadhumaavattaru,Huvadhumaavattaru,ނ,ނ. ހުވަނދުމާވައްޓަރު,ހުވަނދުމާވައްޓަރު
-170,N,N - Inguraidhoo,Inguraidhoo,ނ,ނ. އިނގުރައިދޫ,އިނގުރައިދޫ
-171,N,N - Kaalhugemendhoo,Kaalhugemendhoo,ނ,ނ. ކާޅުގެމެންދޫ,ކާޅުގެމެންދޫ
-172,N,N - Kadinmaahuraa,Kadinmaahuraa,ނ,ނ. ކަނޑިމާހުރާ,ކަނޑިމާހުރާ
-173,N,N - Kafakomandoo,Kafakomandoo,ނ,ނ. ކަފަކޮމަންޑޫ,ކަފަކޮމަންޑޫ
-174,N,N - Kalaidhoo,Kalaidhoo,ނ,ނ. ކަލައިދޫ,ކަލައިދޫ
-175,N,N - Karinma,Karinma,ނ,ނ. ކަރިންމާ,ކަރިންމާ
-176,N,N - Karinmavattaru,Karinmavattaru,ނ,ނ. ކަރިންމަވައްޓަރު,ކަރިންމަވައްޓަރު
-177,N,N - Kedhivaru,Kedhivaru,ނ,ނ. ކެނދިވަރު,ކެނދިވަރު
-178,N,N - Kolhufushi,Kolhufushi,ނ,ނ. ކޮޅުފުށި,ކޮޅުފުށި
-179,N,N - Kudafunafaru,Kudafunafaru,ނ,ނ. ކުޑަފުނަފަރު,ކުޑަފުނަފަރު
-180,N,N - Kudafushi,Kudafushi,ނ,ނ. ކުޑަފުށި,ކުޑަފުށި
-181,N,N - Kunnumalei,Kunnumalei,ނ,ނ. ކުންނުމަލެއި,ކުންނުމަލެއި
-182,N,N - Kuramaadhoo,Kuramaadhoo,ނ,ނ. ކުރަނމާދޫ,ކުރަނމާދޫ
-183,N,N - Kuredhivaru,Kuredhivaru,ނ,ނ. ކުރެދިވަރު,ކުރެދިވަރު
-184,N,N - Loafaru,Loafaru,ނ,ނ. ލޯފަރު,ލޯފަރު
-185,N,N - Maafunafaru,Maafunafaru,ނ,ނ. މާފުނަފަރު,މާފުނަފަރު
-186,N,N - Maakanaafushi,Maakanaafushi,ނ,ނ. މާކަނާފުށި,މާކަނާފުށި
-187,N,N - Maakurandhoo,Maakurandhoo,ނ,ނ. މާކުރަންދޫ,މާކުރަންދޫ
-188,N,N - Maavandhoo,Maavandhoo,ނ,ނ. މާވަންދޫ,މާވަންދޫ
-189,N,N - Maavelavaru,Maavelavaru,ނ,ނ. މާވެލަވަރު,މާވެލަވަރު
-190,N,N - Medhafushi,Medhafushi,ނ,ނ. މެދަފުށި,މެދަފުށި
-191,N,N - Medhufaru,Medhufaru,ނ,ނ. މެދުފަރު,މެދުފަރު
-192,N,N - Minaavaru,Minaavaru,ނ,ނ. މިނާވަރު,މިނާވަރު
-193,N,N - Orimasvaru,Orimasvaru,ނ,ނ. އޮރިމަސްވަރު,އޮރިމަސްވަރު
-194,N,N - Orivaru,Orivaru,ނ,ނ. އޮރިވަރު,އޮރިވަރު
-195,N,N - Orivarukudarah,Orivarukudarah,ނ,ނ. އޮރިވަރުކުޑަރަށް,އޮރިވަރުކުޑަރަށް
-196,N,N - Raafushi,Raafushi,ނ,ނ. ރާފުށި,ރާފުށި
-198,N,N - Raalhulaakolhu,Raalhulaakolhu,ނ,ނ. ރާޅުލާކޮޅު,ރާޅުލާކޮޅު
-199,N,N - Randheli,Randheli,ނ,ނ. ރަންދެލި,ރަންދެލި
-200,N,N - Thaburudhoo,Thaburudhoo,ނ,ނ. ތަނބުރުދޫ,ތަނބުރުދޫ
-201,N,N - Thaburudhuffushi,Thaburudhuffushi,ނ,ނ. ތަނބުރުދުއްފުށި,ތަނބުރުދުއްފުށި
-202,N,N - Tholhendhoo,Tholhendhoo,ނ,ނ. ތޮޅެންދޫ,ތޮޅެންދޫ
-203,N,N - Thoshigandukolhu,Thoshigandukolhu,ނ,ނ. ތޮށިގަނޑުކޮޅު,ތޮށިގަނޑުކޮޅު
-204,N,N - Vavathi,Vavathi,ނ,ނ. ވަވަތި,ވަވަތި
-205,N,N - Vihafaru,Vihafaru,ނ,ނ. ވިހަފަރު,ވިހަފަރު
-206,N,N - Vihafarufinolhu,Vihafarufinolhu,ނ,ނ. ވިހަފަރުފިނޮޅު,ވިހަފަރުފިނޮޅު
-207,R,R - Alifushi,Alifushi,ރ,ރ. އަލިފުށި,އަލިފުށި
-208,R,R - Vaadhoo,Vaadhoo,ރ,ރ. ވާދޫ,ވާދޫ
-209,R,R - Rasgetheemu,Rasgetheemu,ރ,ރ. ރަސްގެތީމު,ރަސްގެތީމު
-210,R,R - Angolhitheemu,Angolhitheemu,ރ,ރ. އަނގޮޅިތީމު,އަނގޮޅިތީމު
-211,R,R - Gaaudoodhoo,Gaaudoodhoo,ރ,ރ. ގާއުނޑޫދޫ,ގާއުނޑޫދޫ
-212,R,R - Ungoofaaru,Ungoofaaru,ރ,ރ. އުނގޫފާރު,އުނގޫފާރު
-213,R,R - Kadholhudhoo,Kadholhudhoo,ރ,ރ. ކަނދޮޅުދޫ,ކަނދޮޅުދޫ
-214,R,R - Maakurathu,Maakurathu,ރ,ރ. މާކުރަތު,މާކުރަތު
-215,R,R - Rasmaadhoo,Rasmaadhoo,ރ,ރ. ރަސްމާދޫ,ރަސްމާދޫ
-216,R,R - Innamaadhoo,Innamaadhoo,ރ,ރ. އިންނަމާދޫ,އިންނަމާދޫ
-217,R,R - Maduvvari,Maduvvari,ރ,ރ. މަޑުއްވަރީ,މަޑުއްވަރީ
-218,R,R - Inguraidhoo,Inguraidhoo,ރ,ރ. އިނގުރައިދޫ,އިނގުރައިދޫ
-219,R,R - Fainu,Fainu,ރ,ރ. ފައިނު,ފައިނު
-220,R,R - Meedhoo,Meedhoo,ރ,ރ. މީދޫ,މީދޫ
-221,R,R - Kinolhas,Kinolhas,ރ,ރ. ކިނޮޅަސް,ކިނޮޅަސް
-222,R,R - Hulhudhuffaaru,Hulhudhuffaaru,ރ,ރ. ހުޅުދުއްފާރު,ހުޅުދުއްފާރު
-223,R,R - Ifuru,Ifuru,ރ,ރ. އިފުރު,އިފުރު
-224,R,R - Meedhupparu,Meedhupparu,ރ,ރ. މީދުއްޕަރު,މީދުއްޕަރު
-225,R,R - Aarah,Aarah,ރ,ރ. އާރަށް,އާރަށް
-226,R,R - Angaagiri,Angaagiri,ރ,ރ. އަންގާގިރި,އަންގާގިރި
-227,R,R - Arilundhoo,Arilundhoo,ރ,ރ. އަރިލުންދޫ,އަރިލުންދޫ
-228,R,R - Badaveri,Badaveri,ރ,ރ. ބަނޑަވެރި,ބަނޑަވެރި
-229,R,R - Bodufarufinolhu,Bodufarufinolhu,ރ,ރ. ބޮޑުފަރުފިނޮޅު,ބޮޑުފަރުފިނޮޅު
-230,R,R - Bodufenmaaembudhoo,Bodufenmaaembudhoo,ރ,ރ. ބޮޑުފެންމާއެނބޫދޫ,ބޮޑުފެންމާއެނބޫދޫ
-231,R,R - Bodufushi,Bodufushi,ރ,ރ. ބޮޑުފުށި,ބޮޑުފުށި
-232,R,R - Boduhuraa,Boduhuraa,ރ,ރ. ބޮޑުހުރާ,ބޮޑުހުރާ
-233,R,R - Dheburidheythereyvaadhoo,Dheburidheythereyvaadhoo,ރ,ރ. ދެބުރިދޭތެރޭވާދޫ,ދެބުރިދޭތެރޭވާދޫ
-234,R,R - Dhekunumaafaru,Dhekunumaafaru,ރ,ރ. ދެކުނުމާފަރު,ދެކުނުމާފަރު
-235,R,R - Dhigali,Dhigali,ރ,ރ. ދިގަލި,ދިގަލި
-236,R,R - Dhikkuredhdhoo,Dhikkuredhdhoo,ރ,ރ. ދިއްކުރެއްދޫ,ދިއްކުރެއްދޫ
-237,R,R - Dhinnaafushi,Dhinnaafushi,ރ,ރ. ދިންނާފުށި,ދިންނާފުށި
-238,R,R - Dhoragali,Dhoragali,ރ,ރ. ދޮރަނގަލި,ދޮރަނގަލި
-239,R,R - Dhuvaafaru,Dhuvaafaru,ރ,ރ. ދުވާފަރު,ދުވާފަރު
-240,R,R - Dhuvaafaruhuraa,Dhuvaafaruhuraa,ރ,ރ. ދުވާފަރުހުރާ,ދުވާފަރުހުރާ
-241,R,R - Ehthigandujehihuraa,Ehthigandujehihuraa,ރ,ރ. އެތިގަނޑުޖެހިހުރާ,އެތިގަނޑުޖެހިހުރާ
-242,R,R - Ehthigili,Ehthigili,ރ,ރ. އެއްތިގިނލި,އެއްތިގިނލި
-243,R,R - Ekurufushifinolhu,Ekurufushifinolhu,ރ,ރ. އެކުރުފުށިފިނޮޅު,އެކުރުފުށިފިނޮޅު
-244,R,R - Faarufushi,Faarufushi,ރ,ރ. ފާރުފުށި,ފާރުފުށި
-245,R,R - Fasgandufaru,Fasgandufaru,ރ,ރ. ފަސްގަނޑުފަރު,ފަސްގަނޑުފަރު
-246,R,R - Fasmendhoo,Fasmendhoo,ރ,ރ. ފަސްމެންދޫ,ފަސްމެންދޫ
-247,R,R - Fenfushi,Fenfushi,ރ,ރ. ފެންފުށި,ފެންފުށި
-248,R,R - Filaidhoo,Filaidhoo,ރ,ރ. ފިލައިދޫ,ފިލައިދޫ
-249,R,R - Fuggiri,Fuggiri,ރ,ރ. ފުއްގިރި,ފުއްގިރި
-250,R,R - Furaveri,Furaveri,ރ,ރ. ފުރަވެރި,ފުރަވެރި
-251,R,R - Gaaudoodhoo,Gaaudoodhoo,ރ,ރ. ގާއުނޑޫދޫ,ގާއުނޑޫދޫ
-253,R,R - Giraavaaru,Giraavaaru,ރ,ރ. ގިރާވަރު,ގިރާވަރު
-254,R,R - Goiymaru,Goiymaru,ރ,ރ. ގޮތްމަރު,ގޮތްމަރު
-255,R,R - Goyyafaru,Goyyafaru,ރ,ރ. ގޮތްޔަފަރު,ގޮތްޔަފަރު
-256,R,R - Gubolhi,Gubolhi,ރ,ރ. ގުނބޮޅި,ގުނބޮޅި
-257,R,R - Bodu Haiykodi,Bodu Haiykodi,ރ,ރ. ބޮޑުހަތްކޮޑި,ބޮޑުހަތްކޮޑި
-258,R,R - Hiboodhoo,Hiboodhoo,ރ,ރ. ހިނބޫދޫ,ހިނބޫދޫ
-259,R,R - Hiraveri,Hiraveri,ރ,ރ. ހިރަވެރި,ހިރަވެރި
-260,R,R - Hulhudhoo,Hulhudhoo,ރ,ރ. ހުޅުދޫ,ހުޅުދޫ
-261,R,R - Huruvalhi,Huruvalhi,ރ,ރ. ހުރުވަޅި,ހުރުވަޅި
-262,R,R - Kadoogadu,Kadoogadu,ރ,ރ. ކަޑޫގަނޑު,ކަޑޫގަނޑު
-263,R,R - Kandhoomeehunge lhaabugali,Kandhoomeehunge lhaabugali,ރ,ރ. ކަންދޫމީހުންގެޅާބުގަލި,ކަންދޫމީހުންގެޅާބުގަލި
-264,R,R - Kothaafaru,Kothaafaru,ރ,ރ. ކޮތާފަރު,ކޮތާފަރު
-265,R,R - Kottefaru,Kottefaru,ރ,ރ. ކޮށްޓެފަރު,ކޮށްޓެފަރު
-266,R,R - Kudafenmaaembudhoo,Kudafenmaaembudhoo,ރ,ރ. ކުޑަފެންމާއެނބޫދޫ,ކުޑަފެންމާއެނބޫދޫ
-267,R,R - Kudafushi,Kudafushi,ރ,ރ. ކުޑަފުށި,ކުޑަފުށި
-268,R,R - Kudakurathu,Kudakurathu,ރ,ރ. ކުޑަކުރަތު,ކުޑަކުރަތު
-269,R,R - Kudalhosgiri,Kudalhosgiri,ރ,ރ. ކުޑަޅޮސްގިރި,ކުޑަޅޮސްގިރި
-270,R,R - Kudathulhaadhoo,Kudathulhaadhoo,ރ,ރ. ކުޑަތުޅާދޫ,ކުޑަތުޅާދޫ
-271,R,R - Kukulhudhoo,Kukulhudhoo,ރ,ރ. ކުކުޅުދޫ,ކުކުޅުދޫ
-272,R,R - Kuredhdhoo,Kuredhdhoo,ރ,ރ. ކުރެއްދޫ,ކުރެއްދޫ
-273,R,R - Kuroshigiri,Kuroshigiri,ރ,ރ. ކުރޮށިގިރި,ކުރޮށިގިރި
-274,R,R - Lhaabugali,Lhaabugali,ރ,ރ. ޅާނބުގަލި,ޅާނބުގަލި
-275,R,R - Lhohi,Lhohi,ރ,ރ. ޅޮހި,ޅޮހި
-276,R,R - Liboakandhoo,Liboakandhoo,ރ,ރ. ލިބޯކަންދޫ,ލިބޯކަންދޫ
-277,R,R - Lundhufushi,Lundhufushi,ރ,ރ. ލުންދުފުށި,ލުންދުފުށި
-278,R,R - Maamingili,Maamingili,ރ,ރ. މާމިނގިލި,މާމިނގިލި
-279,R,R - Maamunagau,Maamunagau,ރ,ރ. މާމުނަގައު,މާމުނަގައު
-280,R,R - Maamunagaufinolhu,Maamunagaufinolhu,ރ,ރ. މާމުނަގައުފިނޮޅު,މާމުނަގައުފިނޮޅު
-281,R,R - Maanenfushi,Maanenfushi,ރ,ރ. މާމެންފުށި,މާމެންފުށި
-282,R,R - Maashigiri,Maashigiri,ރ,ރ. މާށިގިރި,މާށިގިރި
-283,R,R - Madivaafaru,Madivaafaru,ރ,ރ. މަޑިވާފަރު,މަޑިވާފަރު
-284,R,R - Mahidhoo,Mahidhoo,ރ,ރ. މަހިދޫ,މަހިދޫ
-285,R,R - Meedhupparu,Meedhupparu,ރ,ރ. މީދުއްޕަރު,މީދުއްޕަރު
-287,R,R - Mullaafushi,Mullaafushi,ރ,ރ. މުއްލާފުށި,މުއްލާފުށި
-288,R,R - Muravandhoo,Muravandhoo,ރ,ރ. މުރަވަންދޫ,މުރަވަންދޫ
-289,R,R - Neyo,Neyo,ރ,ރ. ނެޔޮ,ނެޔޮ
-291,R,R - Thaavathaa,Thaavathaa,ރ,ރ. ތާވަތާ,ތާވަތާ
-292,R,R - Ufulandhoo,Ufulandhoo,ރ,ރ. އުފުލަންދޫ,އުފުލަންދޫ
-293,R,R - Ugulu,Ugulu,ރ,ރ. އުނގުލު,އުނގުލު
-294,R,R - Uthurumaafaru,Uthurumaafaru,ރ,ރ. އުތުރުމާފަރު,އުތުރުމާފަރު
-295,R,R - Vaffushihuraa,Vaffushihuraa,ރ,ރ. ވަށްފުށިހުރާ,ވަށްފުށިހުރާ
-296,R,R - Vahfushi,Vahfushi,ރ,ރ. ވަށްފުށި,ވަށްފުށި
-297,R,R - Vandhoo,Vandhoo,ރ,ރ. ވަންދޫ,ވަންދޫ
-298,R,R - Veyveh,Veyveh,ރ,ރ. ވޭވަށް,ވޭވަށް
-299,R,R - Villingili,Villingili,ރ,ރ. ވިލިނގިލި,ވިލިނގިލި
-300,B,B - Kudarikilu,Kudarikilu,ބ,ބ. ކުޑަރިކިލު,ކުޑަރިކިލު
-301,B,B - Kamadhoo,Kamadhoo,ބ,ބ. ކަމަދޫ,ކަމަދޫ
-302,B,B - Kendhoo,Kendhoo,ބ,ބ. ކެންދޫ,ކެންދޫ
-303,B,B - Maaddoo,Maaddoo,ބ,ބ. މާއްޑޫ,މާއްޑޫ
-305,B,B - Kihaadhoo,Kihaadhoo,ބ,ބ. ކިހާދޫ,ކިހާދޫ
-306,B,B - Dhonfanu,Dhonfanu,ބ,ބ. ދޮންފަނު,ދޮންފަނު
-307,B,B - Dharavandhoo,Dharavandhoo,ބ,ބ. ދަރަވަންދޫ,ދަރަވަންދޫ
-308,B,B - Maalhos,Maalhos,ބ,ބ. މާޅޮސް,މާޅޮސް
-309,B,B - Eydhafushi,Eydhafushi,ބ,ބ. އޭދަފުށި,އޭދަފުށި
-310,B,B - Funadhoo,Funadhoo,ބ,ބ. ފުނަދޫ,ފުނަދޫ
-311,B,B - Thulhaadhoo,Thulhaadhoo,ބ,ބ. ތުޅާދޫ,ތުޅާދޫ
-312,B,B - Hithaadhoo,Hithaadhoo,ބ,ބ. ހިތާދޫ,ހިތާދޫ
-313,B,B - Fulhadhoo,Fulhadhoo,ބ,ބ. ފުޅަދޫ,ފުޅަދޫ
-314,B,B - Fehendhoo,Fehendhoo,ބ,ބ. ފެހެންދޫ,ފެހެންދޫ
-315,B,B - Goidhoo,Goidhoo,ބ,ބ. ގޮއިދޫ,ގޮއިދޫ
-316,B,B - Landaagiraavaru,Landaagiraavaru,ބ,ބ. ލަނޑާގިރާވަރު,ލަނޑާގިރާވަރު
-317,B,B - Dhunikolhu,Dhunikolhu,ބ,ބ. ދުނިކޮޅު,ދުނިކޮޅު
-318,B,B - Kihaadhuffaru,Kihaadhuffaru,ބ,ބ. ކިހާދުއްފަރު,ކިހާދުއްފަރު
-319,B,B - Fonimagoodhoo,Fonimagoodhoo,ބ,ބ. ފޮނިމަގޫދޫ,ފޮނިމަގޫދޫ
-320,B,B - Kunfunadhoo,Kunfunadhoo,ބ,ބ. ކުންފުނަދޫ,ކުންފުނަދޫ
-321,B,B - Horubadhoo,Horubadhoo,ބ,ބ. ހޮރުބަނދޫ,ހޮރުބަނދޫ
-322,B,B - Ahivahfushi,Ahivahfushi,ބ,ބ. އަހިވަށްފުށި,އަހިވަށްފުށި
-323,B,B - Aidhoo,Aidhoo,ބ,ބ. އައިދޫ,އައިދޫ
-324,B,B - Anhenunfushi,Anhenunfushi,ބ,ބ. އަންހެންފުށި,އަންހެންފުށި
-326,B,B - Bathalaa,Bathalaa,ބ,ބ. ބަތަލާ,ބަތަލާ
-327,B,B - Bathalaahuraa,Bathalaahuraa,ބ,ބ. ބަތަލާހުރާ,ބަތަލާހުރާ
-328,B,B - Boadhaafusheefinolhu,Boadhaafusheefinolhu,ބ,ބ. ބޯދާފުށީފިނޮޅު,ބޯދާފުށީފިނޮޅު
-329,B,B - Bodufinolhu,Bodufinolhu,ބ,ބ. ބޮޑުފިނޮޅު,ބޮޑުފިނޮޅު
-330,B,B - Boifushi,Boifushi,ބ,ބ. ބޮތްފުށި,ބޮތްފުށި
-331,B,B - Dhakandhoo,Dhakandhoo,ބ,ބ. ދަކަނދޫ,ދަކަނދޫ
-332,B,B - Dhandhoo,Dhandhoo,ބ,ބ. ދަންދޫ,ދަންދޫ
-333,B,B - Dhigudhefaru,Dhigudhefaru,ބ,ބ. ދިގުދެފަރު,ދިގުދެފަރު
-334,B,B - Dhigufaruvinagandu,Dhigufaruvinagandu,ބ,ބ. ދިގުފަރުވިނަގަނޑު,ދިގުފަރުވިނަގަނޑު
-335,B,B - Dhoogandufinolhu,Dhoogandufinolhu,ބ,ބ. ދޫގަނޑުފިނޮޅު,ދޫގަނޑުފިނޮޅު
-336,B,B - Embudhoo,Embudhoo,ބ,ބ. އެނބޫދޫ,އެނބޫދޫ
-337,B,B - Fareedhaafinolhu,Fareedhaafinolhu,ބ,ބ. ފަރީދާފިނޮޅު,ފަރީދާފިނޮޅު
-338,B,B - Fares,Fares,ބ,ބ. ފަރެސް,ފަރެސް
-339,B,B - Fehenfaru,Fehenfaru,ބ,ބ. ފެހެންފަރު,ފެހެންފަރު
-340,B,B - Finolhas,Finolhas,ބ,ބ. ފިނޮޅަސް,ފިނޮޅަސް
-341,B,B - Funadhoo,Funadhoo,ބ,ބ. ފުނަދޫ,ފުނަދޫ
-342,B,B - Gaagadufaruhuraa,Gaagadufaruhuraa,ބ,ބ. ގާގަނޑުފަރުހުރާ,ގާގަނޑުފަރުހުރާ
-343,B,B - Gaaviligili,Gaaviligili,ބ,ބ. ގާވިލިނގިލި,ގާވިލިނގިލި
-344,B,B - Gemendhoo,Gemendhoo,ބ,ބ. ގެމެންދޫ,ގެމެންދޫ
-345,B,B - Hanifaru,Hanifaru,ބ,ބ. ހަނިފަރު,ހަނިފަރު
-346,B,B - Hibalhidhoo,Hibalhidhoo,ބ,ބ. ހިބަޅިދޫ,ހިބަޅިދޫ
-347,B,B - Hirundhoo,Hirundhoo,ބ,ބ. ހިރުނދޫ,ހިރުނދޫ
-348,B,B - Hulhudhoo,Hulhudhoo,ބ,ބ. ހުޅުދޫ,ހުޅުދޫ
-349,B,B - Innafushi,Innafushi,ބ,ބ. އިންނަފުށި,އިންނަފުށި
-351,B,B - Kanufusheegaathufinolhu,Kanufusheegaathufinolhu,ބ,ބ. ކަނުފުށީގާތުފިނޮޅު,ކަނުފުށީގާތުފިނޮޅު
-352,B,B - Kanufushi,Kanufushi,ބ,ބ. ކަނުފުށި,ކަނުފުށި
-353,B,B - Kashidhoo,Kashidhoo,ބ,ބ. ކަށިދޫ,ކަށިދޫ
-354,B,B - Kashidhuhfarufinolhu,Kashidhuhfarufinolhu,ބ,ބ. ކަށިދުއްފަރުފިނޮޅު,ކަށިދުއްފަރުފިނޮޅު
-355,B,B - Keyodhoo,Keyodhoo,ބ,ބ. ކެޔޮދޫ,ކެޔޮދޫ
-356,B,B - Kihavah Haruvalhi,Kihavah Haruvalhi,ބ,ބ. ކިހައްވަށްހަރުވަޅި,ކިހައްވަށްހަރުވަޅި
-357,B,B - Kudadhoo,Kudadhoo,ބ,ބ. ކުޑަދޫ,ކުޑަދޫ
-358,B,B - Maaddoo,Maaddoo,ބ,ބ. މާއްޑޫ,މާއްޑޫ
-359,B,B - Maaddoohulhudhoo,Maaddoohulhudhoo,ބ,ބ. މާއްޑޫހުޅުދޫ,މާއްޑޫހުޅުދޫ
-360,B,B - Maafusheefinolhu,Maafusheefinolhu,ބ,ބ. މާފުށީފިނޮޅު,މާފުށީފިނޮޅު
-361,B,B - Maamaduvvaree,Maamaduvvaree,ބ,ބ. މާމަޑުއްވަރީ,މާމަޑުއްވަރީ
-362,B,B - Maarikili,Maarikili,ބ,ބ. މާރިކިލި,މާރިކިލި
-363,B,B - Madhirivaadhoo,Madhirivaadhoo,ބ,ބ. މާދިރިވާދޫ,މާދިރިވާދޫ
-364,B,B - Medhufinolhu,Medhufinolhu,ބ,ބ. މެދުފިނޮޅު,މެދުފިނޮޅު
-366,B,B - Mendhoo,Mendhoo,ބ,ބ. މެންދޫ,މެންދޫ
-367,B,B - Milaidhoo,Milaidhoo,ބ,ބ. މިލައިދޫ,މިލައިދޫ
-368,B,B - Miriandhoo,Miriandhoo,ބ,ބ. މިރިއަންދޫ,މިރިއަންދޫ
-369,B,B - Mudhdhoo,Mudhdhoo,ބ,ބ. މުއްދޫ,މުއްދޫ
-370,B,B - Muthaafushi,Muthaafushi,ބ,ބ. މުތާފުށި,މުތާފުށި
-371,B,B - Nelivarufinolhu,Nelivarufinolhu,ބ,ބ. ނެލިވަރުފިނޮޅު,ނެލިވަރުފިނޮޅު
-372,B,B - Nibiligaa,Nibiligaa,ބ,ބ. ނިބިލިގާ,ނިބިލިގާ
-373,B,B - Olhugiri,Olhugiri,ބ,ބ. އޮޅުގިރި,އޮޅުގިރި
-374,B,B - Fulhadhoo rahkairi finolhu ,Fulhadhoo rahkairi finolhu ,ބ,ބ. ފުޅަދޫ ރަށްކައިރި ފިނޮޅު,ފުޅަދޫ ރަށްކައިރި ފިނޮޅު
-375,B,B - Thiladhoo,Thiladhoo,ބ,ބ. ތިލަދޫ,ތިލަދޫ
-376,B,B - Udoodhoo,Udoodhoo,ބ,ބ. އުނޑޫދޫ,އުނޑޫދޫ
-377,B,B - Ufuligiri,Ufuligiri,ބ,ބ. އުފުލިގިރި,އުފުލިގިރި
-378,B,B - Vakkaru,Vakkaru,ބ,ބ. ވައްކަރު,ވައްކަރު
-379,B,B - Veyofushi,Veyofushi,ބ,ބ. ވެޔޮފުށި,ވެޔޮފުށި
-380,B,B - Vinaneiyfaruhuraa,Vinaneiyfaruhuraa,ބ,ބ. ވިނަނެތްފަރުހުރާ,ވިނަނެތްފަރުހުރާ
-381,B,B - Voavah,Voavah,ބ,ބ. ވޯވައް,ވޯވައް
-382,Lh,Lh - Hinnavaru,Hinnavaru,ޅ,ޅ. ހިންނަވަރު,ހިންނަވަރު
-383,Lh,Lh - Naifaru,Naifaru,ޅ,ޅ. ނައިފަރު,ނައިފަރު
-384,Lh,Lh - Kurendhoo,Kurendhoo,ޅ,ޅ. ކުރެންދޫ,ކުރެންދޫ
-385,Lh,Lh - Olhuvelifushi,Olhuvelifushi,ޅ,ޅ. އޮޅުވެލިފުށި,އޮޅުވެލިފުށި
-386,Lh,Lh - Maafilaafushi,Maafilaafushi,ޅ,ޅ. މާފިލާފުށި,މާފިލާފުށި
-387,Lh,Lh - Felivaru,Felivaru,ޅ,ޅ. ފެލިވަރު,ފެލިވަރު
-388,Lh,Lh - Kanuhuraa,Kanuhuraa,ޅ,ޅ. ކަނުހުރާ,ކަނުހުރާ
-389,Lh,Lh - Komandoo,Komandoo,ޅ,ޅ. ކޮމަންޑޫ,ކޮމަންޑޫ
-390,Lh,Lh - Kuredhdhoo,Kuredhdhoo,ޅ,ޅ. ކުރެއްދޫ,ކުރެއްދޫ
-391,Lh,Lh - Madhiriguraidhoo,Madhiriguraidhoo,ޅ,ޅ. މަދިރިގުރައިދޫ,މަދިރިގުރައިދޫ
-392,Lh,Lh - Alhigaa,Alhigaa,ޅ,ޅ. އަޅިގާ,އަޅިގާ
-393,Lh,Lh - Bodufinolhu,Bodufinolhu,ޅ,ޅ. ބޮޑުފިނޮޅު,ބޮޑުފިނޮޅު
-394,Lh,Lh - Bovalhafushi,Bovalhafushi,ޅ,ޅ. ބޮވަޅަފުށި,ބޮވަޅަފުށި
-395,Lh,Lh - Dhashugirifinolhu,Dhashugirifinolhu,ޅ,ޅ. ދަށުގިރިފިނޮޅު,ދަށުގިރިފިނޮޅު
-396,Lh,Lh - Dheruhfinolhu,Dheruhfinolhu,ޅ,ޅ. ދެރުއްފިނޮޅު,ދެރުއްފިނޮޅު
-397,Lh,Lh - Dhidhdhoo,Dhidhdhoo,ޅ,ޅ. ދިއްދޫ,ދިއްދޫ
-398,Lh,Lh - Dhirunbaafushi,Dhirunbaafushi,ޅ,ޅ. ދިރުނބާފުށި,ދިރުނބާފުށި
-399,Lh,Lh - Faadhoo,Faadhoo,ޅ,ޅ. ފާދޫ,ފާދޫ
-400,Lh,Lh - Fainuaadhamhuraa,Fainuaadhamhuraa,ޅ,ޅ. ފައިނުއާދަމްހުރާ,ފައިނުއާދަމްހުރާ
-402,Lh,Lh - Fehigili,Fehigili,ޅ,ޅ. ފެހިގިލި,ފެހިގިލި
-403,Lh,Lh - Fushifaru,Fushifaru,ޅ,ޅ. ފުށިފަރު,ފުށިފަރު
-404,Lh,Lh - Gaaerifaru,Gaaerifaru,ޅ,ޅ. ގާއެރިފަރު,ގާއެރިފަރު
-406,Lh,Lh - Hudhufushi,Hudhufushi,ޅ,ޅ. ހުދުފުށި,ހުދުފުށި
-407,Lh,Lh - Huruvalhi,Huruvalhi,ޅ,ޅ. ހަރުވަޅި,ހަރުވަޅި
-408,Lh,Lh - Innahuraa,Innahuraa,ޅ,ޅ. އިންނަހުރާ,އިންނަހުރާ
-409,Lh,Lh - Kalhumanjehuraa,Kalhumanjehuraa,ޅ,ޅ. ކަޅުމަންޖެހުރާ,ކަޅުމަންޖެހުރާ
-410,Lh,Lh - Kanifushi,Kanifushi,ޅ,ޅ. ކަނިފުށި,ކަނިފުށި
-411,Lh,Lh - Lhohi,Lhohi,ޅ,ޅ. ޅޮހި,ޅޮހި
-412,Lh,Lh - Lhosalafushi,Lhosalafushi,ޅ,ޅ. ޅޮސަލަފުށި,ޅޮސަލަފުށި
-413,Lh,Lh - Maakoa,Maakoa,ޅ,ޅ. މާކޮއެ,މާކޮއެ
-414,Lh,Lh - Maavaafushi,Maavaafushi,ޅ,ޅ. މާވާފުށި,މާވާފުށި
-415,Lh,Lh - Maabinhuraa,Maabinhuraa,ޅ,ޅ. މާބިންހުރާ,މާބިންހުރާ
-416,Lh,Lh - Madivaru,Madivaru,ޅ,ޅ. މަޑިވަރު,މަޑިވަރު
-417,Lh,Lh - Maduvvari,Maduvvari,ޅ,ޅ. މަޑުއްވަރީ,މަޑުއްވަރީ
-418,Lh,Lh - Maidhoo,Maidhoo,ޅ,ޅ. މައިދޫ,މައިދޫ
-419,Lh,Lh - Medhaadihuraa,Medhaadihuraa,ޅ,ޅ. މެދާޑިހުރާ,މެދާޑިހުރާ
-420,Lh,Lh - Medhafushi,Medhafushi,ޅ,ޅ. މެދަފުށި,މެދަފުށި
-421,Lh,Lh - Meedhaahuraa,Meedhaahuraa,ޅ,ޅ. މީދާހުރާ,މީދާހުރާ
-422,Lh,Lh - Meyafushi,Meyafushi,ޅ,ޅ. މެޔަފުށި,މެޔަފުށި
-423,Lh,Lh - Ookolhufinolhu,Ookolhufinolhu,ޅ,ޅ. އޫކޮޅުފިނޮޅު,އޫކޮޅުފިނޮޅު
-425,Lh,Lh - Thilamaafushi,Thilamaafushi,ޅ,ޅ. ތިލަމާފުށި,ތިލަމާފުށި
-426,Lh,Lh - Uthuruhuraa,Uthuruhuraa,ޅ,ޅ. އުތުރުހުރާ,އުތުރުހުރާ
-427,Lh,Lh - Varihuraa,Varihuraa,ޅ,ޅ. ވަރިހުރާ,ވަރިހުރާ
-428,Lh,Lh - Vavvaru,Vavvaru,ޅ,ޅ. ވަށްވަރު,ވަށްވަރު
-429,Lh,Lh - Vejvah,Vejvah,ޅ,ޅ. ވެޖްވަށް,ވެޖްވަށް
-430,Lh,Lh - Veligandu,Veligandu,ޅ,ޅ. ވެލިގަނޑު,ވެލިގަނޑު
-431,Lh,Lh - Vihafaru,Vihafaru,ޅ,ޅ. ވިހަފަރު,ވިހަފަރު
-432,K,K - Male',Male',ކ,ކ. މާލެ,މާލެ
-433,K,K - Villingili,Villingili,ކ,ކ. ވިލިނގިލި,ވިލިނގިލި
-434,K,K - Hulhumale',Hulhumale',ކ,ކ. ހުޅުމާލެ,ހުޅުމާލެ
-435,K,K - Kaashidhoo,Kaashidhoo,ކ,ކ. ކާށިދޫ,ކާށިދޫ
-436,K,K - Gaafaru,Gaafaru,ކ,ކ. ގާފަރު,ގާފަރު
-437,K,K - Dhiffushi,Dhiffushi,ކ,ކ. ދިއްފުށި,ދިއްފުށި
-438,K,K - Thulusdhoo,Thulusdhoo,ކ,ކ. ތުލުސްދޫ,ތުލުސްދޫ
-439,K,K - Huraa,Huraa,ކ,ކ. ހުރާ,ހުރާ
-440,K,K - Himmafushi,Himmafushi,ކ,ކ. ހިންމަފުށި,ހިންމަފުށި
-441,K,K - Gulhi,Gulhi,ކ,ކ. ގުޅި,ގުޅި
-442,K,K - Maafushi,Maafushi,ކ,ކ. މާފުށި,މާފުށި
-443,K,K - Guraidhoo,Guraidhoo,ކ,ކ. ގުރައިދޫ,ގުރައިދޫ
-444,K,K - Hulhule,Hulhule,ކ,ކ. ހުޅުލެ,ހުޅުލެ
-445,K,K - Thilafushi,Thilafushi,ކ,ކ. ތިލަފުށި,ތިލަފުށި
-446,K,K - Kuda Bandos,Kuda Bandos,ކ,ކ. ކުޑަބަނޑޮސް,ކުޑަބަނޑޮސް
-447,K,K - Kanduoiygiri,Kanduoiygiri,ކ,ކ. ކަނޑުއޮތްގިރި,ކަނޑުއޮތްގިރި
-448,K,K - Aarah,Aarah,ކ,ކ. އާރަށް,އާރަށް
-449,K,K - Dhoonidhoo,Dhoonidhoo,ކ,ކ. ދޫނިދޫ,ދޫނިދޫ
-450,K,K - Funadhoo,Funadhoo,ކ,ކ. ފުނަދޫ,ފުނަދޫ
-451,K,K - Girifushi,Girifushi,ކ,ކ. ގިރިފުށި,ގިރިފުށި
-452,K,K - Gaamaadhoo,Gaamaadhoo,ކ,ކ. ގާމާދޫ,ގާމާދޫ
-453,K,K - Feydhoofinolhu,Feydhoofinolhu,ކ,ކ. ފޭދޫފިނޮޅު,ފޭދޫފިނޮޅު
-454,K,K - Asdhu,Asdhu,ކ,ކ. އަސްދޫ,އަސްދޫ
-455,K,K - Bandos,Bandos,ކ,ކ. ބަނޑޮސް,ބަނޑޮސް
-456,K,K - Baros,Baros,ކ,ކ. ބަރޮސް,ބަރޮސް
-457,K,K - Biyaadhu,Biyaadhu,ކ,ކ. ބިޔާދޫ,ބިޔާދޫ
-458,K,K - Boduhithi,Boduhithi,ކ,ކ. ބޮޑުހިތި,ބޮޑުހިތި
-459,K,K - Bolifushi,Bolifushi,ކ,ކ. ބޮލިފުށި,ބޮލިފުށި
-460,K,K - Farukolhufushi,Farukolhufushi,ކ,ކ. ފަރުކޮޅުފުށި,ފަރުކޮޅުފުށި
-461,K,K - Rannalhi,Rannalhi,ކ,ކ. ރަންނާޅި,ރަންނާޅި
-462,K,K - Makunufushi,Makunufushi,ކ,ކ. މަކުނުފުށި,މަކުނުފުށި
-463,K,K - Dhigufinohlu,Dhigufinohlu,ކ,ކ. ދިގުފިނޮޅު,ދިގުފިނޮޅު
-464,K,K - Emboodhu,Emboodhu,ކ,ކ. އެނބޫދޫ,އެނބޫދޫ
-465,K,K - Eriyadhoo,Eriyadhoo,ކ,ކ. އެރިޔަދޫ,އެރިޔަދޫ
-466,K,K - Fihaalhohi,Fihaalhohi,ކ,ކ. ފިހާޅޮހި,ފިހާޅޮހި
-467,K,K - Kuda Huraa,Kuda Huraa,ކ,ކ. ކުޑަހުރާ,ކުޑަހުރާ
-468,K,K - Furanafushi,Furanafushi,ކ,ކ. ފުރަނަފުށި,ފުރަނަފުށި
-469,K,K - Bodufinolhu,Bodufinolhu,ކ,ކ. ބޮޑުފިނޮޅު,ބޮޑުފިނޮޅު
-470,K,K - Gasfinolhu,Gasfinolhu,ކ,ކ. ގަސްފިނޮޅު,ގަސްފިނޮޅު
-471,K,K - Giraavaru,Giraavaru,ކ,ކ. ގިރާވަރު,ގިރާވަރު
-472,K,K - Helegeli,Helegeli,ކ,ކ. ހެލެނގެލި,ހެލެނގެލި
-473,K,K - Lankanfushi,Lankanfushi,ކ,ކ. ލަންކަންފުށި,ލަންކަންފުށި
-474,K,K - Ihuru,Ihuru,ކ,ކ. އިހުރު,އިހުރު
-475,K,K - Kandoomafushi,Kandoomafushi,ކ,ކ. ކަނޑޫމާފުށި,ކަނޑޫމާފުށި
-476,K,K - Kanifinolhu,Kanifinolhu,ކ,ކ. ކަނިފިނޮޅު,ކަނިފިނޮޅު
-477,K,K - Kudahithi,Kudahithi,ކ,ކ. ކުޑަހިތި,ކުޑަހިތި
-478,K,K - Vihamanaafushi,Vihamanaafushi,ކ,ކ. ވިހަމަނާފުށި,ވިހަމަނާފުށި
-479,K,K - Velassaru,Velassaru,ކ,ކ. ވެލަސަރު,ވެލަސަރު
-480,K,K - Lhohifushi,Lhohifushi,ކ,ކ. ޅޮހިފުށި,ޅޮހިފުށި
-481,K,K - Mankunudhoo,Mankunudhoo,ކ,ކ. މަކުނުދޫ,މަކުނުދޫ
-482,K,K - Meerufenfushi,Meerufenfushi,ކ,ކ. މީރުފެންފުށި,މީރުފެންފުށި
-483,K,K - Nakatchafushi,Nakatchafushi,ކ,ކ. ނަކައްޗާފުށި,ނަކައްޗާފުށި
-484,K,K - Olhuveli,Olhuveli,ކ,ކ. އޮޅުވެލި,އޮޅުވެލި
-485,K,K - Veligandu Huraa,Veligandu Huraa,ކ,ކ. ވެލިގަނޑުހުރާ,ވެލިގަނޑުހުރާ
-486,K,K - Lankanfinolhu,Lankanfinolhu,ކ,ކ. ލަންކަންފިނޮޅު,ލަންކަންފިނޮޅު
-487,K,K - Medhufinolhu,Medhufinolhu,ކ,ކ. މެދުފިނޮޅު,މެދުފިނޮޅު
-488,K,K - Mahaanaelhi Huraa,Mahaanaelhi Huraa,ކ,ކ. މަހާނައެޅިހުރާ,މަހާނައެޅިހުރާ
-489,K,K - Ziyaaraiyfushi,Ziyaaraiyfushi,ކ,ކ. ޒިޔާރަތްފުށި,ޒިޔާރަތްފުށި
-490,K,K - Kanuoiy Huraa,Kanuoiy Huraa,ކ,ކ. ކަނުއޮތްހުރާ,ކަނުއޮތްހުރާ
-491,K,K - Thulhagiri,Thulhagiri,ކ,ކ. ތުޅާގިރި,ތުޅާގިރި
-493,K,K - Embudhu Finolhu,Embudhu Finolhu,ކ,ކ. އެނބޫދޫ ފިނޮޅު,އެނބޫދޫ ފިނޮޅު
-494,K,K - Vaadhu,Vaadhu,ކ,ކ. ވާދޫ,ވާދޫ
-495,K,K - Vabbinfaru,Vabbinfaru,ކ,ކ. ވަށްބިންފަރު,ވަށްބިންފަރު
-496,K,K - Vilivaru,Vilivaru,ކ,ކ. ވިލިވަރު,ވިލިވަރު
-497,K,K - Bodu Huraa,Bodu Huraa,ކ,ކ. ބޮޑުހުރާ,ބޮޑުހުރާ
-499,K,K - Emboodhoo Finolhu,Emboodhoo Finolhu,ކ,ކ. އެނބޫދޫފިނޮޅު,އެނބޫދޫފިނޮޅު
-500,K,K - Erruhhuraa,Erruhhuraa,ކ,ކ. އެއްރުއްހުރާ,އެއްރުއްހުރާ
-503,K,K - Hembadhoo,Hembadhoo,ކ,ކ. ހެނބަދޫ,ހެނބަދޫ
-504,K,K - Kaduoiygiri,Kaduoiygiri,ކ,ކ. ކަނޑުއޮތްގިރި,ކަނޑުއޮތްގިރި
-505,K,K - Kagi,Kagi,ކ,ކ. ކަގި,ކަގި
-506,K,K - Kudafinolhu,Kudafinolhu,ކ,ކ. ކުޑަފިނޮޅު,ކުޑަފިނޮޅު
-508,K,K - Maadhoo,Maadhoo,ކ,ކ. މާދޫ,މާދޫ
-509,K,K - Madivaru,Madivaru,ކ,ކ. މަޑިވަރު,މަޑިވަރު
-510,K,K - Maniyafushi,Maniyafushi,ކ,ކ. މަނިޔަފުށި,މަނިޔަފުށި
-511,K,K - Masleggihuraa,Masleggihuraa,ކ,ކ. މަސްލެއްގިހުރާ,މަސްލެއްގިހުރާ
-512,K,K - Oidhunifinolhu,Oidhunifinolhu,ކ,ކ. އޮތްދުނިފިނޮޅު,އޮތްދުނިފިނޮޅު
-513,K,K - Olhigandufinolhu,Olhigandufinolhu,ކ,ކ. އޮޅިގަނޑުފިނޮޅު,އޮޅިގަނޑުފިނޮޅު
-514,K,K - Olhuhali,Olhuhali,ކ,ކ. އޮޅުހަލި,އޮޅުހަލި
-515,K,K - Rasfari,Rasfari,ކ,ކ. ރަސްފަރި,ރަސްފަރި
-516,K,K - Thaburudhoo,Thaburudhoo,ކ,ކ. ތަނބުރުދޫ,ތަނބުރުދޫ
-517,K,K - Tholhimaraahuraa,Tholhimaraahuraa,ކ,ކ. ތޮޅިމަރާހުރާ,ތޮޅިމަރާހުރާ
-518,K,K - Thulusdhoo Irumathee hura,Thulusdhoo Irumathee hura,ކ,ކ. ތުލުސްދޫ އިރުމަތީ ހުރާ,ތުލުސްދޫ އިރުމަތީ ހުރާ
-519,K,K - Vaagali,Vaagali,ކ,ކ. ވާގަލި,ވާގަލި
-520,K,K - Vabboahuraa,Vabboahuraa,ކ,ކ. ވަށްބޯހުރާ,ވަށްބޯހުރާ
-521,K,K - Valassaru,Valassaru,ކ,ކ. ވަލައްސަރު,ވަލައްސަރު
-522,K,K - Vammaafushi,Vammaafushi,ކ,ކ. ވަށްމާފުށި,ވަށްމާފުށި
-523,K,K - Villingilimathidhahuraa,Villingilimathidhahuraa,ކ,ކ. ވިލިނގިލިމަތިދަހުރާ,ވިލިނގިލިމަތިދަހުރާ
-524,AA,AA - Thoddoo,Thoddoo,އއ,އއ. ތޮއްޑޫ,ތޮއްޑޫ
-525,AA,AA - Rasdhoo,Rasdhoo,އއ,އއ. ރަސްދޫ,ރަސްދޫ
-526,AA,AA - Ukulhas,Ukulhas,އއ,އއ. އުކުޅަސް,އުކުޅަސް
-527,AA,AA - Mathiveri,Mathiveri,އއ,އއ. މަތިވެރި,މަތިވެރި
-528,AA,AA - Bodufolhudhoo,Bodufolhudhoo,އއ,އއ. ބޮޑުފޮޅުދޫ,ބޮޑުފޮޅުދޫ
-529,AA,AA - Feridhoo,Feridhoo,އއ,އއ. ފެރިދޫ,ފެރިދޫ
-530,AA,AA - Maalhos,Maalhos,އއ,އއ. މާޅޮސް,މާޅޮސް
-531,AA,AA - Himandhoo,Himandhoo,އއ,އއ. ހިމަންދޫ,ހިމަންދޫ
-532,AA,AA - Bathala,Bathala,އއ,އއ. ބަތަލާ,ބަތަލާ
-533,AA,AA - Ellaidhu,Ellaidhu,އއ,އއ. އެއްލައިދޫ,އެއްލައިދޫ
-534,AA,AA - Fesdhoo,Fesdhoo,އއ,އއ. ފެސްދޫ,ފެސްދޫ
-535,AA,AA - Gangehi,Gangehi,އއ,އއ. ގަންގެހި,ގަންގެހި
-536,AA,AA - Halaveli,Halaveli,އއ,އއ. ހަލަވެލި,ހަލަވެލި
-537,AA,AA - Kuramathi,Kuramathi,އއ,އއ. ކުރަމަތި,ކުރަމަތި
-538,AA,AA - Maayaafushi,Maayaafushi,އއ,އއ. މާޔާފުށި,މާޔާފުށި
-539,AA,AA - Madoogali,Madoogali,އއ,އއ. މަޑޫގަލި,މަޑޫގަލި
-540,AA,AA - Kudafolhudhoo,Kudafolhudhoo,އއ,އއ. ކުޑަފޮޅުދޫ,ކުޑަފޮޅުދޫ
-541,AA,AA - Veligandu,Veligandu,އއ,އއ. ވެލިގަނޑު,ވެލިގަނޑު
-542,AA,AA - Velidhoo,Velidhoo,އއ,އއ. ވެލިދޫ,ވެލިދޫ
-543,AA,AA - Mushimasmigili,Mushimasmigili,އއ,އއ. މުށިމަސްގިލި,މުށިމަސްގިލި
-546,AA,AA - Alikoirah,Alikoirah,އއ,އއ. އަލިކޮއިރަށް,އަލިކޮއިރަށް
-547,AA,AA - Beyrumadivaru,Beyrumadivaru,އއ,އއ. ބޭރުމަޑިވަރު,ބޭރުމަޑިވަރު
-548,AA,AA - Dhinnolhufinolhu,Dhinnolhufinolhu,އއ,އއ. ދިއްނޮޅުފިނޮޅު,ދިއްނޮޅުފިނޮޅު
-549,AA,AA - Etheremadivaru,Etheremadivaru,އއ,އއ. އެތެރެމަޑިވަރު,އެތެރެމަޑިވަރު
-550,AA,AA - Fushi,Fushi,އއ,އއ. ފުށި,ފުށި
-551,AA,AA - Gaathafushi,Gaathafushi,އއ,އއ. ގާތަފުށި,ގާތަފުށި
-552,AA,AA - Kandholhudhoo,Kandholhudhoo,އއ,އއ. ކަނދޮޅުދޫ,ކަނދޮޅުދޫ
-553,AA,AA - Maagau,Maagau,އއ,އއ. މާގައު,މާގައު
-554,AA,AA - Madivaru,Madivaru,އއ,އއ. މަޑިވަރު,މަޑިވަރު
-555,AA,AA - Madivarufinolhu,Madivarufinolhu,އއ,އއ. މަޑިވަރުފިނޮޅު,މަޑިވަރުފިނޮޅު
-556,AA,AA - Mathivereefinolhu,Mathivereefinolhu,އއ,އއ. މަތިވެރީފިނޮޅު,މަތިވެރީފިނޮޅު
-557,AA,AA - Meerufenfushi,Meerufenfushi,އއ,އއ. މީރުފެންފުށި,މީރުފެންފުށި
-558,AA,AA - Vihamaafaru,Vihamaafaru,އއ,އއ. ވިހަމާފަރު,ވިހަމާފަރު
-559,ADh,ADh - Hangnameedhoo,Hangnameedhoo,އދ,އދ. ހަންޏާމީދޫ,ހަންޏާމީދޫ
-560,ADh,ADh - Omadhoo,Omadhoo,އދ,އދ. އޮމަދޫ,އޮމަދޫ
-561,ADh,ADh - Kuburudhoo,Kuburudhoo,އދ,އދ. ކުނބުރުދޫ,ކުނބުރުދޫ
-562,ADh,ADh - Mahibadhoo,Mahibadhoo,އދ,އދ. މަހިބަދޫ,މަހިބަދޫ
-563,ADh,ADh - Mandhoo,Mandhoo,އދ,އދ. މަންދޫ,މަންދޫ
-564,ADh,ADh - Dhangethi,Dhangethi,އދ,އދ. ދަނގެތި,ދަނގެތި
-565,ADh,ADh - Dhigurah,Dhigurah,އދ,އދ. ދިގުރަށް,ދިގުރަށް
-566,ADh,ADh - Fenfushi,Fenfushi,އދ,އދ. ފެންފުށި,ފެންފުށި
-567,ADh,ADh - Dhidhdhoo,Dhidhdhoo,އދ,އދ. ދިއްދޫ,ދިއްދޫ
-568,ADh,ADh - Maamigili,Maamigili,އދ,އދ. މާމިގިލި,މާމިގިލި
-569,ADh,ADh - Ariyadhoo,Ariyadhoo,އދ,އދ. އަރިޔަދޫ,އަރިޔަދޫ
-570,ADh,ADh - Angaaga,Angaaga,އދ,އދ. އަނގާގަ,އަނގާގަ
-571,ADh,ADh - Dhidhdhoofinolhu,Dhidhdhoofinolhu,އދ,އދ. ދިއްދޫފިނޮޅު,ދިއްދޫފިނޮޅު
-572,ADh,ADh - Athurugau,Athurugau,އދ,އދ. އަތުރުގައު,އަތުރުގައު
-573,ADh,ADh - Dhiffushi,Dhiffushi,އދ,އދ. ދިއްފުށި,ދިއްފުށި
-574,ADh,ADh - Kuda Rah,Kuda Rah,އދ,އދ. ކުޑަރަށް,ކުޑަރަށް
-575,ADh,ADh - Huvahendhoo,Huvahendhoo,އދ,އދ. ހުވަހެންދޫ,ހުވަހެންދޫ
-576,ADh,ADh - Machchafushi,Machchafushi,އދ,އދ. މައްޗަފުށި,މައްޗަފުށި
-577,ADh,ADh - Mirihi,Mirihi,އދ,އދ. މިރިހި,މިރިހި
-578,ADh,ADh - Rangalifinolhu,Rangalifinolhu,އދ,އދ. ރަންގަލިފިނޮޅު,ރަންގަލިފިނޮޅު
-579,ADh,ADh - Moofushi,Moofushi,އދ,އދ. މޫފުށި,މޫފުށި
-580,ADh,ADh - Villingilivaru,Villingilivaru,އދ,އދ. ވިލިނގިލިވަރު,ވިލިނގިލިވަރު
-581,ADh,ADh - Nalaguraidhoo,Nalaguraidhoo,އދ,އދ. ނަލަގުރައިދޫ,ނަލަގުރައިދޫ
-582,ADh,ADh - Thundufushi,Thundufushi,އދ,އދ. ތުނޑުފުށި,ތުނޑުފުށި
-583,ADh,ADh - Maafushivaru,Maafushivaru,އދ,އދ. މާފުށިވަރު,މާފުށިވަރު
-584,ADh,ADh - Vakarufalhi,Vakarufalhi,އދ,އދ. ވަކަރުފަޅި,ވަކަރުފަޅި
-585,ADh,ADh - Vilamendhoo,Vilamendhoo,އދ,އދ. ވިލަމެންދޫ,ވިލަމެންދޫ
-586,ADh,ADh - Aafinolhu,Aafinolhu,އދ,އދ. އާފިނޮޅު,އާފިނޮޅު
-587,ADh,ADh - Bodufinolhu,Bodufinolhu,އދ,އދ. ބޮޑުފިނޮޅު,ބޮޑުފިނޮޅު
-588,ADh,ADh - Bodukaashihuraa,Bodukaashihuraa,އދ,އދ. ބޮޑުކާށިހުރާ,ބޮޑުކާށިހުރާ
-589,ADh,ADh - Bulhalhohi,Bulhalhohi,އދ,އދ. ބުޅަޅޮހި,ބުޅަޅޮހި
-590,ADh,ADh - Dhiggiri,Dhiggiri,އދ,އދ. ދިއްގިރި,ދިއްގިރި
-591,ADh,ADh - Enboodhoo,Enboodhoo,އދ,އދ. އެނބޫދޫ,އެނބޫދޫ
-592,ADh,ADh - Fushidhiggaa,Fushidhiggaa,އދ,އދ. ފުށިދިއްގާ,ފުށިދިއްގާ
-593,ADh,ADh - Heenfaru,Heenfaru,އދ,އދ. ހީންފަރު,ހީންފަރު
-594,ADh,ADh - Hiyafushi,Hiyafushi,އދ,އދ. ހިޔަފުށި,ހިޔަފުށި
-595,ADh,ADh - Hukurudhoo,Hukurudhoo,އދ,އދ. ހުކުރުދޫ,ހުކުރުދޫ
-596,ADh,ADh - Hurasdhoo,Hurasdhoo,އދ,އދ. ހުރަސްދޫ,ހުރަސްދޫ
-597,ADh,ADh - Huruelhi,Huruelhi,އދ,އދ. ހުރުއެޅި,ހުރުއެޅި
-598,ADh,ADh - Innafushi,Innafushi,އދ,އދ. އިންނަފުށި,އިންނަފުށި
-599,ADh,ADh - Kalhahadhihuraa,Kalhahadhihuraa,އދ,އދ. ކަޅަހަދިހުރާ,ކަޅަހަދިހުރާ
-600,ADh,ADh - Kudadhoo,Kudadhoo,އދ,އދ. ކުޑަދޫ,ކުޑަދޫ
-601,ADh,ADh - Lonuboi,Lonuboi,އދ,އދ. ލޮނުބޮއި,ލޮނުބޮއި
-602,ADh,ADh - Theluveligaa,Theluveligaa,އދ,އދ. ތެލުވެލިގާ,ތެލުވެލިގާ
-603,ADh,ADh - Theyofulhihuraa,Theyofulhihuraa,އދ,އދ. ތެޔޮފުޅިހުރާ,ތެޔޮފުޅިހުރާ
-604,ADh,ADh - Tholhifushi,Tholhifushi,އދ,އދ. ތޮޅިފުށި,ތޮޅިފުށި
-605,V,V - Fulidhoo,Fulidhoo,ވ,ވ. ފުލިދޫ,ފުލިދޫ
-606,V,V - Thinadhoo,Thinadhoo,ވ,ވ. ތިނަދޫ,ތިނަދޫ
-607,V,V - Felidhoo,Felidhoo,ވ,ވ. ފެލިދޫ,ފެލިދޫ
-608,V,V - Keyodhoo,Keyodhoo,ވ,ވ. ކެޔޮދޫ,ކެޔޮދޫ
-609,V,V - Rakeedhoo,Rakeedhoo,ވ,ވ. ރަކީދޫ,ރަކީދޫ
-610,V,V - Anbaraa,Anbaraa,ވ,ވ. އަނބަރާ,އަނބަރާ
-611,V,V - Bodumohuraa,Bodumohuraa,ވ,ވ. ބޮޑުމޮހޮރާ,ބޮޑުމޮހޮރާ
-612,V,V - Alimatha,Alimatha,ވ,ވ. އަލިމަތާ,އަލިމަތާ
-613,V,V - Dhiggiri,Dhiggiri,ވ,ވ. ދިގިއްރި,ދިގިއްރި
-614,V,V - Aarah,Aarah,ވ,ވ. އާރަށް,އާރަށް
-615,V,V - Foththeyo Bodufushi,Foththeyo Bodufushi,ވ,ވ. ފޮށްތެޔޮބޮޑުފުށި,ފޮށްތެޔޮބޮޑުފުށި
-616,V,V - Hulhidhoo,Hulhidhoo,ވ,ވ. ހުޅިދޫ,ހުޅިދޫ
-617,V,V - Kudhiboli,Kudhiboli,ވ,ވ. ކުދިބޮލި,ކުދިބޮލި
-618,V,V - Kunaavashi,Kunaavashi,ވ,ވ. ކުނާވަށި,ކުނާވަށި
-619,V,V - Raggadu,Raggadu,ވ,ވ. ރަށްގަނޑު,ރަށްގަނޑު
-620,V,V - Ruhhurihuraa,Ruhhurihuraa,ވ,ވ. ރުށްހުރިހުރާ,ރުށްހުރިހުރާ
-621,V,V - Thuduhuraa,Thuduhuraa,ވ,ވ. ތުނޑުހުރާ,ތުނޑުހުރާ
-622,V,V - Vashugiri,Vashugiri,ވ,ވ. ވަށުގިރި,ވަށުގިރި
-623,V,V - Vattaru,Vattaru,ވ,ވ. ވަށްޓަރު,ވަށްޓަރު
-624,M,M - Raiymandhoo,Raiymandhoo,މ,މ. ރަތްމަންދޫ,ރަތްމަންދޫ
-625,M,M - Madifushi,Madifushi,މ,މ. މަޑިފުށި,މަޑިފުށި
-626,M,M - Veyvah,Veyvah,މ,މ. ވޭވަށް,ވޭވަށް
-627,M,M - Mulah,Mulah,މ,މ. މުލައް,މުލައް
-628,M,M - Muli,Muli,މ,މ. މުލި,މުލި
-629,M,M - Naalaafushi,Naalaafushi,މ,މ. ނާލާފުށި,ނާލާފުށި
-630,M,M - Kolhufushi,Kolhufushi,މ,މ. ކޮޅުފުށި,ކޮޅުފުށި
-631,M,M - Dhiggaru,Dhiggaru,މ,މ. ދިއްގަރު,ދިއްގަރު
-632,M,M - Maduvvari,Maduvvari,މ,މ. މަޑުއްވަރި,މަޑުއްވަރި
-633,M,M - Hakuraa Huraa,Hakuraa Huraa,މ,މ. ހަކުރާހުރާ,ހަކުރާހުރާ
-634,M,M - Medhufushi,Medhufushi,މ,މ. މެދުފުށި,މެދުފުށި
-635,M,M - Boahuraa,Boahuraa,މ,މ. ބޯހުރާ,ބޯހުރާ
-636,M,M - Dhekunuboduveli,Dhekunuboduveli,މ,މ. ދެކުނުބޮޑުވެލި,ދެކުނުބޮޑުވެލި
-637,M,M - Dhiththudi,Dhiththudi,މ,މ. ދިއްތުނޑި,ދިއްތުނޑި
-638,M,M - Erruh-huraa,Erruh-huraa,މ,މ. އެއްރުއްހުރާ,އެއްރުއްހުރާ
-639,M,M - Fenboafinolhu,Fenboafinolhu,މ,މ. ފެންބޯފިނޮޅު,ފެންބޯފިނޮޅު
-640,M,M - Fenboakurali,Fenboakurali,މ,މ. ފެންބޯކުރަލި,ފެންބޯކުރަލި
-641,M,M - Fenfuraveli,Fenfuraveli,މ,މ. ފެންފުރަވެލި,ފެންފުރަވެލި
-642,M,M - Gaakurali,Gaakurali,މ,މ. ގާކުރަލި,ގާކުރަލި
-643,M,M - Gasveli,Gasveli,މ,މ. ގަސްވެލި,ގަސްވެލި
-644,M,M - Gongalihuraa,Gongalihuraa,މ,މ. ގޮންގަލިހުރާ,ގޮންގަލިހުރާ
-645,M,M - Hurasveli (Uthurugasveli),Hurasveli (Uthurugasveli),މ,މ. ހުރަސްވެލި (އުތުރުގަސްވެލި),ހުރަސްވެލި (އުތުރުގަސްވެލި)
-646,M,M - Kakaahuraa,Kakaahuraa,މ,މ. ކަކާހުރާ,ކަކާހުރާ
-647,M,M - Kekuraalhuveli,Kekuraalhuveli,މ,މ. ކެކުރާޅުވެލި,ކެކުރާޅުވެލި
-648,M,M - Kudausfushi,Kudausfushi,މ,މ. ކުޑައުސްފުށި,ކުޑައުސްފުށި
-649,M,M - Maahuraa,Maahuraa,މ,މ. މާހުރާ,މާހުރާ
-650,M,M - Maalhaveli,Maalhaveli,މ,މ. މާޅަވެލި,މާޅަވެލި
-651,M,M - Mausfushi,Mausfushi,މ,މ. މައުސްފުށި,މައުސްފުށި
-653,M,M - Seedheehuraa,Seedheehuraa,މ,މ. ސީދީހުރާ,ސީދީހުރާ
-654,M,M - Seedihuraaveligandu,Seedihuraaveligandu,މ,މ. ސީދީހުރާވެލިގަނޑު,ސީދީހުރާވެލިގަނޑު
-655,M,M - Thuvaru,Thuvaru,މ,މ. ތުވަރު,ތުވަރު
-656,M,M - Uthuruboduveli,Uthuruboduveli,މ,މ. އުތުރުބޮޑުވެލި,އުތުރުބޮޑުވެލި
-657,M,M - Verineiybe,Verineiybe,މ,މ. ވެރިނެތްބެ,ވެރިނެތްބެ
-658,F,F - Feeali,Feeali,ފ,ފ. ފީއަލި,ފީއަލި
-659,F,F - Bilehdhoo,Bilehdhoo,ފ,ފ. ބިލެތްދޫ,ބިލެތްދޫ
-660,F,F - Magoodhoo,Magoodhoo,ފ,ފ. މަގޫދޫ,މަގޫދޫ
-661,F,F - Dharaboodhoo,Dharaboodhoo,ފ,ފ. ދަރަނބޫދޫ,ދަރަނބޫދޫ
-662,F,F - Nilandhoo,Nilandhoo,ފ,ފ. ނިލަންދޫ,ނިލަންދޫ
-663,F,F - Maafushi,Maafushi,ފ,ފ. މާފުށި,މާފުށި
-664,F,F - Filitheyo,Filitheyo,ފ,ފ. ފިލިތެޔޮ,ފިލިތެޔޮ
-665,F,F - Adhangau,Adhangau,ފ,ފ. އަދަނގައު,އަދަނގައު
-667,F,F - Bandidhuhfusheefinolhu,Bandidhuhfusheefinolhu,ފ,ފ. ބަނޑިދުށްފުށީފިނޮޅު,ބަނޑިދުށްފުށީފިނޮޅު
-669,F,F - Dhiguvaru,Dhiguvaru,ފ,ފ. ދިގުވަރު,ދިގުވަރު
-671,F,F - Embulufushi,Embulufushi,ފ,ފ. އެނބުލުފުށި,އެނބުލުފުށި
-672,F,F - Faanumaahuraa,Faanumaahuraa,ފ,ފ. ފާނުމާހުރާ,ފާނުމާހުރާ
-674,F,F - Himithi,Himithi,ފ,ފ. ހިމިތި,ހިމިތި
-676,F,F - Jinnathgau,Jinnathgau,ފ,ފ. ޖިންނަތުގައު,ޖިންނަތުގައު
-677,F,F - Kadumoonufushi,Kadumoonufushi,ފ,ފ. ކަނޑުމޫނުފުށި,ކަނޑުމޫނުފުށި
-681,F,F - Maavaruhuraa,Maavaruhuraa,ފ,ފ. މާވަރުހުރާ,މާވަރުހުރާ
-682,F,F - Madivaru huraa,Madivaru huraa,ފ,ފ. މަޑިވަރުހުރާ,މަޑިވަރުހުރާ
-683,F,F - Madivaru huraa,Madivaru huraa,ފ,ފ. މަޑިވަރުހުރާ,މަޑިވަރުހުރާ
-684,F,F - Magoodhoobodufinolhu,Magoodhoobodufinolhu,ފ,ފ. މަގޫދޫބޮޑުފިނޮޅު,މަގޫދޫބޮޑުފިނޮޅު
-685,F,F - Makunueri,Makunueri,ފ,ފ. މަކުނުއެރި,މަކުނުއެރި
-686,F,F - Minimasgali,Minimasgali,ފ,ފ. މިނިމަސްގަލި,މިނިމަސްގަލި
-688,F,F - Villiginlivarufinolhu,Villiginlivarufinolhu,ފ,ފ. ވިލިނގިލިވަރުފިނޮޅު,ވިލިނގިލިވަރުފިނޮޅު
-689,Dh,Dh - Meedhoo,Meedhoo,ދ,ދ. މީދޫ,މީދޫ
-690,Dh,Dh - Bandidhoo,Bandidhoo,ދ,ދ. ބަނޑިދޫ,ބަނޑިދޫ
-691,Dh,Dh - Rinbudhoo,Rinbudhoo,ދ,ދ. ރިނބުދޫ,ރިނބުދޫ
-692,Dh,Dh - Hulhudheli,Hulhudheli,ދ,ދ. ހުޅުދެލި,ހުޅުދެލި
-693,Dh,Dh - Gemendhoo,Gemendhoo,ދ,ދ. ގެމެންދޫ,ގެމެންދޫ
-694,Dh,Dh - Vaanee,Vaanee,ދ,ދ. ވާނީ,ވާނީ
-695,Dh,Dh - Maaenboodhoo,Maaenboodhoo,ދ,ދ. މާއެނބޫދޫ,މާއެނބޫދޫ
-696,Dh,Dh - Kudahuvadhoo,Kudahuvadhoo,ދ,ދ. ކުޑަހުވަދޫ,ކުޑަހުވަދޫ
-697,Dh,Dh - Velavaru,Velavaru,ދ,ދ. ވެލަވަރު,ވެލަވަރު
-698,Dh,Dh - Meedhuffushi,Meedhuffushi,ދ,ދ. މީދުއްފުށި,މީދުއްފުށި
-699,Dh,Dh - Aluvifushi,Aluvifushi,ދ,ދ. އަލުވިފުށި,އަލުވިފުށި
-700,Dh,Dh - Ayyukaloahuraa,Ayyukaloahuraa,ދ,ދ. އައްޔުކަލޯހުރާ,އައްޔުކަލޯހުރާ
-701,Dh,Dh - Bhulalafushi,Bhulalafushi,ދ,ދ. ބުލަލަފުށި,ބުލަލަފުށި
-702,Dh,Dh - Bodufushi,Bodufushi,ދ,ދ. ބޮޑުފުށި,ބޮޑުފުށި
-703,Dh,Dh - Dhebaidhoo,Dhebaidhoo,ދ,ދ. ދެބައިދޫ,ދެބައިދޫ
-704,Dh,Dh - Dhoores,Dhoores,ދ,ދ. ދޫރެސް,ދޫރެސް
-705,Dh,Dh - Embudhoofushi,Embudhoofushi,ދ,ދ. އެނބުދޫފުށި,އެނބުދޫފުށި
-706,Dh,Dh - Faandhoo,Faandhoo,ދ,ދ. ފާންދޫ,ފާންދޫ
-710,Dh,Dh - Gahadhiffushi,Gahadhiffushi,ދ,ދ. ގަހަދިއްފުށި,ގަހަދިއްފުށި
-713,Dh,Dh - Hiriyafushi,Hiriyafushi,ދ,ދ. ހިރިޔަފުށި,ހިރިޔަފުށި
-714,Dh,Dh - Hudufushifinolhu,Hudufushifinolhu,ދ,ދ. ހުޑުފުށިފިނޮޅު,ހުޑުފުށިފިނޮޅު
-715,Dh,Dh - Hulhuveli,Hulhuveli,ދ,ދ. ހުޅުވެލި,ހުޅުވެލި
-716,Dh,Dh - Issari,Issari,ދ,ދ. އިއްސަރި,އިއްސަރި
-717,Dh,Dh - Kannefaru,Kannefaru,ދ,ދ. ކަންނެފަރު,ކަންނެފަރު
-718,Dh,Dh - Kedhigadu,Kedhigadu,ދ,ދ. ކެދިގަނޑު,ކެދިގަނޑު
-719,Dh,Dh - Kiraidhoo,Kiraidhoo,ދ,ދ. ކިރައިދޫ,ކިރައިދޫ
-720,Dh,Dh - Lhohi,Lhohi,ދ,ދ. ޅޮހި,ޅޮހި
-721,Dh,Dh - Maadheli,Maadheli,ދ,ދ. މާދެލި,މާދެލި
-722,Dh,Dh - Maafushi,Maafushi,ދ,ދ. މާފުށި,މާފުށި
-723,Dh,Dh - Maagau,Maagau,ދ,ދ. މާގައު,މާގައު
-724,Dh,Dh - Maalefaru,Maalefaru,ދ,ދ. މާލެފަރު,މާލެފަރު
-728,Dh,Dh - Meedhuffushi,Meedhuffushi,ދ,ދ. މީދުއްފުށި,މީދުއްފުށި
-729,Dh,Dh - Minimasgali,Minimasgali,ދ,ދ. މިނިމަސްގަލި,މިނިމަސްގަލި
-730,Dh,Dh - Naibukaloabodufushi,Naibukaloabodufushi,ދ,ދ. ނައިބުކަލޯބޮޑުފުށި,ނައިބުކަލޯބޮޑުފުށި
-732,Dh,Dh - Olhuveli,Olhuveli,ދ,ދ. އޮޅުވެލި,އޮޅުވެލި
-736,Dh,Dh - Thilabolhufushi,Thilabolhufushi,ދ,ދ. ތިލަބޮޅުފުށި,ތިލަބޮޅުފުށި
-737,Dh,Dh - Thinhuraa,Thinhuraa,ދ,ދ. ތިންހުރާ,ތިންހުރާ
-738,Dh,Dh - Udhdhoo,Udhdhoo,ދ,ދ. އުއްދޫ,އުއްދޫ
-739,Dh,Dh - Vaalia,Vaalia,ދ,ދ. ވާލިއާ,ވާލިއާ
-740,Dh,Dh - Vallalhohi,Vallalhohi,ދ,ދ. ވައްލަޅޮހި,ވައްލަޅޮހި
-741,Dh,Dh - Vommuli,Vommuli,ދ,ދ. ވޮށްމުލި,ވޮށްމުލި
-742,Th,Th - Buruni,Buruni,ތ,ތ. ބުރުނީ,ބުރުނީ
-743,Th,Th - Vilufushi,Vilufushi,ތ,ތ. ވިލުފުށި,ވިލުފުށި
-744,Th,Th - Madifushi,Madifushi,ތ,ތ. މަޑިފުށި,މަޑިފުށި
-745,Th,Th - Dhiyamigili,Dhiyamigili,ތ,ތ. ދިޔަމިގިލި,ދިޔަމިގިލި
-746,Th,Th - Guraidhoo,Guraidhoo,ތ,ތ. ގުރައިދޫ,ގުރައިދޫ
-747,Th,Th - Kandoodhoo,Kandoodhoo,ތ,ތ. ކަނޑޫދޫ,ކަނޑޫދޫ
-748,Th,Th - Vandhoo,Vandhoo,ތ,ތ. ވަންދޫ,ވަންދޫ
-749,Th,Th - Hirilandhoo,Hirilandhoo,ތ,ތ. ހިރިލަންދޫ,ހިރިލަންދޫ
-750,Th,Th - Gaadhiffushi,Gaadhiffushi,ތ,ތ. ގާދިއްފުށި,ގާދިއްފުށި
-751,Th,Th - Thimarafushi,Thimarafushi,ތ,ތ. ތިމަރަފުށި,ތިމަރަފުށި
-752,Th,Th - Veymandoo,Veymandoo,ތ,ތ. ވޭމަންޑޫ,ވޭމަންޑޫ
-753,Th,Th - Kinbidhoo,Kinbidhoo,ތ,ތ. ކިނބިދޫ,ކިނބިދޫ
-754,Th,Th - Omadhoo,Omadhoo,ތ,ތ. އޮމަދޫ,އޮމަދޫ
-755,Th,Th - Fondhoo,Fondhoo,ތ,ތ. ފޮންދޫ,ފޮންދޫ
-756,Th,Th - Kanimeedhoo,Kanimeedhoo,ތ,ތ. ކަނިމީދޫ,ކަނިމީދޫ
-757,Th,Th - Bodufinolhu,Bodufinolhu,ތ,ތ. ބޮޑުފިނޮޅު,ބޮޑުފިނޮޅު
-758,Th,Th - Bodurehaa,Bodurehaa,ތ,ތ. ބޮޑުރެހާ,ބޮޑުރެހާ
-759,Th,Th - Dhiffushi,Dhiffushi,ތ,ތ. ދިއްފުށި,ދިއްފުށި
-760,Th,Th - Dhonanfushi,Dhonanfushi,ތ,ތ. ދޮނަންފުށި,ދޮނަންފުށި
-761,Th,Th - Dhururehaa,Dhururehaa,ތ,ތ. ދުރުރެހާ,ދުރުރެހާ
-762,Th,Th - Ekruffushi,Ekruffushi,ތ,ތ. އެކުރުއްފުށި,އެކުރުއްފުށި
-763,Th,Th - Elaa,Elaa,ތ,ތ. އެލާ,އެލާ
-764,Th,Th - Fenfushi,Fenfushi,ތ,ތ. ފެންފުށި,ފެންފުށި
-765,Th,Th - Fenmeerufushi,Fenmeerufushi,ތ,ތ. ފެންމީރުފުށި,ފެންމީރުފުށި
-766,Th,Th - Fonidhaani,Fonidhaani,ތ,ތ. ފޮނިދާނި,ފޮނިދާނި
-767,Th,Th - Funaddhoo,Funaddhoo,ތ,ތ. ފުނައްދޫ,ފުނައްދޫ
-768,Th,Th - Fushi,Fushi,ތ,ތ. ފުށި,ފުށި
-769,Th,Th - Fushifaru,Fushifaru,ތ,ތ. ފުށިފަރު,ފުށިފަރު
-770,Th,Th - Gaalee,Gaalee,ތ,ތ. ގާލީ,ގާލީ
-771,Th,Th - Gaathurehaa,Gaathurehaa,ތ,ތ. ގާތުރެހާ,ގާތުރެހާ
-772,Th,Th - Hathifushi,Hathifushi,ތ,ތ. ހަތިފުށި,ހަތިފުށި
-773,Th,Th - Hikandhilohi,Hikandhilohi,ތ,ތ. ހިކަނދިލޮހި,ހިކަނދިލޮހި
-774,Th,Th - Hiriyanfushi,Hiriyanfushi,ތ,ތ. ހިރިޔަންފުށި,ހިރިޔަންފުށި
-775,Th,Th - Hodelifushi,Hodelifushi,ތ,ތ. ހޮނޑެލިފުށި,ހޮނޑެލިފުށި
-776,Th,Th - Hulhiyanfushi,Hulhiyanfushi,ތ,ތ. ހުޅިޔަންފުށި,ހުޅިޔަންފުށި
-777,Th,Th - Kaadhoo,Kaadhoo,ތ,ތ. ކާދޫ,ކާދޫ
-778,Th,Th - Kadufushi,Kadufushi,ތ,ތ. ކަނޑުފުށި,ކަނޑުފުށި
-779,Th,Th - Kafidhoo,Kafidhoo,ތ,ތ. ކަފިދޫ,ކަފިދޫ
-780,Th,Th - Kakolhas,Kakolhas,ތ,ތ. ކަފޮޅަސް,ކަފޮޅަސް
-781,Th,Th - Kalhudheyfushi,Kalhudheyfushi,ތ,ތ. ކަޅުދޭފުށި,ކަޅުދޭފުށި
-782,Th,Th - Kalhufahalafushi,Kalhufahalafushi,ތ,ތ. ކަޅުފަހަލަފުށި,ކަޅުފަހަލަފުށި
-784,Th,Th - Kani,Kani,ތ,ތ. ކަނި,ކަނި
-785,Th,Th - Kolafushi,Kolafushi,ތ,ތ. ކޮލަފުށި,ކޮލަފުށި
-786,Th,Th - Kolhufushi,Kolhufushi,ތ,ތ. ކޮޅުފުށި,ކޮޅުފުށި
-787,Th,Th - Kolhufushi,Kolhufushi,ތ,ތ. ކޮޅުފުށި,ކޮޅުފުށި
-788,Th,Th - Kudadhoo,Kudadhoo,ތ,ތ. ކުޑަދޫ,ކުޑަދޫ
-789,Th,Th - Kudadhoofinolhu,Kudadhoofinolhu,ތ,ތ. ކުޑަދޫފިނޮޅު,ކުޑަދޫފިނޮޅު
-790,Th,Th - Kudakaadhoo,Kudakaadhoo,ތ,ތ. ކުޑަކާދޫ,ކުޑަކާދޫ
-791,Th,Th - Kudakibidhoo,Kudakibidhoo,ތ,ތ. ކުޑަކިނބިދޫ,ކުޑަކިނބިދޫ
-792,Th,Th - Kuradhuvaru,Kuradhuvaru,ތ,ތ. ކުރަދުވަރު,ކުރަދުވަރު
-793,Th,Th - Kuredhifushi,Kuredhifushi,ތ,ތ. ކުރެއްދިފުށި,ކުރެއްދިފުށި
-794,Th,Th - Lhavaddoo,Lhavaddoo,ތ,ތ. ޅަވައްޑޫ,ޅަވައްޑޫ
-795,Th,Th - Maagulhi,Maagulhi,ތ,ތ. މާގުޅި,މާގުޅި
-796,Th,Th - Maleafushi,Maleafushi,ތ,ތ. މަލެއަފުށި,މަލެއަފުށި
-797,Th,Th - Mathidhoo,Mathidhoo,ތ,ތ. މަތިދޫ,މަތިދޫ
-798,Th,Th - Medhafushi,Medhafushi,ތ,ތ. މެދަފުށި,މެދަފުށި
-799,Th,Th - Olhudhiyafushi,Olhudhiyafushi,ތ,ތ. އޮޅުދިޔަފުށި,އޮޅުދިޔަފުށި
-800,Th,Th - Olhufushi,Olhufushi,ތ,ތ. އޮޅުފުށި,އޮޅުފުށި
-801,Th,Th - Olhufushifinolhu,Olhufushifinolhu,ތ,ތ. އޮޅުފުށިފިނޮޅު,އޮޅުފުށިފިނޮޅު
-802,Th,Th - Olhugiri,Olhugiri,ތ,ތ. އޮޅުގިރި,އޮޅުގިރި
-803,Th,Th - Rihaamaafushi,Rihaamaafushi,ތ,ތ. ރިހާމާފުށި,ރިހާމާފުށި
-804,Th,Th - Ruththibirah,Ruththibirah,ތ,ތ. ރުއްތިބިރަށް,ރުއްތިބިރަށް
-805,Th,Th - Thinkolhufushi,Thinkolhufushi,ތ,ތ. ތިންކޮޅުފުށި,ތިންކޮޅުފުށި
-806,Th,Th - Ufuriyaa,Ufuriyaa,ތ,ތ. އުފުރިޔާ,އުފުރިޔާ
-807,Th,Th - Usfushi,Usfushi,ތ,ތ. އުސްފުށި,އުސްފުށި
-808,Th,Th - Vanbadhi,Vanbadhi,ތ,ތ. ވަންބަނދި,ވަންބަނދި
-825,L,L - Athahedha,Athahedha,ލ,ލ. އަތަހެދަ,އަތަހެދަ
-821,L,L - Baresdhoo,Baresdhoo,ލ,ލ. ބަރެސްދޫ,ބަރެސްދޫ
-826,L,L - Bileitheyrahaa,Bileitheyrahaa,ލ,ލ. ބިލަތްތޭރަހާ,ބިލަތްތޭރަހާ
-827,L,L - Bodufenrahaa,Bodufenrahaa,ލ,ލ. ބޮޑުފެންރަހާ,ބޮޑުފެންރަހާ
-828,L,L - Bodufinolhu,Bodufinolhu,ލ,ލ. ބޮޑުފިނޮޅު,ބޮޑުފިނޮޅު
-829,L,L - Boduhuraa,Boduhuraa,ލ,ލ. ބޮޑުހުރާ,ބޮޑުހުރާ
-830,L,L - Boduhuraa,Boduhuraa,ލ,ލ. ބޮޑުހުރާ,ބޮޑުހުރާ
-833,L,L - Bodumaabulhali,Bodumaabulhali,ލ,ލ. ބޮޑުމާބުޅަލި,ބޮޑުމާބުޅަލި
-834,L,L - Bokaiyfushi,Bokaiyfushi,ލ,ލ. ބޮކައިފުށި,ބޮކައިފުށި
-810,L,L - Dhabidhoo,Dhabidhoo,ލ,ލ. ދަނބިދޫ,ދަނބިދޫ
-836,L,L - Dhekunuvinagadu,Dhekunuvinagadu,ލ,ލ. ދެކުނުވިނަގަނޑު,ދެކުނުވިނަގަނޑު
-837,L,L - Dhonberahaa,Dhonberahaa,ލ,ލ. ދޮންބެރަހާ,ދޮންބެރަހާ
-838,L,L - Fares,Fares,ލ,ލ. ފަރެސް,ފަރެސް
-839,L,L - Fenboahuraa,Fenboahuraa,ލ,ލ. ފެންބޯހުރާ,ފެންބޯހުރާ
-840,L,L - Fenboarahaa,Fenboarahaa,ލ,ލ. ފެންބޯރަހާ,ފެންބޯރަހާ
-816,L,L - Fonadhoo,Fonadhoo,ލ,ލ. ފޮނަދޫ,ފޮނަދޫ
-841,L,L - Fonagaadhoo,Fonagaadhoo,ލ,ލ. ފޮނަގާދޫ,ފޮނަގާދޫ
-842,L,L - Fushi,Fushi,ލ,ލ. ފުށި,ފުށި
-817,L,L - Gaadhoo,Gaadhoo,ލ,ލ. ގާދޫ,ގާދޫ
-814,L,L - Gan,Gan,ލ,ލ. ގަން,ގަން
-843,L,L - Gasgfinolhu,Gasgfinolhu,ލ,ލ. ގަސްފިނޮޅު,ގަސްފިނޮޅު
-844,L,L - Guraidhoo,Guraidhoo,ލ,ލ. ގުރައިދޫ,ގުރައިދޫ
-846,L,L - Haiythoshi,Haiythoshi,ލ,ލ. ހަތްތޮށި,ހަތްތޮށި
-847,L,L - Hanhushi,Hanhushi,ލ,ލ. ހަންހުށި,ހަންހުށި
-848,L,L - Hedha,Hedha,ލ,ލ. ހެދަ,ހެދަ
-849,L,L - Hikandhirahaa,Hikandhirahaa,ލ,ލ. ހިކަނދިރަހާ,ހިކަނދިރަހާ
-819,L,L - Hithadhoo,Hithadhoo,ލ,ލ. ހިތަދޫ,ހިތަދޫ
-850,L,L - Holhurahaa,Holhurahaa,ލ,ލ. ހޮޅުރަހާ,ހޮޅުރަހާ
-823,L,L - Hulhimendhoo,Hulhimendhoo,ލ,ލ. ހުޅިމެންދޫ,ހުޅިމެންދޫ
-851,L,L - Hulhisdhoo,Hulhisdhoo,ލ,ލ. ހުޅިސްދޫ,ހުޅިސްދޫ
-852,L,L - Hulhiyandhoo,Hulhiyandhoo,ލ,ލ. ހުޅިޔަންދޫ,ހުޅިޔަންދޫ
-809,L,L - Isdhoo,Isdhoo,ލ,ލ. އިސްދޫ,އިސްދޫ
-824,L,L - Kadhdhoo,Kadhdhoo,ލ,ލ. ކައްދޫ,ކައްދޫ
-813,L,L - Kalhaidhoo,Kalhaidhoo,ލ,ލ. ކަޅައިދޫ,ކަޅައިދޫ
-853,L,L - Kalhurahaa,Kalhurahaa,ލ,ލ. ކަޅުރަހާ,ކަޅުރަހާ
-854,L,L - Kandaru,Kandaru,ލ,ލ. ކަނޑަރު,ކަނޑަރު
-855,L,L - Kanuhuraa,Kanuhuraa,ލ,ލ. ކަނުހުރާ,ކަނުހުރާ
-858,L,L - Kudafares,Kudafares,ލ,ލ. ކުޑަފަރެސް,ކުޑަފަރެސް
-860,L,L - Kudafushi,Kudafushi,ލ,ލ. ކުޑަފުށި,ކުޑަފުށި
-831,L,L - Kudahuraa,Kudahuraa,ލ,ލ. ކުޑަހުރާ,ކުޑަހުރާ
-861,L,L - Kudakalhaidhoo,Kudakalhaidhoo,ލ,ލ. ކުޑަކަޅައިދޫ,ކުޑަކަޅައިދޫ
-862,L,L - Kudamaabulhahi,Kudamaabulhahi,ލ,ލ. ކުޑަމާބުޅަހި,ކުޑަމާބުޅަހި
-820,L,L - Kunahandhoo,Kunahandhoo,ލ,ލ. ކުނަހަންދޫ,ކުނަހަންދޫ
-811,L,L - Maabaidhoo,Maabaidhoo,ލ,ލ. މާބައިދޫ,މާބައިދޫ
-865,L,L - Maafushi,Maafushi,ލ,ލ. މާފުށި,މާފުށި
-866,L,L - Maakalhuveli,Maakalhuveli,ލ,ލ. މާކަޅުވެލި,މާކަޅުވެލި
-818,L,L - Maamendhoo,Maamendhoo,ލ,ލ. މާމެންދޫ,މާމެންދޫ
-822,L,L - Maandhoo,Maandhoo,ލ,ލ. މާންދޫ,މާންދޫ
-815,L,L - Maavah,Maavah,ލ,ލ. މާވަށް,މާވަށް
-867,L,L - Maaveshi,Maaveshi,ލ,ލ. މާވެށި,މާވެށި
-868,L,L - Mahakanfushi,Mahakanfushi,ލ,ލ. މަހަކަންފުށި,މަހަކަންފުށި
-870,L,L - Medhuvinagadu,Medhuvinagadu,ލ,ލ. މެދުވިނަގަނޑު,މެދުވިނަގަނޑު
-871,L,L - Mendhoo,Mendhoo,ލ,ލ. މެންދޫ,މެންދޫ
-812,L,L - Mundoo,Mundoo,ލ,ލ. މުންޑޫ,މުންޑޫ
-872,L,L - Olhutholhu,Olhutholhu,ލ,ލ. އޮޅުތޮޅި,އޮޅުތޮޅި
-873,L,L - Olhuveli,Olhuveli,ލ,ލ. އޮޅުވެލި,އޮޅުވެލި
-875,L,L - Thunburi,Thunburi,ލ,ލ. ތުނބުރި,ތުނބުރި
-877,L,L - Uthuruvinagadu,Uthuruvinagadu,ލ,ލ. އުތުރުވިނަގަނޑު,އުތުރުވިނަގަނޑު
-878,L,L - Uvadhevifushi,Uvadhevifushi,ލ,ލ. އުވަދެވިފުށި,އުވަދެވިފުށި
-879,L,L - Vadinolhu,Vadinolhu,ލ,ލ. ވަދިނޮޅު,ވަދިނޮޅު
-880,L,L - Veligandufinolhu,Veligandufinolhu,ލ,ލ. ވެލިގަނޑުފިނޮޅު,ވެލިގަނޑުފިނޮޅު
-881,L,L - Ziyaaraiffushi,Ziyaaraiffushi,ލ,ލ. ޒިޔާރަތްފުށި,ޒިޔާރަތްފުށި
-882,GA,GA - Kolamaafushi,Kolamaafushi,ގއ,ގއ. ކޮލަމާފުށި,ކޮލަމާފުށި
-883,GA,GA - Villingili,Villingili,ގއ,ގއ. ވިލިނގިލި,ވިލިނގިލި
-884,GA,GA - Maamendhoo,Maamendhoo,ގއ,ގއ. މާމެންދޫ,މާމެންދޫ
-885,GA,GA - Nilandhoo,Nilandhoo,ގއ,ގއ. ނިލަންދޫ,ނިލަންދޫ
-886,GA,GA - Dhaandhoo,Dhaandhoo,ގއ,ގއ. ދާންދޫ,ދާންދޫ
-887,GA,GA - Dhevvadhoo,Dhevvadhoo,ގއ,ގއ. ދެއްވަދޫ,ދެއްވަދޫ
-888,GA,GA - Kondey,Kondey,ގއ,ގއ. ކޮނޑޭ,ކޮނޑޭ
-889,GA,GA - Dhiyadhoo,Dhiyadhoo,ގއ,ގއ. ދިޔަދޫ,ދިޔަދޫ
-890,GA,GA - Gemanafushi,Gemanafushi,ގއ,ގއ. ގެމަނަފުށި,ގެމަނަފުށި
-891,GA,GA - Kanduhulhudhoo,Kanduhulhudhoo,ގއ,ގއ. ކަނޑުހުޅުދޫ,ކަނޑުހުޅުދޫ
-892,GA,GA - Kooddoo,Kooddoo,ގއ,ގއ. ކޫއްޑޫ,ކޫއްޑޫ
-893,GA,GA - Kendheraa,Kendheraa,ގއ,ގއ. ކެނދެރާ,ކެނދެރާ
-894,GA,GA - Araigaththaa,Araigaththaa,ގއ,ގއ. އަރައިގަތްތާ,އަރައިގަތްތާ
-895,GA,GA - Baavanadhoo,Baavanadhoo,ގއ,ގއ. ބާވަނަދޫ,ބާވަނަދޫ
-896,GA,GA - Baberaahuttaa,Baberaahuttaa,ގއ,ގއ. ބަބެރާހުއްޓާ,ބަބެރާހުއްޓާ
-897,GA,GA - Bakeththaa,Bakeththaa,ގއ,ގއ. ބަކެއްތާ,ބަކެއްތާ
-898,GA,GA - Beyrumauddoo,Beyrumauddoo,ގއ,ގއ. ބޭރުމާއުއްޑޫ,ބޭރުމާއުއްޑޫ
-899,GA,GA - Boaddoo,Boaddoo,ގއ,ގއ. ބޯއްޑޫ,ބޯއްޑޫ
-900,GA,GA - Bodubondeyyaa,Bodubondeyyaa,ގއ,ގއ. ބޮޑުބޮންޑެއްޔާ,ބޮޑުބޮންޑެއްޔާ
-902,GA,GA - Bodehuttaa,Bodehuttaa,ގއ,ގއ. ބޮޑެހުއްޓާ,ބޮޑެހުއްޓާ
-903,GA,GA - Dhevaamaagalaa,Dhevaamaagalaa,ގއ,ގއ. ދެވާމާގަލާ,ދެވާމާގަލާ
-904,GA,GA - Dhevalaabadhoo,Dhevalaabadhoo,ގއ,ގއ. ދެވަލާބަދޫ,ދެވަލާބަދޫ
-905,GA,GA - Dhigudhoo,Dhigudhoo,ގއ,ގއ. ދިގުދޫ,ދިގުދޫ
-906,GA,GA - Dhigurah,Dhigurah,ގއ,ގއ. ދިގުރަށް,ދިގުރަށް
-907,GA,GA - Falhumaafushi,Falhumaafushi,ގއ,ގއ. ފަޅުމާފުށި,ފަޅުމާފުށި
-908,GA,GA - Falhuverrehaa,Falhuverrehaa,ގއ,ގއ. ފަޅުވެއްރެހާ,ފަޅުވެއްރެހާ
-909,GA,GA - Faruhulhudhoo,Faruhulhudhoo,ގއ,ގއ. ފަރުހުޅުދޫ,ފަރުހުޅުދޫ
-910,GA,GA - Fenrehaa,Fenrehaa,ގއ,ގއ. ފެންރެހާ,ފެންރެހާ
-911,GA,GA - Fenrehaahuttaa,Fenrehaahuttaa,ގއ,ގއ. ފެންރެހާހުއްޓާ,ފެންރެހާހުއްޓާ
-912,GA,GA - Fulangi,Fulangi,ގއ,ގއ. ފުލަނގި,ފުލަނގި
-913,GA,GA - Funadhoo,Funadhoo,ގއ,ގއ. ފުނަދޫ,ފުނަދޫ
-914,GA,GA - Funadhooviligillaa,Funadhooviligillaa,ގއ,ގއ. ފުނަދޫވިލިގިއްލާ,ފުނަދޫވިލިގިއްލާ
-915,GA,GA - Funamauddoo,Funamauddoo,ގއ,ގއ. ފުނަމައުއްޑޫ,ފުނަމައުއްޑޫ
-916,GA,GA - Galamadhoo,Galamadhoo,ގއ,ގއ. ގަލަމަދޫ,ގަލަމަދޫ
-917,GA,GA - Hadahaa,Hadahaa,ގއ,ގއ. ހަޑަހާ,ހަޑަހާ
-918,GA,GA - Hagedhoo,Hagedhoo,ގއ,ގއ. ހަގެދޫ,ހަގެދޫ
-919,GA,GA - Hagevillaa,Hagevillaa,ގއ,ގއ. ހަގެވިލާ,ހަގެވިލާ
-920,GA,GA - Heenaamaagalaa,Heenaamaagalaa,ގއ,ގއ. ހީނާމާގަލާ,ހީނާމާގަލާ
-921,GA,GA - Hirihuttaa,Hirihuttaa,ގއ,ގއ. ހިރިހުއްޓާ,ހިރިހުއްޓާ
-922,GA,GA - Hithaadhoo,Hithaadhoo,ގއ,ގއ. ހިތާދޫ,ހިތާދޫ
-923,GA,GA - Hithandhoogalaa,Hithandhoogalaa,ގއ,ގއ. ހިތަންދޫގަލާ,ހިތަންދޫގަލާ
-924,GA,GA - Hulhimendhoo,Hulhimendhoo,ގއ,ގއ. ހުޅިމެންދޫ,ހުޅިމެންދޫ
-925,GA,GA - Huredhdhoo,Huredhdhoo,ގއ,ގއ. ހުރެއްދޫ,ހުރެއްދޫ
-926,GA,GA - Idimaa,Idimaa,ގއ,ގއ. އިޑިމާ,އިޑިމާ
-928,GA,GA - Kanduvilingili,Kanduvilingili,ގއ,ގއ. ކަނޑުވިލިނގިލި,ކަނޑުވިލިނގިލި
-929,GA,GA - Kalhehuttaa,Kalhehuttaa,ގއ,ގއ. ކަޅެހުއްޓާ,ކަޅެހުއްޓާ
-930,GA,GA - Keesseyrahaa,Keesseyrahaa,ގއ,ގއ. ކީއްސޭރަހާ,ކީއްސޭރަހާ
-932,GA,GA - Kodafuttaa,Kodafuttaa,ގއ,ގއ. ކޮޑަފުއްޓާ,ކޮޑަފުއްޓާ
-933,GA,GA - Kodeymatheelaabadhoo,Kodeymatheelaabadhoo,ގއ,ގއ. ކޮނޑޭމަތީލާބަދޫ,ކޮނޑޭމަތީލާބަދޫ
-934,GA,GA - Kodeyvilingili,Kodeyvilingili,ގއ,ގއ. ކޮނޑޭވިލިނގިލި,ކޮނޑޭވިލިނގިލި
-936,GA,GA - Kubumaafushi,Kubumaafushi,ގއ,ގއ. ކުބުމާފުށި,ކުބުމާފުށި
-937,GA,GA - Kudafehala,Kudafehala,ގއ,ގއ. ކުޑަފެހަލަ,ކުޑަފެހަލަ
-938,GA,GA - Kudalafari,Kudalafari,ގއ,ގއ. ކުޑަލަފަރި,ކުޑަލަފަރި
-939,GA,GA - Kudhebondeyyaa,Kudhebondeyyaa,ގއ,ގއ. ކުދެބޮންޑެއްޔާ,ކުދެބޮންޑެއްޔާ
-940,GA,GA - Kuredhdhoo,Kuredhdhoo,ގއ,ގއ. ކުރެއްދޫ,ކުރެއްދޫ
-941,GA,GA - Lhossaa,Lhossaa,ގއ,ގއ. ޅޮއްސާ,ޅޮއްސާ
-942,GA,GA - Maadhiguvara,Maadhiguvara,ގއ,ގއ. މާދިގުވަރު,މާދިގުވަރު
-943,GA,GA - Maafehelaa,Maafehelaa,ގއ,ގއ. މާފެހެލާ,މާފެހެލާ
-944,GA,GA - Maagehuttaa,Maagehuttaa,ގއ,ގއ. މާގެހުއްޓާ,މާގެހުއްޓާ
-945,GA,GA - Maamutaa,Maamutaa,ގއ,ގއ. މާމުތާ,މާމުތާ
-946,GA,GA - Maanaagalaa,Maanaagalaa,ގއ,ގއ. މާނާގަލާ,މާނާގަލާ
-947,GA,GA - Maarandhoo,Maarandhoo,ގއ,ގއ. މާރަންދޫ,މާރަންދޫ
-948,GA,GA - Maarehaa,Maarehaa,ގއ,ގއ. މާރެހާ,މާރެހާ
-949,GA,GA - Mahadhdhoo,Mahadhdhoo,ގއ,ގއ. މަހައްދޫ,މަހައްދޫ
-951,GA,GA - Medhuhuttaa,Medhuhuttaa,ގއ,ގއ. މެދުހުއްޓާ,މެދުހުއްޓާ
-952,GA,GA - Medhurehaa,Medhurehaa,ގއ,ގއ. މެދުރެހާ,މެދުރެހާ
-953,GA,GA - Melaimu,Melaimu,ގއ,ގއ. މެލައިމު,މެލައިމު
-954,GA,GA - Meradhoo,Meradhoo,ގއ,ގއ. މެރަދޫ,މެރަދޫ
-955,GA,GA - Minimensaa,Minimensaa,ގއ,ގއ. މިނިމެންސާ,މިނިމެންސާ
-956,GA,GA - Munandhoo,Munandhoo,ގއ,ގއ. މުނަންދޫ,މުނަންދޫ
-957,GA,GA - Odagallaa,Odagallaa,ގއ,ގއ. އޮޑަގައްލާ,އޮޑަގައްލާ
-958,GA,GA - Raavehrehaa,Raavehrehaa,ގއ,ގއ. ރާވެއްރެހާ,ރާވެއްރެހާ
-959,GA,GA - Ribidhoo,Ribidhoo,ގއ,ގއ. ރިބދޫ,ރިބދޫ
-960,GA,GA - Viligalaa,Viligalaa,ގއ,ގއ. ވިލިގަލާ,ވިލިގަލާ
-961,GA,GA - Vodamulaa,Vodamulaa,ގއ,ގއ. ވޮޑަމުލާ,ވޮޑަމުލާ
-962,GDh,GDh - Madaveli,Madaveli,ގދ,ގދ. މަޑަވެލި,މަޑަވެލި
-963,GDh,GDh - Hoadedhdhoo,Hoadedhdhoo,ގދ,ގދ. ހޯޑެއްދޫ,ހޯޑެއްދޫ
-964,GDh,GDh - Nadellaa,Nadellaa,ގދ,ގދ. ނަޑެއްލާ,ނަޑެއްލާ
-965,GDh,GDh - Gadhdhoo,Gadhdhoo,ގދ,ގދ. ގައްދޫ,ގައްދޫ
-966,GDh,GDh - Rathafandhoo,Rathafandhoo,ގދ,ގދ. ރަތަފަންދޫ,ރަތަފަންދޫ
-967,GDh,GDh - Vaadhoo,Vaadhoo,ގދ,ގދ. ވާދޫ,ވާދޫ
-968,GDh,GDh - Fiyoari,Fiyoari,ގދ,ގދ. ފިޔޯރީ,ފިޔޯރީ
-971,GDh,GDh - Thinadhoo,Thinadhoo,ގދ,ގދ. ތިނަދޫ,ތިނަދޫ
-972,GDh,GDh - Fares-Maathodaa,Fares-Maathodaa,ގދ,ގދ. ފަރެސްމާތޮޑާ,ފަރެސްމާތޮޑާ
-973,GDh,GDh - Konottaa,Konottaa,ގދ,ގދ. ކޮނޮއްޓާ,ކޮނޮއްޓާ
-974,GDh,GDh - Kaadedhdhoo,Kaadedhdhoo,ގދ,ގދ. ކާޑެއްދޫ,ކާޑެއްދޫ
-975,GDh,GDh - Baulhageella,Baulhageella,ގދ,ގދ. ބާއުޅަގީއްލާ,ބާއުޅަގީއްލާ
-976,GDh,GDh - Dhigulaabadhoo,Dhigulaabadhoo,ގދ,ގދ. ދިގުލާބަދޫ,ދިގުލާބަދޫ
-977,GDh,GDh - Dhoonirehaa,Dhoonirehaa,ގދ,ގދ. ދޫނިރެހާ,ދޫނިރެހާ
-978,GDh,GDh - Faanahuttaa,Faanahuttaa,ގދ,ގދ. ފާނަހުއްޓާ,ފާނަހުއްޓާ
-979,GDh,GDh - Farehulhudhoo,Farehulhudhoo,ގދ,ގދ. ފާރެހުޅުދޫ,ފާރެހުޅުދޫ
-980,GDh,GDh - Gan,Gan,ގދ,ގދ. ގަން,ގަން
-981,GDh,GDh - Gazeera,Gazeera,ގދ,ގދ. ގަޒީރާ,ގަޒީރާ
-982,GDh,GDh - Golhallaa,Golhallaa,ގދ,ގދ. ގޮޅައްލާ,ގޮޅައްލާ
-983,GDh,GDh - Haadhoo,Haadhoo,ގދ,ގދ. ހާދޫ,ހާދޫ
-984,GDh,GDh - Havoddaa,Havoddaa,ގދ,ގދ. ހޮވައްޑާ,ހޮވައްޑާ
-985,GDh,GDh - Havodigalaa,Havodigalaa,ގދ,ގދ. ހޮވަޑިގަލާ,ހޮވަޑިގަލާ
-986,GDh,GDh - Hulhuvaarulu,Hulhuvaarulu,ގދ,ގދ. ހުޅުވާރުލު,ހުޅުވާރުލު
-988,GDh,GDh - Kaashidhoo,Kaashidhoo,ގދ,ގދ. ކާށިދޫ,ކާށިދޫ
-989,GDh,GDh - Kadahalagalaa,Kadahalagalaa,ގދ,ގދ. ކަޑަހަލަގަލާ,ކަޑަހަލަގަލާ
-990,GDh,GDh - Kafenaa,Kafenaa,ގދ,ގދ. ކާފެނާ,ކާފެނާ
-991,GDh,GDh - Kalhehamala,Kalhehamala,ގދ,ގދ. ކަޅެހަމަލަ,ކަޅެހަމަލަ
-992,GDh,GDh - Kalherehaa,Kalherehaa,ގދ,ގދ. ކަޅެރެހާ,ކަޅެރެހާ
-993,GDh,GDh - Kodaanafuttaa,Kodaanafuttaa,ގދ,ގދ. ކޮޑާނަފުއްޓާ,ކޮޑާނަފުއްޓާ
-994,GDh,GDh - Odavarrehaa,Odavarrehaa,ގދ,ގދ. އޮޑަވައްރެހާ,އޮޑަވައްރެހާ
-996,GDh,GDh - Kudhelaihaa,Kudhelaihaa,ގދ,ގދ. ކުދެލައިހާ,ކުދެލައިހާ
-997,GDh,GDh - Laihaa,Laihaa,ގދ,ގދ. ލައިހާ,ލައިހާ
-998,GDh,GDh - Lonudhoo,Lonudhoo,ގދ,ގދ. ލޮނުދޫ,ލޮނުދޫ
-999,GDh,GDh - Lonudhoohuttaa,Lonudhoohuttaa,ގދ,ގދ. ލޮނުދޫހުއްޓާ,ލޮނުދޫހުއްޓާ
-1000,GDh,GDh - Gehemaagala,Gehemaagala,ގދ,ގދ. ގެހެމާގަލާ,ގެހެމާގަލާ
-1001,GDh,GDh - Maagoderehaa,Maagoderehaa,ގދ,ގދ. މާގޮޑެރެހާ,މާގޮޑެރެހާ
-1004,GDh,GDh - Maavaarulu,Maavaarulu,ގދ,ގދ. މާވާރުލު,މާވާރުލު
-1005,GDh,GDh - Maavadhdhuvaa,Maavadhdhuvaa,ގދ,ގދ. މާވަށްދުވާ,މާވަށްދުވާ
-1006,GDh,GDh - Magudhdhuvaa,Magudhdhuvaa,ގދ,ގދ. މަގުއްދުވާ,މަގުއްދުވާ
-1007,GDh,GDh - Mallaarehaa,Mallaarehaa,ގދ,ގދ. މައްލާރެހާ,މައްލާރެހާ
-1008,GDh,GDh - Mathihuttaa,Mathihuttaa,ގދ,ގދ. މަތިހުއްޓާ,މަތިހުއްޓާ
-1009,GDh,GDh - Menthandhuvaa,Menthandhuvaa,ގދ,ގދ. މެންތަނޑުވާ,މެންތަނޑުވާ
-1010,GDh,GDh - Mudhimaahuttaa,Mudhimaahuttaa,ގދ,ގދ. މުދިމާހުއްޓާ,މުދިމާހުއްޓާ
-1011,GDh,GDh - Odagallaa,Odagallaa,ގދ,ގދ. އޮޑަގައްލާ,އޮޑަގައްލާ
-1012,GDh,GDh - Rahadhuvaa,Rahadhuvaa,ގދ,ގދ. ރަހަދުވާ,ރަހަދުވާ
-1013,GDh,GDh - Meehunthibenehuttaa,Meehunthibenehuttaa,ގދ,ގދ. މީހުންތިބެނެހުއްޓާ,މީހުންތިބެނެހުއްޓާ
-1014,GDh,GDh - Thinehuttaa,Thinehuttaa,ގދ,ގދ. ތިނެހުއްޓާ,ތިނެހުއްޓާ
-1015,GDh,GDh - Ullegalaa,Ullegalaa,ގދ,ގދ. އުއްލެގަލާ,އުއްލެގަލާ
-1016,GDh,GDh - Vaireyaadhuvaa,Vaireyaadhuvaa,ގދ,ގދ. ވައިރެޔާދުވާ,ވައިރެޔާދުވާ
-1017,GDh,GDh - Vatavarrehaa,Vatavarrehaa,ގދ,ގދ. ވަޓަވައްރެހާ,ވަޓަވައްރެހާ
-1018,GDh,GDh - Gehevelagalaa,Gehevelagalaa,ގދ,ގދ. ގެހެވެލަގަލާ,ގެހެވެލަގަލާ
-1019,GDh,GDh - Veraaviligilillaa,Veraaviligilillaa,ގދ,ގދ. ވެރާވިލިގިލިއްލާ,ވެރާވިލިގިލިއްލާ
-1020,Gn,Gn - Fuvahmulah,Fuvahmulah,ޏ,ޏ. ފުވައްމުލައް,ފުވައްމުލައް
-1021,S,S - Meedhoo,Meedhoo,ސ,ސ. މީދޫ,މީދޫ
-1022,S,S - Hithadhoo,Hithadhoo,ސ,ސ. ހިތަދޫ,ހިތަދޫ
-1023,S,S - Maradhoo,Maradhoo,ސ,ސ. މަރަދޫ,މަރަދޫ
-1024,S,S - Feydhoo,Feydhoo,ސ,ސ. ފޭދޫ,ފޭދޫ
-1025,S,S - Maradhoo-Feydhoo,Maradhoo-Feydhoo,ސ,ސ. މަރަދޫފޭދޫ,މަރަދޫފޭދޫ
-1026,S,S - Hulhudhoo,Hulhudhoo,ސ,ސ. ހުޅުދޫ,ހުޅުދޫ
-1027,S,S - Hulhumeedhoo,Hulhumeedhoo,ސ,ސ. ހުޅުމީދޫ,ހުޅުމީދޫ
-1028,S,S - Gan,Gan,ސ,ސ. ގަން,ގަން
-1029,S,S - Bedeyaurah,Bedeyaurah,ސ,ސ. ބެދޭއައުރަށް,ބެދޭއައުރަށް
-1030,S,S - Boduhajara,Boduhajara,ސ,ސ. ބޮޑުހަޖަރާ,ބޮޑުހަޖަރާ
-1032,S,S - Dheerondi,Dheerondi,ސ,ސ. ދީރޮނޑި,ދީރޮނޑި
-1033,S,S - Dhigihera,Dhigihera,ސ,ސ. ދިގިހެރަ,ދިގިހެރަ
-1034,S,S - Gomahera,Gomahera,ސ,ސ. ގޮމަހެރަ,ގޮމަހެރަ
-1035,S,S - Hankede,Hankede,ސ,ސ. ހަންކެޑެ,ހަންކެޑެ
-1037,S,S - Herethere,Herethere,ސ,ސ. ހެރެތެރެ,ހެރެތެރެ
-1038,S,S - Hikahera,Hikahera,ސ,ސ. ހިކަހެރަ,ހިކަހެރަ
-1039,S,S - Kafathalhaahera,Kafathalhaahera,ސ,ސ. ކަފަތަޅާހެރަ,ކަފަތަޅާހެރަ
-1040,S,S - Kan'dihera,Kan'dihera,ސ,ސ. ކަނޑިހެރަ,ކަނޑިހެރަ
-1041,S,S - Kedavaahera,Kedavaahera,ސ,ސ. ކެޑަވާހެރަ,ކެޑަވާހެރަ
-1042,S,S - Kudamaahera,Kudamaahera,ސ,ސ. ކުޑަމާހެރަ,ކުޑަމާހެރަ
-1043,S,S - Kaohera,Kaohera,ސ,ސ. ކޯހެރަ,ކޯހެރަ
-1044,S,S - Maahera,Maahera,ސ,ސ. މާހެރަ,މާހެރަ
-1045,S,S - Mulike'de,Mulike'de,ސ,ސ. މުލިކެނޑެ,މުލިކެނޑެ
-1046,S,S - Savaaheli,Savaaheli,ސ,ސ. ސަވާހެލި,ސަވާހެލި
-1047,S,S - Villingili,Villingili,ސ,ސ. ވިލިނގިލި,ވިލިނގިލި
-1048,M,M - Muli - Naalaaushi,Muli - Naalaaushi,މ,މ. މުލި - ނާލާފުށި,މުލި - ނާލާފުށި
-1049,GDh,GDh - Madaveli - Hoadehdhoo,Madaveli - Hoadehdhoo,ގދ,ގދ. މަޑަވެލި - ހޯޑެއްދޫ,މަޑަވެލި - ހޯޑެއްދޫ
-1050,S,S - Hulhudhoo - Meedhoo,Hulhudhoo - Meedhoo,ސ,ސ. ހުޅުދޫ - މީދޫ,ހުޅުދޫ
+1,HA,HA - Thuraakunu,Thuraakunu,ހއ,ހއ - ތުރާކުނު,ތުރާކުނު
+2,HA,HA - Uligamu,Uligamu,ހއ,ހއ - އުލިގަން,އުލިގަން
+3,HA,HA - Berinmadhoo,Berinmadhoo,ހއ,ހއ - ބެރިންމަދޫ,ބެރިންމަދޫ
+4,HA,HA - Hathifushi,Hathifushi,ހއ,ހއ - ހަތިފުށި,ހަތިފުށި
+5,HA,HA - Molhadhoo,Molhadhoo,ހއ,ހއ - މޮޅަދޫ,މޮޅަދޫ
+6,HA,HA - Hoarafushi,Hoarafushi,ހއ,ހއ - ހޯރަފުށި,ހޯރަފުށި
+7,HA,HA - Ihavandhoo,Ihavandhoo,ހއ,ހއ - އިހަވަންދޫ,އިހަވަންދޫ
+8,HA,HA - Kelaa,Kelaa,ހއ,ހއ - ކެލާ,ކެލާ
+9,HA,HA - Vashafaru,Vashafaru,ހއ,ހއ - ވަށަފަރު,ވަށަފަރު
+10,HA,HA - Dhidhdhoo,Dhidhdhoo,ހއ,ހއ - ދިއްދޫ,ދިއްދޫ
+11,HA,HA - Filladhoo,Filladhoo,ހއ,ހއ - ފިއްލަދޫ,ފިއްލަދޫ
+12,HA,HA - Maarandhoo,Maarandhoo,ހއ,ހއ - މާރަންދޫ,މާރަންދޫ
+13,HA,HA - Thakandhoo,Thakandhoo,ހއ,ހއ - ތަކަންދޫ,ތަކަންދޫ
+14,HA,HA - Utheem,Utheem,ހއ,ހއ - އުތީމު,އުތީމު
+15,HA,HA - Muraidhoo,Muraidhoo,ހއ,ހއ - މުރައިދޫ,މުރައިދޫ
+16,HA,HA - Baarah,Baarah,ހއ,ހއ - ބާރަށް,ބާރަށް
+17,HA,HA - Maafahi,Maafahi,ހއ,ހއ - މާފަހި,މާފަހި
+18,HA,HA - Alidhoo,Alidhoo,ހއ,ހއ - އަލިދޫ,އަލިދޫ
+19,HA,HA - Huvahandhoo,Huvahandhoo,ހއ,ހއ - ހުވަހަންދޫ,ހުވަހަންދޫ
+20,HA,HA - Dhonakulhi,Dhonakulhi,ހއ,ހއ - ދޮނަކުޅި,ދޮނަކުޅި
+21,HA,HA - Beenaafushi,Beenaafushi,ހއ,ހއ - ބީނާފުށި,ބީނާފުށި
+22,HA,HA - Dhapparuhuraa,Dhapparuhuraa,ހއ,ހއ - ދައްޕަރުހުރާ,ދައްޕަރުހުރާ
+23,HA,HA - Dhigufaruhuraa,Dhigufaruhuraa,ހއ,ހއ - ދިގުފަރުހުރާ,ދިގުފަރުހުރާ
+24,HA,HA - Gaafushi,Gaafushi,ހއ,ހއ - ގާފުށި,ގާފުށި
+25,HA,HA - Gaamathikulhudhoo,Gaamathikulhudhoo,ހއ,ހއ - ގާމަތިކުޅުދޫ,ގާމަތިކުޅުދޫ
+26,HA,HA - Gallandhoo,Gallandhoo,ހއ,ހއ - ގައްލަންދޫ,ގައްލަންދޫ
+27,HA,HA - Govvaafushi,Govvaafushi,ހއ,ހއ - ގޮށްވާފުށި,ގޮށްވާފުށި
+28,HA,HA - Innafinolhu,Innafinolhu,ހއ,ހއ - އިންނަފިނޮޅު,އިންނަފިނޮޅު
+29,HA,HA - Kudafinolhu,Kudafinolhu,ހއ,ހއ - ކުޑަފިނޮޅު,ކުޑަފިނޮޅު
+31,HA,HA - Maafinolhu,Maafinolhu,ހއ,ހއ - މާފިނޮޅު,މާފިނޮޅު
+32,HA,HA - Madulu,Madulu,ހއ,ހއ - މަޑުލު,މަޑުލު
+33,HA,HA - Manafaru,Manafaru,ހއ,ހއ - މަނަފަރު,މަނަފަރު
+34,HA,HA - Matheerah,Matheerah,ހއ,ހއ - މަތީރަށް,މަތީރަށް
+35,HA,HA - Medhafushi,Medhafushi,ހއ,ހއ - މެދަފުށި,މެދަފުށި
+36,HA,HA - Mulidhoo,Mulidhoo,ހއ,ހއ - މުލިދޫ,މުލިދޫ
+37,HA,HA - Naridhoo,Naridhoo,ހއ,ހއ - ނަރިދޫ,ނަރިދޫ
+38,HA,HA - Ubulifinolhu,Ubulifinolhu,ހއ,ހއ - އުނބުލިފިނޮޅު,އުނބުލިފިނޮޅު
+39,HA,HA - Umaraiyfinolhu,Umaraiyfinolhu,ހއ,ހއ - އުމަރަތްފިނޮޅު,އުމަރަތްފިނޮޅު
+40,HA,HA - Vangaaru,Vangaaru,ހއ,ހއ - ވަނގާރު,ވަނގާރު
+41,HA,HA - Velifinolhu,Velifinolhu,ހއ,ހއ - ވެލިފިނޮޅު,ވެލިފިނޮޅު
+42,HDh,HDh - Faridhoo,Faridhoo,ހދ,ހދ - ފަރިދޫ,ފަރިދޫ
+43,HDh,HDh - Hondaidhoo,Hondaidhoo,ހދ,ހދ - ހޮނޑައިދޫ,ހޮނޑައިދޫ
+44,HDh,HDh - Hanimaadhoo,Hanimaadhoo,ހދ,ހދ - ހަނިމާދޫ,ހަނިމާދޫ
+45,HDh,HDh - Finey,Finey,ހދ,ހދ - ފިނޭ,ފިނޭ
+46,HDh,HDh - Naavaidhoo ,Naavaidhoo ,ހދ,ހދ - ނައިވާދޫ,ނައިވާދޫ
+47,HDh,HDh - Hirimaradhoo,Hirimaradhoo,ހދ,ހދ - ހިރިމަރަދޫ,ހިރިމަރަދޫ
+48,HDh,HDh - Nolhivaranfaru,Nolhivaranfaru,ހދ,ހދ - ނޮޅިވަރަންފަރު,ނޮޅިވަރަންފަރު
+49,HDh,HDh - Nellaidhoo,Nellaidhoo,ހދ,ހދ - ނެއްލައިދޫ,ނެއްލައިދޫ
+50,HDh,HDh - Nolhivaram,Nolhivaram,ހދ,ހދ - ނޮޅިވަރަމް,ނޮޅިވަރަމް
+51,HDh,HDh - Kurinbi,Kurinbi,ހދ,ހދ - ކުރިނބި,ކުރިނބި
+52,HDh,HDh - Kunburudhoo,Kunburudhoo,ހދ,ހދ - ކުނބުރުދޫ,ކުނބުރުދޫ
+53,HDh,HDh - Kulhudhuffushi,Kulhudhuffushi,ހދ,ހދ - ކުޅުދުއްފުށި,ކުޅުދުއްފުށި
+54,HDh,HDh - Kumundhoo,Kumundhoo,ހދ,ހދ - ކުމުންދޫ,ކުމުންދޫ
+55,HDh,HDh - Neykurendhoo,Neykurendhoo,ހދ,ހދ - ނޭކުރެންދޫ,ނޭކުރެންދޫ
+56,HDh,HDh - Vaikaradhoo,Vaikaradhoo,ހދ,ހދ - ވައިކަރަދޫ,ވައިކަރަދޫ
+57,HDh,HDh - Maavaidhoo,Maavaidhoo,ހދ,ހދ - މާވައިދޫ,މާވައިދޫ
+58,HDh,HDh - Makunudhoo,Makunudhoo,ހދ,ހދ - މަކުނުދޫ,މަކުނުދޫ
+59,HDh,HDh - Vaikaramuraidhoo,Vaikaramuraidhoo,ހދ,ހދ - ވައިކަރަމުރާދޫ,ވައިކަރަމުރާދޫ
+60,HDh,HDh - Theefaridhoo,Theefaridhoo,ހދ,ހދ - ތީފަރިދޫ,ތީފަރިދޫ
+61,HDh,HDh - Dhipparufushi,Dhipparufushi,ހދ,ހދ - ދިއްޕަރުފުށި,ދިއްޕަރުފުށި
+62,HDh,HDh - Fenboahuraa,Fenboahuraa,ހދ,ހދ - ފެންބޯހުރާ,ފެންބޯހުރާ
+63,HDh,HDh - Hirinaidhoo,Hirinaidhoo,ހދ,ހދ - ހިރިނައިދޫ,ހިރިނައިދޫ
+64,HDh,HDh - Hodaafushi,Hodaafushi,ހދ,ހދ - ހޮނޑާފުށި,ހޮނޑާފުށި
+65,HDh,HDh - Innafushi,Innafushi,ހދ,ހދ - އިންނަފުށި,އިންނަފުށި
+66,HDh,HDh - Kanamana,Kanamana,ހދ,ހދ - ކަނަމަނަ,ކަނަމަނަ
+68,HDh,HDh - Kattalafushi,Kattalafushi,ހދ,ހދ - ކައްޓަލަފުށި,ކައްޓަލަފުށި
+69,HDh,HDh - Keylakunu,Keylakunu,ހދ,ހދ - ކޭލަކުނު,ކޭލަކުނު
+70,HDh,HDh - Kudafaru,Kudafaru,ހދ,ހދ - ކުޑަފަރު,ކުޑަފަރު
+71,HDh,HDh - Kudamuraidhoo,Kudamuraidhoo,ހދ,ހދ - ކުޑަމުރައިދޫ,ކުޑަމުރައިދޫ
+72,HDh,HDh - Muiri,Muiri,ހދ,ހދ - މުއިރު,މުއިރު
+73,HDh,HDh - Naagoashi,Naagoashi,ހދ,ހދ - ނާގޯށި,ނާގޯށި
+74,HDh,HDh - Rahburi,Rahburi,ހދ,ހދ - ރަށްބުރި,ރަށްބުރި
+75,HDh,HDh - Rasfushi,Rasfushi,ހދ,ހދ - ރަސްފުށި,ރަސްފުށި
+76,HDh,HDh - Ruffushi,Ruffushi,ހދ,ހދ - ރުއްފުށި,ރުއްފުށި
+77,HDh,HDh - Veligandu,Veligandu,ހދ,ހދ - ވެލިގަނޑު,ވެލިގަނޑު
+78,Sh,Sh - Kanditheemu,Kanditheemu,ށ,ށ - ކަނޑިތީމު,ކަނޑިތީމު
+79,Sh,Sh - Noomaraa,Noomaraa,ށ,ށ - ނޫމަރާ,ނޫމަރާ
+80,Sh,Sh - Goidhoo,Goidhoo,ށ,ށ - ގޮއިދޫ,ގޮއިދޫ
+81,Sh,Sh - Feydhoo,Feydhoo,ށ,ށ - ފޭދޫ,ފޭދޫ
+82,Sh,Sh - Feevah,Feevah,ށ,ށ - ފީވައް,ފީވައް
+83,Sh,Sh - Bilehffahi,Bilehffahi,ށ,ށ - ބިލެތްފަހި,ބިލެތްފަހި
+84,Sh,Sh - Foakaidhoo,Foakaidhoo,ށ,ށ - ފޯކައިދޫ,ފޯކައިދޫ
+85,Sh,Sh - Narudhoo,Narudhoo,ށ,ށ - ނަރުދޫ,ނަރުދޫ
+86,Sh,Sh - Maakandoodhoo,Maakandoodhoo,ށ,ށ - މާކަނޑޫދޫ,މާކަނޑޫދޫ
+87,Sh,Sh - Maroshi,Maroshi,ށ,ށ - މަރޮށި,މަރޮށި
+88,Sh,Sh - Lhaimagu,Lhaimagu,ށ,ށ - ޅައިމަގު,ޅައިމަގު
+89,Sh,Sh - Firubaidhoo,Firubaidhoo,ށ,ށ - ފިރުނބައިދޫ,ފިރުނބައިދޫ
+90,Sh,Sh - Komandoo,Komandoo,ށ,ށ - ކޮމަންޑޫ,ކޮމަންޑޫ
+91,Sh,Sh - Maaungoodhoo,Maaungoodhoo,ށ,ށ - މާއުނގޫދޫ,މާއުނގޫދޫ
+92,Sh,Sh - Funadhoo,Funadhoo,ށ,ށ - ފުނަދޫ,ފުނަދޫ
+93,Sh,Sh - Milandhoo,Milandhoo,ށ,ށ - މިލަންދޫ,މިލަންދޫ
+95,Sh,Sh - Keekimini,Keekimini,ށ,ށ - ކީކިމިނި,ކީކިމިނި
+96,Sh,Sh - Bisalhaahuraa,Bisalhaahuraa,ށ,ށ - ބިސްއަޅާހުރާ,ބިސްއަޅާހުރާ
+97,Sh,Sh - Boduhuraa,Boduhuraa,ށ,ށ - ބޮޑުހުރާ,ބޮޑުހުރާ
+98,Sh,Sh - Bolissafaru,Bolissafaru,ށ,ށ - ބޮލިއްސަރު,ބޮލިއްސަރު
+99,Sh,Sh - Dhigurah,Dhigurah,ށ,ށ - ދިގުރަށް,ދިގުރަށް
+100,Sh,Sh - Dhiguvelidhoo,Dhiguvelidhoo,ށ,ށ - ދިގުވެލިދޫ,ދިގުވެލިދޫ
+101,Sh,Sh - Dholhiyadhoo,Dholhiyadhoo,ށ,ށ - ދޮޅިޔަދޫ,ދޮޅިޔަދޫ
+102,Sh,Sh - Dhonvelihuraa,Dhonvelihuraa,ށ,ށ - ދޮންވެލިހުރާ,ދޮންވެލިހުރާ
+103,Sh,Sh - Dolhiyadhoo Kudarah,Dolhiyadhoo Kudarah,ށ,ށ - ދޮޅިޔަދޫކުޑަރަށް,ދޮޅިޔަދޫކުޑަރަށް
+104,Sh,Sh - Eriadhoo,Eriadhoo,ށ,ށ - އެރިއަދޫ,އެރިއަދޫ
+105,Sh,Sh - Eskasdhoo,Eskasdhoo,ށ,ށ - އެސްކަސްދޫ,އެސްކަސްދޫ
+106,Sh,Sh - Farukolhu,Farukolhu,ށ,ށ - ފަރުކޮޅު,ފަރުކޮޅު
+107,Sh,Sh - Fushifaru,Fushifaru,ށ,ށ - ފުށިފަރު,ފުށިފަރު
+108,Sh,Sh - Gaakoshibee,Gaakoshibee,ށ,ށ - ގާކޮށިބީ,ގާކޮށިބީ
+109,Sh,Sh - Gallaidhoo,Gallaidhoo,ށ,ށ - ގައްލައިދޫ,ގައްލައިދޫ
+111,Sh,Sh - Hirubadhoo,Hirubadhoo,ށ,ށ - ހިނރުބަދޫ,ހިނރުބަދޫ
+112,Sh,Sh - Hurasfaru,Hurasfaru,ށ,ށ - ހުރަސްފަރު,ހުރަސްފަރު
+113,Sh,Sh - Ka'baalifaru,Ka'baalifaru,ށ,ށ - ކަނބާލިފަރު,ކަނބާލިފަރު
+114,Sh,Sh - Kakaaeriadhoo,Kakaaeriadhoo,ށ,ށ - ކަކާއެރިއަދޫ,ކަކާއެރިއަދޫ
+115,Sh,Sh - Kudadhoo,Kudadhoo,ށ,ށ - ކުޑަދޫ,ކުޑަދޫ
+116,Sh,Sh - Kudafarufinolhu,Kudafarufinolhu,ށ,ށ - ކުޑަފަރުފިނޮޅު,ކުޑަފަރުފިނޮޅު
+117,Sh,Sh - Kudafaruhuraa,Kudafaruhuraa,ށ,ށ - ކުޑަފަރުހުރާ,ކުޑަފަރުހުރާ
+119,Sh,Sh - Kudalhaimendhoo,Kudalhaimendhoo,ށ,ށ - ކުޑަޅައިމެންދޫ,ކުޑަޅައިމެންދޫ
+120,Sh,Sh - Madidhoo,Madidhoo,ށ,ށ - މަޑިދޫ,މަޑިދޫ
+121,Sh,Sh - Madikuredhdhoo,Madikuredhdhoo,ށ,ށ - މަޑިކުރެއްދޫ,މަޑިކުރެއްދޫ
+122,Sh,Sh - Mathikomandoo,Mathikomandoo,ށ,ށ - މަތިކޮމަންޑޫ,މަތިކޮމަންޑޫ
+123,Sh,Sh - Medhukuburudhoo,Medhukuburudhoo,ށ,ށ - މެދުކުނބުރުދޫ,މެދުކުނބުރުދޫ
+124,Sh,Sh - Medhurah,Medhurah,ށ,ށ - މެދުރަށް,މެދުރަށް
+125,Sh,Sh - Migoodhoo,Migoodhoo,ށ,ށ - މިގޫދޫ,މިގޫދޫ
+126,Sh,Sh - Muleehuraa,Muleehuraa,ށ,ށ - މުލީހުރާ,މުލީހުރާ
+127,Sh,Sh - Naainfaru,Naainfaru,ށ,ށ - ނާއިންފަރު,ނާއިންފަރު
+128,Sh,Sh - Naalaahuraa,Naalaahuraa,ށ,ށ - ނާލާހުރާ,ނާލާހުރާ
+129,Sh,Sh - Nalandhoo,Nalandhoo,ށ,ށ - ނަލަންދޫ,ނަލަންދޫ
+130,Sh,Sh - Naruribudhoo,Naruribudhoo,ށ,ށ - ނަރުރިނބުދޫ,ނަރުރިނބުދޫ
+131,Sh,Sh - Neyo,Neyo,ށ,ށ - ނެޔޮ,ނެޔޮ
+132,Sh,Sh - Vagaru,Vagaru,ށ,ށ - ވަގަރު,ވަގަރު
+133,N,N - Henbandhoo,Henbandhoo,ނ,ނ - ހެނބަދޫ,ހެނބަދޫ
+134,N,N - Kendhikolhudhoo,Kendhikolhudhoo,ނ,ނ - ކެނދިކޮޅުދޫ,ކެނދިކޮޅުދޫ
+135,N,N - Tholhendhoo,Tholhendhoo,ނ,ނ - ތޮޅެންދޫ,ތޮޅެންދޫ
+136,N,N - Maalhendhoo,Maalhendhoo,ނ,ނ - މާޅެންދޫ,މާޅެންދޫ
+137,N,N - Kudafari,Kudafari,ނ,ނ - ކުޑަފަރީ,ކުޑަފަރީ
+138,N,N - Landhoo,Landhoo,ނ,ނ - ލަންދޫ,ލަންދޫ
+139,N,N - Maafaru,Maafaru,ނ,ނ - މާފަރު,މާފަރު
+140,N,N - Lhohi,Lhohi,ނ,ނ - ޅޮހި,ޅޮހި
+141,N,N - Miladhoo,Miladhoo,ނ,ނ - މިލަދޫ,މިލަދޫ
+142,N,N - Magoodhoo,Magoodhoo,ނ,ނ - މަގޫދޫ,މަގޫދޫ
+143,N,N - Manadhoo,Manadhoo,ނ,ނ - މަނަދޫ,މަނަދޫ
+144,N,N - Holhudhoo,Holhudhoo,ނ,ނ - ހޮޅުދޫ,ހޮޅުދޫ
+145,N,N - Fodhdhoo,Fodhdhoo,ނ,ނ - ފޮއްދޫ,ފޮއްދޫ
+146,N,N - Velidhoo,Velidhoo,ނ,ނ - ވެލިދޫ,ވެލިދޫ
+147,N,N - Aarah,Aarah,ނ,ނ - އާރަށް,އާރަށް
+148,N,N - Badaidhidhdhoo,Badaidhidhdhoo,ނ,ނ - ބަނޑިއްދޫ,ބަނޑިއްދޫ
+149,N,N - Bodufushi,Bodufushi,ނ,ނ - ބޮޑުފުށި,ބޮޑުފުށި
+150,N,N - Bodulhaimendhoo,Bodulhaimendhoo,ނ,ނ - ބޮޑުޅައިމެންދޫ,ބޮޑުޅައިމެންދޫ
+151,N,N - Bomasdhoo,Bomasdhoo,ނ,ނ - ބޮމަސްދޫ,ބޮމަސްދޫ
+152,N,N - Burehifasdhoo,Burehifasdhoo,ނ,ނ - ބުރެހިފަސްދޫ,ބުރެހިފަސްދޫ
+153,N,N - Dheefuram,Dheefuram,ނ,ނ - ދީފުރަމް,ދީފުރަމް
+154,N,N - Dhekenanfaru,Dhekenanfaru,ނ,ނ - ދެކެނަންފަރު,ދެކެނަންފަރު
+155,N,N - Dhigurah,Dhigurah,ނ,ނ - ދިގުރަށް,ދިގުރަށް
+156,N,N - Dhonaerikandoodhoo,Dhonaerikandoodhoo,ނ,ނ - ދޮނައެރިކަންދޫދޫ,ދޮނައެރިކަންދޫދޫ
+157,N,N - Edhdhuffaru Mairah,Edhdhuffaru Mairah,ނ,ނ - އެއްދުފަރު މައިރަށް,އެއްދުފަރު މައިރަށް
+158,N,N - Ekulhivaru,Ekulhivaru,ނ,ނ - އެކުޅިވަރު,އެކުޅިވަރު
+160,N,N - Farumuli,Farumuli,ނ,ނ - ފަރުމުލި,ފަރުމުލި
+161,N,N - Felivaru,Felivaru,ނ,ނ - ފެލިވަރު,ފެލިވަރު
+162,N,N - Felivarukudarah,Felivarukudarah,ނ,ނ - ފެލިވަރުކުޑަރަށް,ފެލިވަރުކުޑަރަށް
+163,N,N - Fohdhipparu,Fohdhipparu,ނ,ނ - ފޮށްދިއްޕަރު,ފޮށްދިއްޕަރު
+164,N,N - Fushivelavaru,Fushivelavaru,ނ,ނ - ފުށިވެލަވަރު,ފުށިވެލަވަރު
+165,N,N - Goabilivaadhoo,Goabilivaadhoo,ނ,ނ - ގޯނބިލިވާދޫ,ގޯނބިލިވާދޫ
+166,N,N - Holhumeedhoo,Holhumeedhoo,ނ,ނ - ހޮޅުމީދޫ,ހޮޅުމީދޫ
+167,N,N - Huivani,Huivani,ނ,ނ - ހުއިވަނި,ހުއިވަނި
+168,N,N - Hulhudhdhoo,Hulhudhdhoo,ނ,ނ - ހުޅުއްދޫ,ހުޅުއްދޫ
+169,N,N - Huvadhumaavattaru,Huvadhumaavattaru,ނ,ނ - ހުވަނދުމާވައްޓަރު,ހުވަނދުމާވައްޓަރު
+170,N,N - Inguraidhoo,Inguraidhoo,ނ,ނ - އިނގުރައިދޫ,އިނގުރައިދޫ
+171,N,N - Kaalhugemendhoo,Kaalhugemendhoo,ނ,ނ - ކާޅުގެމެންދޫ,ކާޅުގެމެންދޫ
+172,N,N - Kadinmaahuraa,Kadinmaahuraa,ނ,ނ - ކަނޑިމާހުރާ,ކަނޑިމާހުރާ
+173,N,N - Kafakomandoo,Kafakomandoo,ނ,ނ - ކަފަކޮމަންޑޫ,ކަފަކޮމަންޑޫ
+174,N,N - Kalaidhoo,Kalaidhoo,ނ,ނ - ކަލައިދޫ,ކަލައިދޫ
+175,N,N - Karinma,Karinma,ނ,ނ - ކަރިންމާ,ކަރިންމާ
+176,N,N - Karinmavattaru,Karinmavattaru,ނ,ނ - ކަރިންމަވައްޓަރު,ކަރިންމަވައްޓަރު
+177,N,N - Kedhivaru,Kedhivaru,ނ,ނ - ކެނދިވަރު,ކެނދިވަރު
+178,N,N - Kolhufushi,Kolhufushi,ނ,ނ - ކޮޅުފުށި,ކޮޅުފުށި
+179,N,N - Kudafunafaru,Kudafunafaru,ނ,ނ - ކުޑަފުނަފަރު,ކުޑަފުނަފަރު
+180,N,N - Kudafushi,Kudafushi,ނ,ނ - ކުޑަފުށި,ކުޑަފުށި
+181,N,N - Kunnumalei,Kunnumalei,ނ,ނ - ކުންނުމަލެއި,ކުންނުމަލެއި
+182,N,N - Kuramaadhoo,Kuramaadhoo,ނ,ނ - ކުރަނމާދޫ,ކުރަނމާދޫ
+183,N,N - Kuredhivaru,Kuredhivaru,ނ,ނ - ކުރެދިވަރު,ކުރެދިވަރު
+184,N,N - Loafaru,Loafaru,ނ,ނ - ލޯފަރު,ލޯފަރު
+185,N,N - Maafunafaru,Maafunafaru,ނ,ނ - މާފުނަފަރު,މާފުނަފަރު
+186,N,N - Maakanaafushi,Maakanaafushi,ނ,ނ - މާކަނާފުށި,މާކަނާފުށި
+187,N,N - Maakurandhoo,Maakurandhoo,ނ,ނ - މާކުރަންދޫ,މާކުރަންދޫ
+188,N,N - Maavandhoo,Maavandhoo,ނ,ނ - މާވަންދޫ,މާވަންދޫ
+189,N,N - Maavelavaru,Maavelavaru,ނ,ނ - މާވެލަވަރު,މާވެލަވަރު
+190,N,N - Medhafushi,Medhafushi,ނ,ނ - މެދަފުށި,މެދަފުށި
+191,N,N - Medhufaru,Medhufaru,ނ,ނ - މެދުފަރު,މެދުފަރު
+192,N,N - Minaavaru,Minaavaru,ނ,ނ - މިނާވަރު,މިނާވަރު
+193,N,N - Orimasvaru,Orimasvaru,ނ,ނ - އޮރިމަސްވަރު,އޮރިމަސްވަރު
+194,N,N - Orivaru,Orivaru,ނ,ނ - އޮރިވަރު,އޮރިވަރު
+195,N,N - Orivarukudarah,Orivarukudarah,ނ,ނ - އޮރިވަރުކުޑަރަށް,އޮރިވަރުކުޑަރަށް
+196,N,N - Raafushi,Raafushi,ނ,ނ - ރާފުށި,ރާފުށި
+198,N,N - Raalhulaakolhu,Raalhulaakolhu,ނ,ނ - ރާޅުލާކޮޅު,ރާޅުލާކޮޅު
+199,N,N - Randheli,Randheli,ނ,ނ - ރަންދެލި,ރަންދެލި
+200,N,N - Thaburudhoo,Thaburudhoo,ނ,ނ - ތަނބުރުދޫ,ތަނބުރުދޫ
+201,N,N - Thaburudhuffushi,Thaburudhuffushi,ނ,ނ - ތަނބުރުދުއްފުށި,ތަނބުރުދުއްފުށި
+202,N,N - Tholhendhoo,Tholhendhoo,ނ,ނ - ތޮޅެންދޫ,ތޮޅެންދޫ
+203,N,N - Thoshigandukolhu,Thoshigandukolhu,ނ,ނ - ތޮށިގަނޑުކޮޅު,ތޮށިގަނޑުކޮޅު
+204,N,N - Vavathi,Vavathi,ނ,ނ - ވަވަތި,ވަވަތި
+205,N,N - Vihafaru,Vihafaru,ނ,ނ - ވިހަފަރު,ވިހަފަރު
+206,N,N - Vihafarufinolhu,Vihafarufinolhu,ނ,ނ - ވިހަފަރުފިނޮޅު,ވިހަފަރުފިނޮޅު
+207,R,R - Alifushi,Alifushi,ރ,ރ - އަލިފުށި,އަލިފުށި
+208,R,R - Vaadhoo,Vaadhoo,ރ,ރ - ވާދޫ,ވާދޫ
+209,R,R - Rasgetheemu,Rasgetheemu,ރ,ރ - ރަސްގެތީމު,ރަސްގެތީމު
+210,R,R - Angolhitheemu,Angolhitheemu,ރ,ރ - އަނގޮޅިތީމު,އަނގޮޅިތީމު
+211,R,R - Gaaudoodhoo,Gaaudoodhoo,ރ,ރ - ގާއުނޑޫދޫ,ގާއުނޑޫދޫ
+212,R,R - Ungoofaaru,Ungoofaaru,ރ,ރ - އުނގޫފާރު,އުނގޫފާރު
+213,R,R - Kadholhudhoo,Kadholhudhoo,ރ,ރ - ކަނދޮޅުދޫ,ކަނދޮޅުދޫ
+214,R,R - Maakurathu,Maakurathu,ރ,ރ - މާކުރަތު,މާކުރަތު
+215,R,R - Rasmaadhoo,Rasmaadhoo,ރ,ރ - ރަސްމާދޫ,ރަސްމާދޫ
+216,R,R - Innamaadhoo,Innamaadhoo,ރ,ރ - އިންނަމާދޫ,އިންނަމާދޫ
+217,R,R - Maduvvari,Maduvvari,ރ,ރ - މަޑުއްވަރީ,މަޑުއްވަރީ
+218,R,R - Inguraidhoo,Inguraidhoo,ރ,ރ - އިނގުރައިދޫ,އިނގުރައިދޫ
+219,R,R - Fainu,Fainu,ރ,ރ - ފައިނު,ފައިނު
+220,R,R - Meedhoo,Meedhoo,ރ,ރ - މީދޫ,މީދޫ
+221,R,R - Kinolhas,Kinolhas,ރ,ރ - ކިނޮޅަސް,ކިނޮޅަސް
+222,R,R - Hulhudhuffaaru,Hulhudhuffaaru,ރ,ރ - ހުޅުދުއްފާރު,ހުޅުދުއްފާރު
+223,R,R - Ifuru,Ifuru,ރ,ރ - އިފުރު,އިފުރު
+224,R,R - Meedhupparu,Meedhupparu,ރ,ރ - މީދުއްޕަރު,މީދުއްޕަރު
+225,R,R - Aarah,Aarah,ރ,ރ - އާރަށް,އާރަށް
+226,R,R - Angaagiri,Angaagiri,ރ,ރ - އަންގާގިރި,އަންގާގިރި
+227,R,R - Arilundhoo,Arilundhoo,ރ,ރ - އަރިލުންދޫ,އަރިލުންދޫ
+228,R,R - Badaveri,Badaveri,ރ,ރ - ބަނޑަވެރި,ބަނޑަވެރި
+229,R,R - Bodufarufinolhu,Bodufarufinolhu,ރ,ރ - ބޮޑުފަރުފިނޮޅު,ބޮޑުފަރުފިނޮޅު
+230,R,R - Bodufenmaaembudhoo,Bodufenmaaembudhoo,ރ,ރ - ބޮޑުފެންމާއެނބޫދޫ,ބޮޑުފެންމާއެނބޫދޫ
+231,R,R - Bodufushi,Bodufushi,ރ,ރ - ބޮޑުފުށި,ބޮޑުފުށި
+232,R,R - Boduhuraa,Boduhuraa,ރ,ރ - ބޮޑުހުރާ,ބޮޑުހުރާ
+233,R,R - Dheburidheythereyvaadhoo,Dheburidheythereyvaadhoo,ރ,ރ - ދެބުރިދޭތެރޭވާދޫ,ދެބުރިދޭތެރޭވާދޫ
+234,R,R - Dhekunumaafaru,Dhekunumaafaru,ރ,ރ - ދެކުނުމާފަރު,ދެކުނުމާފަރު
+235,R,R - Dhigali,Dhigali,ރ,ރ - ދިގަލި,ދިގަލި
+236,R,R - Dhikkuredhdhoo,Dhikkuredhdhoo,ރ,ރ - ދިއްކުރެއްދޫ,ދިއްކުރެއްދޫ
+237,R,R - Dhinnaafushi,Dhinnaafushi,ރ,ރ - ދިންނާފުށި,ދިންނާފުށި
+238,R,R - Dhoragali,Dhoragali,ރ,ރ - ދޮރަނގަލި,ދޮރަނގަލި
+239,R,R - Dhuvaafaru,Dhuvaafaru,ރ,ރ - ދުވާފަރު,ދުވާފަރު
+240,R,R - Dhuvaafaruhuraa,Dhuvaafaruhuraa,ރ,ރ - ދުވާފަރުހުރާ,ދުވާފަރުހުރާ
+241,R,R - Ehthigandujehihuraa,Ehthigandujehihuraa,ރ,ރ - އެތިގަނޑުޖެހިހުރާ,އެތިގަނޑުޖެހިހުރާ
+242,R,R - Ehthigili,Ehthigili,ރ,ރ - އެއްތިގިނލި,އެއްތިގިނލި
+243,R,R - Ekurufushifinolhu,Ekurufushifinolhu,ރ,ރ - އެކުރުފުށިފިނޮޅު,އެކުރުފުށިފިނޮޅު
+244,R,R - Faarufushi,Faarufushi,ރ,ރ - ފާރުފުށި,ފާރުފުށި
+245,R,R - Fasgandufaru,Fasgandufaru,ރ,ރ - ފަސްގަނޑުފަރު,ފަސްގަނޑުފަރު
+246,R,R - Fasmendhoo,Fasmendhoo,ރ,ރ - ފަސްމެންދޫ,ފަސްމެންދޫ
+247,R,R - Fenfushi,Fenfushi,ރ,ރ - ފެންފުށި,ފެންފުށި
+248,R,R - Filaidhoo,Filaidhoo,ރ,ރ - ފިލައިދޫ,ފިލައިދޫ
+249,R,R - Fuggiri,Fuggiri,ރ,ރ - ފުއްގިރި,ފުއްގިރި
+250,R,R - Furaveri,Furaveri,ރ,ރ - ފުރަވެރި,ފުރަވެރި
+251,R,R - Gaaudoodhoo,Gaaudoodhoo,ރ,ރ - ގާއުނޑޫދޫ,ގާއުނޑޫދޫ
+253,R,R - Giraavaaru,Giraavaaru,ރ,ރ - ގިރާވަރު,ގިރާވަރު
+254,R,R - Goiymaru,Goiymaru,ރ,ރ - ގޮތްމަރު,ގޮތްމަރު
+255,R,R - Goyyafaru,Goyyafaru,ރ,ރ - ގޮތްޔަފަރު,ގޮތްޔަފަރު
+256,R,R - Gubolhi,Gubolhi,ރ,ރ - ގުނބޮޅި,ގުނބޮޅި
+257,R,R - Bodu Haiykodi,Bodu Haiykodi,ރ,ރ - ބޮޑުހަތްކޮޑި,ބޮޑުހަތްކޮޑި
+258,R,R - Hiboodhoo,Hiboodhoo,ރ,ރ - ހިނބޫދޫ,ހިނބޫދޫ
+259,R,R - Hiraveri,Hiraveri,ރ,ރ - ހިރަވެރި,ހިރަވެރި
+260,R,R - Hulhudhoo,Hulhudhoo,ރ,ރ - ހުޅުދޫ,ހުޅުދޫ
+261,R,R - Huruvalhi,Huruvalhi,ރ,ރ - ހުރުވަޅި,ހުރުވަޅި
+262,R,R - Kadoogadu,Kadoogadu,ރ,ރ - ކަޑޫގަނޑު,ކަޑޫގަނޑު
+263,R,R - Kandhoomeehunge lhaabugali,Kandhoomeehunge lhaabugali,ރ,ރ - ކަންދޫމީހުންގެޅާބުގަލި,ކަންދޫމީހުންގެޅާބުގަލި
+264,R,R - Kothaafaru,Kothaafaru,ރ,ރ - ކޮތާފަރު,ކޮތާފަރު
+265,R,R - Kottefaru,Kottefaru,ރ,ރ - ކޮށްޓެފަރު,ކޮށްޓެފަރު
+266,R,R - Kudafenmaaembudhoo,Kudafenmaaembudhoo,ރ,ރ - ކުޑަފެންމާއެނބޫދޫ,ކުޑަފެންމާއެނބޫދޫ
+267,R,R - Kudafushi,Kudafushi,ރ,ރ - ކުޑަފުށި,ކުޑަފުށި
+268,R,R - Kudakurathu,Kudakurathu,ރ,ރ - ކުޑަކުރަތު,ކުޑަކުރަތު
+269,R,R - Kudalhosgiri,Kudalhosgiri,ރ,ރ - ކުޑަޅޮސްގިރި,ކުޑަޅޮސްގިރި
+270,R,R - Kudathulhaadhoo,Kudathulhaadhoo,ރ,ރ - ކުޑަތުޅާދޫ,ކުޑަތުޅާދޫ
+271,R,R - Kukulhudhoo,Kukulhudhoo,ރ,ރ - ކުކުޅުދޫ,ކުކުޅުދޫ
+272,R,R - Kuredhdhoo,Kuredhdhoo,ރ,ރ - ކުރެއްދޫ,ކުރެއްދޫ
+273,R,R - Kuroshigiri,Kuroshigiri,ރ,ރ - ކުރޮށިގިރި,ކުރޮށިގިރި
+274,R,R - Lhaabugali,Lhaabugali,ރ,ރ - ޅާނބުގަލި,ޅާނބުގަލި
+275,R,R - Lhohi,Lhohi,ރ,ރ - ޅޮހި,ޅޮހި
+276,R,R - Liboakandhoo,Liboakandhoo,ރ,ރ - ލިބޯކަންދޫ,ލިބޯކަންދޫ
+277,R,R - Lundhufushi,Lundhufushi,ރ,ރ - ލުންދުފުށި,ލުންދުފުށި
+278,R,R - Maamingili,Maamingili,ރ,ރ - މާމިނގިލި,މާމިނގިލި
+279,R,R - Maamunagau,Maamunagau,ރ,ރ - މާމުނަގައު,މާމުނަގައު
+280,R,R - Maamunagaufinolhu,Maamunagaufinolhu,ރ,ރ - މާމުނަގައުފިނޮޅު,މާމުނަގައުފިނޮޅު
+281,R,R - Maanenfushi,Maanenfushi,ރ,ރ - މާމެންފުށި,މާމެންފުށި
+282,R,R - Maashigiri,Maashigiri,ރ,ރ - މާށިގިރި,މާށިގިރި
+283,R,R - Madivaafaru,Madivaafaru,ރ,ރ - މަޑިވާފަރު,މަޑިވާފަރު
+284,R,R - Mahidhoo,Mahidhoo,ރ,ރ - މަހިދޫ,މަހިދޫ
+285,R,R - Meedhupparu,Meedhupparu,ރ,ރ - މީދުއްޕަރު,މީދުއްޕަރު
+287,R,R - Mullaafushi,Mullaafushi,ރ,ރ - މުއްލާފުށި,މުއްލާފުށި
+288,R,R - Muravandhoo,Muravandhoo,ރ,ރ - މުރަވަންދޫ,މުރަވަންދޫ
+289,R,R - Neyo,Neyo,ރ,ރ - ނެޔޮ,ނެޔޮ
+291,R,R - Thaavathaa,Thaavathaa,ރ,ރ - ތާވަތާ,ތާވަތާ
+292,R,R - Ufulandhoo,Ufulandhoo,ރ,ރ - އުފުލަންދޫ,އުފުލަންދޫ
+293,R,R - Ugulu,Ugulu,ރ,ރ - އުނގުލު,އުނގުލު
+294,R,R - Uthurumaafaru,Uthurumaafaru,ރ,ރ - އުތުރުމާފަރު,އުތުރުމާފަރު
+295,R,R - Vaffushihuraa,Vaffushihuraa,ރ,ރ - ވަށްފުށިހުރާ,ވަށްފުށިހުރާ
+296,R,R - Vahfushi,Vahfushi,ރ,ރ - ވަށްފުށި,ވަށްފުށި
+297,R,R - Vandhoo,Vandhoo,ރ,ރ - ވަންދޫ,ވަންދޫ
+298,R,R - Veyveh,Veyveh,ރ,ރ - ވޭވަށް,ވޭވަށް
+299,R,R - Villingili,Villingili,ރ,ރ - ވިލިނގިލި,ވިލިނގިލި
+300,B,B - Kudarikilu,Kudarikilu,ބ,ބ - ކުޑަރިކިލު,ކުޑަރިކިލު
+301,B,B - Kamadhoo,Kamadhoo,ބ,ބ - ކަމަދޫ,ކަމަދޫ
+302,B,B - Kendhoo,Kendhoo,ބ,ބ - ކެންދޫ,ކެންދޫ
+303,B,B - Maaddoo,Maaddoo,ބ,ބ - މާއްޑޫ,މާއްޑޫ
+305,B,B - Kihaadhoo,Kihaadhoo,ބ,ބ - ކިހާދޫ,ކިހާދޫ
+306,B,B - Dhonfanu,Dhonfanu,ބ,ބ - ދޮންފަނު,ދޮންފަނު
+307,B,B - Dharavandhoo,Dharavandhoo,ބ,ބ - ދަރަވަންދޫ,ދަރަވަންދޫ
+308,B,B - Maalhos,Maalhos,ބ,ބ - މާޅޮސް,މާޅޮސް
+309,B,B - Eydhafushi,Eydhafushi,ބ,ބ - އޭދަފުށި,އޭދަފުށި
+310,B,B - Funadhoo,Funadhoo,ބ,ބ - ފުނަދޫ,ފުނަދޫ
+311,B,B - Thulhaadhoo,Thulhaadhoo,ބ,ބ - ތުޅާދޫ,ތުޅާދޫ
+312,B,B - Hithaadhoo,Hithaadhoo,ބ,ބ - ހިތާދޫ,ހިތާދޫ
+313,B,B - Fulhadhoo,Fulhadhoo,ބ,ބ - ފުޅަދޫ,ފުޅަދޫ
+314,B,B - Fehendhoo,Fehendhoo,ބ,ބ - ފެހެންދޫ,ފެހެންދޫ
+315,B,B - Goidhoo,Goidhoo,ބ,ބ - ގޮއިދޫ,ގޮއިދޫ
+316,B,B - Landaagiraavaru,Landaagiraavaru,ބ,ބ - ލަނޑާގިރާވަރު,ލަނޑާގިރާވަރު
+317,B,B - Dhunikolhu,Dhunikolhu,ބ,ބ - ދުނިކޮޅު,ދުނިކޮޅު
+318,B,B - Kihaadhuffaru,Kihaadhuffaru,ބ,ބ - ކިހާދުއްފަރު,ކިހާދުއްފަރު
+319,B,B - Fonimagoodhoo,Fonimagoodhoo,ބ,ބ - ފޮނިމަގޫދޫ,ފޮނިމަގޫދޫ
+320,B,B - Kunfunadhoo,Kunfunadhoo,ބ,ބ - ކުންފުނަދޫ,ކުންފުނަދޫ
+321,B,B - Horubadhoo,Horubadhoo,ބ,ބ - ހޮރުބަނދޫ,ހޮރުބަނދޫ
+322,B,B - Ahivahfushi,Ahivahfushi,ބ,ބ - އަހިވަށްފުށި,އަހިވަށްފުށި
+323,B,B - Aidhoo,Aidhoo,ބ,ބ - އައިދޫ,އައިދޫ
+324,B,B - Anhenunfushi,Anhenunfushi,ބ,ބ - އަންހެންފުށި,އަންހެންފުށި
+326,B,B - Bathalaa,Bathalaa,ބ,ބ - ބަތަލާ,ބަތަލާ
+327,B,B - Bathalaahuraa,Bathalaahuraa,ބ,ބ - ބަތަލާހުރާ,ބަތަލާހުރާ
+328,B,B - Boadhaafusheefinolhu,Boadhaafusheefinolhu,ބ,ބ - ބޯދާފުށީފިނޮޅު,ބޯދާފުށީފިނޮޅު
+329,B,B - Bodufinolhu,Bodufinolhu,ބ,ބ - ބޮޑުފިނޮޅު,ބޮޑުފިނޮޅު
+330,B,B - Boifushi,Boifushi,ބ,ބ - ބޮތްފުށި,ބޮތްފުށި
+331,B,B - Dhakandhoo,Dhakandhoo,ބ,ބ - ދަކަނދޫ,ދަކަނދޫ
+332,B,B - Dhandhoo,Dhandhoo,ބ,ބ - ދަންދޫ,ދަންދޫ
+333,B,B - Dhigudhefaru,Dhigudhefaru,ބ,ބ - ދިގުދެފަރު,ދިގުދެފަރު
+334,B,B - Dhigufaruvinagandu,Dhigufaruvinagandu,ބ,ބ - ދިގުފަރުވިނަގަނޑު,ދިގުފަރުވިނަގަނޑު
+335,B,B - Dhoogandufinolhu,Dhoogandufinolhu,ބ,ބ - ދޫގަނޑުފިނޮޅު,ދޫގަނޑުފިނޮޅު
+336,B,B - Embudhoo,Embudhoo,ބ,ބ - އެނބޫދޫ,އެނބޫދޫ
+337,B,B - Fareedhaafinolhu,Fareedhaafinolhu,ބ,ބ - ފަރީދާފިނޮޅު,ފަރީދާފިނޮޅު
+338,B,B - Fares,Fares,ބ,ބ - ފަރެސް,ފަރެސް
+339,B,B - Fehenfaru,Fehenfaru,ބ,ބ - ފެހެންފަރު,ފެހެންފަރު
+340,B,B - Finolhas,Finolhas,ބ,ބ - ފިނޮޅަސް,ފިނޮޅަސް
+341,B,B - Funadhoo,Funadhoo,ބ,ބ - ފުނަދޫ,ފުނަދޫ
+342,B,B - Gaagadufaruhuraa,Gaagadufaruhuraa,ބ,ބ - ގާގަނޑުފަރުހުރާ,ގާގަނޑުފަރުހުރާ
+343,B,B - Gaaviligili,Gaaviligili,ބ,ބ - ގާވިލިނގިލި,ގާވިލިނގިލި
+344,B,B - Gemendhoo,Gemendhoo,ބ,ބ - ގެމެންދޫ,ގެމެންދޫ
+345,B,B - Hanifaru,Hanifaru,ބ,ބ - ހަނިފަރު,ހަނިފަރު
+346,B,B - Hibalhidhoo,Hibalhidhoo,ބ,ބ - ހިބަޅިދޫ,ހިބަޅިދޫ
+347,B,B - Hirundhoo,Hirundhoo,ބ,ބ - ހިރުނދޫ,ހިރުނދޫ
+348,B,B - Hulhudhoo,Hulhudhoo,ބ,ބ - ހުޅުދޫ,ހުޅުދޫ
+349,B,B - Innafushi,Innafushi,ބ,ބ - އިންނަފުށި,އިންނަފުށި
+351,B,B - Kanufusheegaathufinolhu,Kanufusheegaathufinolhu,ބ,ބ - ކަނުފުށީގާތުފިނޮޅު,ކަނުފުށީގާތުފިނޮޅު
+352,B,B - Kanufushi,Kanufushi,ބ,ބ - ކަނުފުށި,ކަނުފުށި
+353,B,B - Kashidhoo,Kashidhoo,ބ,ބ - ކަށިދޫ,ކަށިދޫ
+354,B,B - Kashidhuhfarufinolhu,Kashidhuhfarufinolhu,ބ,ބ - ކަށިދުއްފަރުފިނޮޅު,ކަށިދުއްފަރުފިނޮޅު
+355,B,B - Keyodhoo,Keyodhoo,ބ,ބ - ކެޔޮދޫ,ކެޔޮދޫ
+356,B,B - Kihavah Haruvalhi,Kihavah Haruvalhi,ބ,ބ - ކިހައްވަށްހަރުވަޅި,ކިހައްވަށްހަރުވަޅި
+357,B,B - Kudadhoo,Kudadhoo,ބ,ބ - ކުޑަދޫ,ކުޑަދޫ
+358,B,B - Maaddoo,Maaddoo,ބ,ބ - މާއްޑޫ,މާއްޑޫ
+359,B,B - Maaddoohulhudhoo,Maaddoohulhudhoo,ބ,ބ - މާއްޑޫހުޅުދޫ,މާއްޑޫހުޅުދޫ
+360,B,B - Maafusheefinolhu,Maafusheefinolhu,ބ,ބ - މާފުށީފިނޮޅު,މާފުށީފިނޮޅު
+361,B,B - Maamaduvvaree,Maamaduvvaree,ބ,ބ - މާމަޑުއްވަރީ,މާމަޑުއްވަރީ
+362,B,B - Maarikili,Maarikili,ބ,ބ - މާރިކިލި,މާރިކިލި
+363,B,B - Madhirivaadhoo,Madhirivaadhoo,ބ,ބ - މާދިރިވާދޫ,މާދިރިވާދޫ
+364,B,B - Medhufinolhu,Medhufinolhu,ބ,ބ - މެދުފިނޮޅު,މެދުފިނޮޅު
+366,B,B - Mendhoo,Mendhoo,ބ,ބ - މެންދޫ,މެންދޫ
+367,B,B - Milaidhoo,Milaidhoo,ބ,ބ - މިލައިދޫ,މިލައިދޫ
+368,B,B - Miriandhoo,Miriandhoo,ބ,ބ - މިރިއަންދޫ,މިރިއަންދޫ
+369,B,B - Mudhdhoo,Mudhdhoo,ބ,ބ - މުއްދޫ,މުއްދޫ
+370,B,B - Muthaafushi,Muthaafushi,ބ,ބ - މުތާފުށި,މުތާފުށި
+371,B,B - Nelivarufinolhu,Nelivarufinolhu,ބ,ބ - ނެލިވަރުފިނޮޅު,ނެލިވަރުފިނޮޅު
+372,B,B - Nibiligaa,Nibiligaa,ބ,ބ - ނިބިލިގާ,ނިބިލިގާ
+373,B,B - Olhugiri,Olhugiri,ބ,ބ - އޮޅުގިރި,އޮޅުގިރި
+374,B,B - Fulhadhoo rahkairi finolhu ,Fulhadhoo rahkairi finolhu ,ބ,ބ - ފުޅަދޫ ރަށްކައިރި ފިނޮޅު,ފުޅަދޫ ރަށްކައިރި ފިނޮޅު
+375,B,B - Thiladhoo,Thiladhoo,ބ,ބ - ތިލަދޫ,ތިލަދޫ
+376,B,B - Udoodhoo,Udoodhoo,ބ,ބ - އުނޑޫދޫ,އުނޑޫދޫ
+377,B,B - Ufuligiri,Ufuligiri,ބ,ބ - އުފުލިގިރި,އުފުލިގިރި
+378,B,B - Vakkaru,Vakkaru,ބ,ބ - ވައްކަރު,ވައްކަރު
+379,B,B - Veyofushi,Veyofushi,ބ,ބ - ވެޔޮފުށި,ވެޔޮފުށި
+380,B,B - Vinaneiyfaruhuraa,Vinaneiyfaruhuraa,ބ,ބ - ވިނަނެތްފަރުހުރާ,ވިނަނެތްފަރުހުރާ
+381,B,B - Voavah,Voavah,ބ,ބ - ވޯވައް,ވޯވައް
+382,Lh,Lh - Hinnavaru,Hinnavaru,ޅ,ޅ - ހިންނަވަރު,ހިންނަވަރު
+383,Lh,Lh - Naifaru,Naifaru,ޅ,ޅ - ނައިފަރު,ނައިފަރު
+384,Lh,Lh - Kurendhoo,Kurendhoo,ޅ,ޅ - ކުރެންދޫ,ކުރެންދޫ
+385,Lh,Lh - Olhuvelifushi,Olhuvelifushi,ޅ,ޅ - އޮޅުވެލިފުށި,އޮޅުވެލިފުށި
+386,Lh,Lh - Maafilaafushi,Maafilaafushi,ޅ,ޅ - މާފިލާފުށި,މާފިލާފުށި
+387,Lh,Lh - Felivaru,Felivaru,ޅ,ޅ - ފެލިވަރު,ފެލިވަރު
+388,Lh,Lh - Kanuhuraa,Kanuhuraa,ޅ,ޅ - ކަނުހުރާ,ކަނުހުރާ
+389,Lh,Lh - Komandoo,Komandoo,ޅ,ޅ - ކޮމަންޑޫ,ކޮމަންޑޫ
+390,Lh,Lh - Kuredhdhoo,Kuredhdhoo,ޅ,ޅ - ކުރެއްދޫ,ކުރެއްދޫ
+391,Lh,Lh - Madhiriguraidhoo,Madhiriguraidhoo,ޅ,ޅ - މަދިރިގުރައިދޫ,މަދިރިގުރައިދޫ
+392,Lh,Lh - Alhigaa,Alhigaa,ޅ,ޅ - އަޅިގާ,އަޅިގާ
+393,Lh,Lh - Bodufinolhu,Bodufinolhu,ޅ,ޅ - ބޮޑުފިނޮޅު,ބޮޑުފިނޮޅު
+394,Lh,Lh - Bovalhafushi,Bovalhafushi,ޅ,ޅ - ބޮވަޅަފުށި,ބޮވަޅަފުށި
+395,Lh,Lh - Dhashugirifinolhu,Dhashugirifinolhu,ޅ,ޅ - ދަށުގިރިފިނޮޅު,ދަށުގިރިފިނޮޅު
+396,Lh,Lh - Dheruhfinolhu,Dheruhfinolhu,ޅ,ޅ - ދެރުއްފިނޮޅު,ދެރުއްފިނޮޅު
+397,Lh,Lh - Dhidhdhoo,Dhidhdhoo,ޅ,ޅ - ދިއްދޫ,ދިއްދޫ
+398,Lh,Lh - Dhirunbaafushi,Dhirunbaafushi,ޅ,ޅ - ދިރުނބާފުށި,ދިރުނބާފުށި
+399,Lh,Lh - Faadhoo,Faadhoo,ޅ,ޅ - ފާދޫ,ފާދޫ
+400,Lh,Lh - Fainuaadhamhuraa,Fainuaadhamhuraa,ޅ,ޅ - ފައިނުއާދަމްހުރާ,ފައިނުއާދަމްހުރާ
+402,Lh,Lh - Fehigili,Fehigili,ޅ,ޅ - ފެހިގިލި,ފެހިގިލި
+403,Lh,Lh - Fushifaru,Fushifaru,ޅ,ޅ - ފުށިފަރު,ފުށިފަރު
+404,Lh,Lh - Gaaerifaru,Gaaerifaru,ޅ,ޅ - ގާއެރިފަރު,ގާއެރިފަރު
+406,Lh,Lh - Hudhufushi,Hudhufushi,ޅ,ޅ - ހުދުފުށި,ހުދުފުށި
+407,Lh,Lh - Huruvalhi,Huruvalhi,ޅ,ޅ - ހަރުވަޅި,ހަރުވަޅި
+408,Lh,Lh - Innahuraa,Innahuraa,ޅ,ޅ - އިންނަހުރާ,އިންނަހުރާ
+409,Lh,Lh - Kalhumanjehuraa,Kalhumanjehuraa,ޅ,ޅ - ކަޅުމަންޖެހުރާ,ކަޅުމަންޖެހުރާ
+410,Lh,Lh - Kanifushi,Kanifushi,ޅ,ޅ - ކަނިފުށި,ކަނިފުށި
+411,Lh,Lh - Lhohi,Lhohi,ޅ,ޅ - ޅޮހި,ޅޮހި
+412,Lh,Lh - Lhosalafushi,Lhosalafushi,ޅ,ޅ - ޅޮސަލަފުށި,ޅޮސަލަފުށި
+413,Lh,Lh - Maakoa,Maakoa,ޅ,ޅ - މާކޮއެ,މާކޮއެ
+414,Lh,Lh - Maavaafushi,Maavaafushi,ޅ,ޅ - މާވާފުށި,މާވާފުށި
+415,Lh,Lh - Maabinhuraa,Maabinhuraa,ޅ,ޅ - މާބިންހުރާ,މާބިންހުރާ
+416,Lh,Lh - Madivaru,Madivaru,ޅ,ޅ - މަޑިވަރު,މަޑިވަރު
+417,Lh,Lh - Maduvvari,Maduvvari,ޅ,ޅ - މަޑުއްވަރީ,މަޑުއްވަރީ
+418,Lh,Lh - Maidhoo,Maidhoo,ޅ,ޅ - މައިދޫ,މައިދޫ
+419,Lh,Lh - Medhaadihuraa,Medhaadihuraa,ޅ,ޅ - މެދާޑިހުރާ,މެދާޑިހުރާ
+420,Lh,Lh - Medhafushi,Medhafushi,ޅ,ޅ - މެދަފުށި,މެދަފުށި
+421,Lh,Lh - Meedhaahuraa,Meedhaahuraa,ޅ,ޅ - މީދާހުރާ,މީދާހުރާ
+422,Lh,Lh - Meyafushi,Meyafushi,ޅ,ޅ - މެޔަފުށި,މެޔަފުށި
+423,Lh,Lh - Ookolhufinolhu,Ookolhufinolhu,ޅ,ޅ - އޫކޮޅުފިނޮޅު,އޫކޮޅުފިނޮޅު
+425,Lh,Lh - Thilamaafushi,Thilamaafushi,ޅ,ޅ - ތިލަމާފުށި,ތިލަމާފުށި
+426,Lh,Lh - Uthuruhuraa,Uthuruhuraa,ޅ,ޅ - އުތުރުހުރާ,އުތުރުހުރާ
+427,Lh,Lh - Varihuraa,Varihuraa,ޅ,ޅ - ވަރިހުރާ,ވަރިހުރާ
+428,Lh,Lh - Vavvaru,Vavvaru,ޅ,ޅ - ވަށްވަރު,ވަށްވަރު
+429,Lh,Lh - Vejvah,Vejvah,ޅ,ޅ - ވެޖްވަށް,ވެޖްވަށް
+430,Lh,Lh - Veligandu,Veligandu,ޅ,ޅ - ވެލިގަނޑު,ވެލިގަނޑު
+431,Lh,Lh - Vihafaru,Vihafaru,ޅ,ޅ - ވިހަފަރު,ވިހަފަރު
+432,K,K - Male',Male',ކ,ކ - މާލެ,މާލެ
+433,K,K - Villingili,Villingili,ކ,ކ - ވިލިނގިލި,ވިލިނގިލި
+434,K,K - Hulhumale',Hulhumale',ކ,ކ - ހުޅުމާލެ,ހުޅުމާލެ
+435,K,K - Kaashidhoo,Kaashidhoo,ކ,ކ - ކާށިދޫ,ކާށިދޫ
+436,K,K - Gaafaru,Gaafaru,ކ,ކ - ގާފަރު,ގާފަރު
+437,K,K - Dhiffushi,Dhiffushi,ކ,ކ - ދިއްފުށި,ދިއްފުށި
+438,K,K - Thulusdhoo,Thulusdhoo,ކ,ކ - ތުލުސްދޫ,ތުލުސްދޫ
+439,K,K - Huraa,Huraa,ކ,ކ - ހުރާ,ހުރާ
+440,K,K - Himmafushi,Himmafushi,ކ,ކ - ހިންމަފުށި,ހިންމަފުށި
+441,K,K - Gulhi,Gulhi,ކ,ކ - ގުޅި,ގުޅި
+442,K,K - Maafushi,Maafushi,ކ,ކ - މާފުށި,މާފުށި
+443,K,K - Guraidhoo,Guraidhoo,ކ,ކ - ގުރައިދޫ,ގުރައިދޫ
+444,K,K - Hulhule,Hulhule,ކ,ކ - ހުޅުލެ,ހުޅުލެ
+445,K,K - Thilafushi,Thilafushi,ކ,ކ - ތިލަފުށި,ތިލަފުށި
+446,K,K - Kuda Bandos,Kuda Bandos,ކ,ކ - ކުޑަބަނޑޮސް,ކުޑަބަނޑޮސް
+447,K,K - Kanduoiygiri,Kanduoiygiri,ކ,ކ - ކަނޑުއޮތްގިރި,ކަނޑުއޮތްގިރި
+448,K,K - Aarah,Aarah,ކ,ކ - އާރަށް,އާރަށް
+449,K,K - Dhoonidhoo,Dhoonidhoo,ކ,ކ - ދޫނިދޫ,ދޫނިދޫ
+450,K,K - Funadhoo,Funadhoo,ކ,ކ - ފުނަދޫ,ފުނަދޫ
+451,K,K - Girifushi,Girifushi,ކ,ކ - ގިރިފުށި,ގިރިފުށި
+452,K,K - Gaamaadhoo,Gaamaadhoo,ކ,ކ - ގާމާދޫ,ގާމާދޫ
+453,K,K - Feydhoofinolhu,Feydhoofinolhu,ކ,ކ - ފޭދޫފިނޮޅު,ފޭދޫފިނޮޅު
+454,K,K - Asdhu,Asdhu,ކ,ކ - އަސްދޫ,އަސްދޫ
+455,K,K - Bandos,Bandos,ކ,ކ - ބަނޑޮސް,ބަނޑޮސް
+456,K,K - Baros,Baros,ކ,ކ - ބަރޮސް,ބަރޮސް
+457,K,K - Biyaadhu,Biyaadhu,ކ,ކ - ބިޔާދޫ,ބިޔާދޫ
+458,K,K - Boduhithi,Boduhithi,ކ,ކ - ބޮޑުހިތި,ބޮޑުހިތި
+459,K,K - Bolifushi,Bolifushi,ކ,ކ - ބޮލިފުށި,ބޮލިފުށި
+460,K,K - Farukolhufushi,Farukolhufushi,ކ,ކ - ފަރުކޮޅުފުށި,ފަރުކޮޅުފުށި
+461,K,K - Rannalhi,Rannalhi,ކ,ކ - ރަންނާޅި,ރަންނާޅި
+462,K,K - Makunufushi,Makunufushi,ކ,ކ - މަކުނުފުށި,މަކުނުފުށި
+463,K,K - Dhigufinohlu,Dhigufinohlu,ކ,ކ - ދިގުފިނޮޅު,ދިގުފިނޮޅު
+464,K,K - Emboodhu,Emboodhu,ކ,ކ - އެނބޫދޫ,އެނބޫދޫ
+465,K,K - Eriyadhoo,Eriyadhoo,ކ,ކ - އެރިޔަދޫ,އެރިޔަދޫ
+466,K,K - Fihaalhohi,Fihaalhohi,ކ,ކ - ފިހާޅޮހި,ފިހާޅޮހި
+467,K,K - Kuda Huraa,Kuda Huraa,ކ,ކ - ކުޑަހުރާ,ކުޑަހުރާ
+468,K,K - Furanafushi,Furanafushi,ކ,ކ - ފުރަނަފުށި,ފުރަނަފުށި
+469,K,K - Bodufinolhu,Bodufinolhu,ކ,ކ - ބޮޑުފިނޮޅު,ބޮޑުފިނޮޅު
+470,K,K - Gasfinolhu,Gasfinolhu,ކ,ކ - ގަސްފިނޮޅު,ގަސްފިނޮޅު
+471,K,K - Giraavaru,Giraavaru,ކ,ކ - ގިރާވަރު,ގިރާވަރު
+472,K,K - Helegeli,Helegeli,ކ,ކ - ހެލެނގެލި,ހެލެނގެލި
+473,K,K - Lankanfushi,Lankanfushi,ކ,ކ - ލަންކަންފުށި,ލަންކަންފުށި
+474,K,K - Ihuru,Ihuru,ކ,ކ - އިހުރު,އިހުރު
+475,K,K - Kandoomafushi,Kandoomafushi,ކ,ކ - ކަނޑޫމާފުށި,ކަނޑޫމާފުށި
+476,K,K - Kanifinolhu,Kanifinolhu,ކ,ކ - ކަނިފިނޮޅު,ކަނިފިނޮޅު
+477,K,K - Kudahithi,Kudahithi,ކ,ކ - ކުޑަހިތި,ކުޑަހިތި
+478,K,K - Vihamanaafushi,Vihamanaafushi,ކ,ކ - ވިހަމަނާފުށި,ވިހަމަނާފުށި
+479,K,K - Velassaru,Velassaru,ކ,ކ - ވެލަސަރު,ވެލަސަރު
+480,K,K - Lhohifushi,Lhohifushi,ކ,ކ - ޅޮހިފުށި,ޅޮހިފުށި
+481,K,K - Mankunudhoo,Mankunudhoo,ކ,ކ - މަކުނުދޫ,މަކުނުދޫ
+482,K,K - Meerufenfushi,Meerufenfushi,ކ,ކ - މީރުފެންފުށި,މީރުފެންފުށި
+483,K,K - Nakatchafushi,Nakatchafushi,ކ,ކ - ނަކައްޗާފުށި,ނަކައްޗާފުށި
+484,K,K - Olhuveli,Olhuveli,ކ,ކ - އޮޅުވެލި,އޮޅުވެލި
+485,K,K - Veligandu Huraa,Veligandu Huraa,ކ,ކ - ވެލިގަނޑުހުރާ,ވެލިގަނޑުހުރާ
+486,K,K - Lankanfinolhu,Lankanfinolhu,ކ,ކ - ލަންކަންފިނޮޅު,ލަންކަންފިނޮޅު
+487,K,K - Medhufinolhu,Medhufinolhu,ކ,ކ - މެދުފިނޮޅު,މެދުފިނޮޅު
+488,K,K - Mahaanaelhi Huraa,Mahaanaelhi Huraa,ކ,ކ - މަހާނައެޅިހުރާ,މަހާނައެޅިހުރާ
+489,K,K - Ziyaaraiyfushi,Ziyaaraiyfushi,ކ,ކ - ޒިޔާރަތްފުށި,ޒިޔާރަތްފުށި
+490,K,K - Kanuoiy Huraa,Kanuoiy Huraa,ކ,ކ - ކަނުއޮތްހުރާ,ކަނުއޮތްހުރާ
+491,K,K - Thulhagiri,Thulhagiri,ކ,ކ - ތުޅާގިރި,ތުޅާގިރި
+493,K,K - Embudhu Finolhu,Embudhu Finolhu,ކ,ކ - އެނބޫދޫ ފިނޮޅު,އެނބޫދޫ ފިނޮޅު
+494,K,K - Vaadhu,Vaadhu,ކ,ކ - ވާދޫ,ވާދޫ
+495,K,K - Vabbinfaru,Vabbinfaru,ކ,ކ - ވަށްބިންފަރު,ވަށްބިންފަރު
+496,K,K - Vilivaru,Vilivaru,ކ,ކ - ވިލިވަރު,ވިލިވަރު
+497,K,K - Bodu Huraa,Bodu Huraa,ކ,ކ - ބޮޑުހުރާ,ބޮޑުހުރާ
+499,K,K - Emboodhoo Finolhu,Emboodhoo Finolhu,ކ,ކ - އެނބޫދޫފިނޮޅު,އެނބޫދޫފިނޮޅު
+500,K,K - Erruhhuraa,Erruhhuraa,ކ,ކ - އެއްރުއްހުރާ,އެއްރުއްހުރާ
+503,K,K - Hembadhoo,Hembadhoo,ކ,ކ - ހެނބަދޫ,ހެނބަދޫ
+504,K,K - Kaduoiygiri,Kaduoiygiri,ކ,ކ - ކަނޑުއޮތްގިރި,ކަނޑުއޮތްގިރި
+505,K,K - Kagi,Kagi,ކ,ކ - ކަގި,ކަގި
+506,K,K - Kudafinolhu,Kudafinolhu,ކ,ކ - ކުޑަފިނޮޅު,ކުޑަފިނޮޅު
+508,K,K - Maadhoo,Maadhoo,ކ,ކ - މާދޫ,މާދޫ
+509,K,K - Madivaru,Madivaru,ކ,ކ - މަޑިވަރު,މަޑިވަރު
+510,K,K - Maniyafushi,Maniyafushi,ކ,ކ - މަނިޔަފުށި,މަނިޔަފުށި
+511,K,K - Masleggihuraa,Masleggihuraa,ކ,ކ - މަސްލެއްގިހުރާ,މަސްލެއްގިހުރާ
+512,K,K - Oidhunifinolhu,Oidhunifinolhu,ކ,ކ - އޮތްދުނިފިނޮޅު,އޮތްދުނިފިނޮޅު
+513,K,K - Olhigandufinolhu,Olhigandufinolhu,ކ,ކ - އޮޅިގަނޑުފިނޮޅު,އޮޅިގަނޑުފިނޮޅު
+514,K,K - Olhuhali,Olhuhali,ކ,ކ - އޮޅުހަލި,އޮޅުހަލި
+515,K,K - Rasfari,Rasfari,ކ,ކ - ރަސްފަރި,ރަސްފަރި
+516,K,K - Thaburudhoo,Thaburudhoo,ކ,ކ - ތަނބުރުދޫ,ތަނބުރުދޫ
+517,K,K - Tholhimaraahuraa,Tholhimaraahuraa,ކ,ކ - ތޮޅިމަރާހުރާ,ތޮޅިމަރާހުރާ
+518,K,K - Thulusdhoo Irumathee hura,Thulusdhoo Irumathee hura,ކ,ކ - ތުލުސްދޫ އިރުމަތީ ހުރާ,ތުލުސްދޫ އިރުމަތީ ހުރާ
+519,K,K - Vaagali,Vaagali,ކ,ކ - ވާގަލި,ވާގަލި
+520,K,K - Vabboahuraa,Vabboahuraa,ކ,ކ - ވަށްބޯހުރާ,ވަށްބޯހުރާ
+521,K,K - Valassaru,Valassaru,ކ,ކ - ވަލައްސަރު,ވަލައްސަރު
+522,K,K - Vammaafushi,Vammaafushi,ކ,ކ - ވަށްމާފުށި,ވަށްމާފުށި
+523,K,K - Villingilimathidhahuraa,Villingilimathidhahuraa,ކ,ކ - ވިލިނގިލިމަތިދަހުރާ,ވިލިނގިލިމަތިދަހުރާ
+524,AA,AA - Thoddoo,Thoddoo,އއ,އއ - ތޮއްޑޫ,ތޮއްޑޫ
+525,AA,AA - Rasdhoo,Rasdhoo,އއ,އއ - ރަސްދޫ,ރަސްދޫ
+526,AA,AA - Ukulhas,Ukulhas,އއ,އއ - އުކުޅަސް,އުކުޅަސް
+527,AA,AA - Mathiveri,Mathiveri,އއ,އއ - މަތިވެރި,މަތިވެރި
+528,AA,AA - Bodufolhudhoo,Bodufolhudhoo,އއ,އއ - ބޮޑުފޮޅުދޫ,ބޮޑުފޮޅުދޫ
+529,AA,AA - Feridhoo,Feridhoo,އއ,އއ - ފެރިދޫ,ފެރިދޫ
+530,AA,AA - Maalhos,Maalhos,އއ,އއ - މާޅޮސް,މާޅޮސް
+531,AA,AA - Himandhoo,Himandhoo,އއ,އއ - ހިމަންދޫ,ހިމަންދޫ
+532,AA,AA - Bathala,Bathala,އއ,އއ - ބަތަލާ,ބަތަލާ
+533,AA,AA - Ellaidhu,Ellaidhu,އއ,އއ - އެއްލައިދޫ,އެއްލައިދޫ
+534,AA,AA - Fesdhoo,Fesdhoo,އއ,އއ - ފެސްދޫ,ފެސްދޫ
+535,AA,AA - Gangehi,Gangehi,އއ,އއ - ގަންގެހި,ގަންގެހި
+536,AA,AA - Halaveli,Halaveli,އއ,އއ - ހަލަވެލި,ހަލަވެލި
+537,AA,AA - Kuramathi,Kuramathi,އއ,އއ - ކުރަމަތި,ކުރަމަތި
+538,AA,AA - Maayaafushi,Maayaafushi,އއ,އއ - މާޔާފުށި,މާޔާފުށި
+539,AA,AA - Madoogali,Madoogali,އއ,އއ - މަޑޫގަލި,މަޑޫގަލި
+540,AA,AA - Kudafolhudhoo,Kudafolhudhoo,އއ,އއ - ކުޑަފޮޅުދޫ,ކުޑަފޮޅުދޫ
+541,AA,AA - Veligandu,Veligandu,އއ,އއ - ވެލިގަނޑު,ވެލިގަނޑު
+542,AA,AA - Velidhoo,Velidhoo,އއ,އއ - ވެލިދޫ,ވެލިދޫ
+543,AA,AA - Mushimasmigili,Mushimasmigili,އއ,އއ - މުށިމަސްގިލި,މުށިމަސްގިލި
+546,AA,AA - Alikoirah,Alikoirah,އއ,އއ - އަލިކޮއިރަށް,އަލިކޮއިރަށް
+547,AA,AA - Beyrumadivaru,Beyrumadivaru,އއ,އއ - ބޭރުމަޑިވަރު,ބޭރުމަޑިވަރު
+548,AA,AA - Dhinnolhufinolhu,Dhinnolhufinolhu,އއ,އއ - ދިއްނޮޅުފިނޮޅު,ދިއްނޮޅުފިނޮޅު
+549,AA,AA - Etheremadivaru,Etheremadivaru,އއ,އއ - އެތެރެމަޑިވަރު,އެތެރެމަޑިވަރު
+550,AA,AA - Fushi,Fushi,އއ,އއ - ފުށި,ފުށި
+551,AA,AA - Gaathafushi,Gaathafushi,އއ,އއ - ގާތަފުށި,ގާތަފުށި
+552,AA,AA - Kandholhudhoo,Kandholhudhoo,އއ,އއ - ކަނދޮޅުދޫ,ކަނދޮޅުދޫ
+553,AA,AA - Maagau,Maagau,އއ,އއ - މާގައު,މާގައު
+554,AA,AA - Madivaru,Madivaru,އއ,އއ - މަޑިވަރު,މަޑިވަރު
+555,AA,AA - Madivarufinolhu,Madivarufinolhu,އއ,އއ - މަޑިވަރުފިނޮޅު,މަޑިވަރުފިނޮޅު
+556,AA,AA - Mathivereefinolhu,Mathivereefinolhu,އއ,އއ - މަތިވެރީފިނޮޅު,މަތިވެރީފިނޮޅު
+557,AA,AA - Meerufenfushi,Meerufenfushi,އއ,އއ - މީރުފެންފުށި,މީރުފެންފުށި
+558,AA,AA - Vihamaafaru,Vihamaafaru,އއ,އއ - ވިހަމާފަރު,ވިހަމާފަރު
+559,ADh,ADh - Hangnameedhoo,Hangnameedhoo,އދ,އދ - ހަންޏާމީދޫ,ހަންޏާމީދޫ
+560,ADh,ADh - Omadhoo,Omadhoo,އދ,އދ - އޮމަދޫ,އޮމަދޫ
+561,ADh,ADh - Kuburudhoo,Kuburudhoo,އދ,އދ - ކުނބުރުދޫ,ކުނބުރުދޫ
+562,ADh,ADh - Mahibadhoo,Mahibadhoo,އދ,އދ - މަހިބަދޫ,މަހިބަދޫ
+563,ADh,ADh - Mandhoo,Mandhoo,އދ,އދ - މަންދޫ,މަންދޫ
+564,ADh,ADh - Dhangethi,Dhangethi,އދ,އދ - ދަނގެތި,ދަނގެތި
+565,ADh,ADh - Dhigurah,Dhigurah,އދ,އދ - ދިގުރަށް,ދިގުރަށް
+566,ADh,ADh - Fenfushi,Fenfushi,އދ,އދ - ފެންފުށި,ފެންފުށި
+567,ADh,ADh - Dhidhdhoo,Dhidhdhoo,އދ,އދ - ދިއްދޫ,ދިއްދޫ
+568,ADh,ADh - Maamigili,Maamigili,އދ,އދ - މާމިގިލި,މާމިގިލި
+569,ADh,ADh - Ariyadhoo,Ariyadhoo,އދ,އދ - އަރިޔަދޫ,އަރިޔަދޫ
+570,ADh,ADh - Angaaga,Angaaga,އދ,އދ - އަނގާގަ,އަނގާގަ
+571,ADh,ADh - Dhidhdhoofinolhu,Dhidhdhoofinolhu,އދ,އދ - ދިއްދޫފިނޮޅު,ދިއްދޫފިނޮޅު
+572,ADh,ADh - Athurugau,Athurugau,އދ,އދ - އަތުރުގައު,އަތުރުގައު
+573,ADh,ADh - Dhiffushi,Dhiffushi,އދ,އދ - ދިއްފުށި,ދިއްފުށި
+574,ADh,ADh - Kuda Rah,Kuda Rah,އދ,އދ - ކުޑަރަށް,ކުޑަރަށް
+575,ADh,ADh - Huvahendhoo,Huvahendhoo,އދ,އދ - ހުވަހެންދޫ,ހުވަހެންދޫ
+576,ADh,ADh - Machchafushi,Machchafushi,އދ,އދ - މައްޗަފުށި,މައްޗަފުށި
+577,ADh,ADh - Mirihi,Mirihi,އދ,އދ - މިރިހި,މިރިހި
+578,ADh,ADh - Rangalifinolhu,Rangalifinolhu,އދ,އދ - ރަންގަލިފިނޮޅު,ރަންގަލިފިނޮޅު
+579,ADh,ADh - Moofushi,Moofushi,އދ,އދ - މޫފުށި,މޫފުށި
+580,ADh,ADh - Villingilivaru,Villingilivaru,އދ,އދ - ވިލިނގިލިވަރު,ވިލިނގިލިވަރު
+581,ADh,ADh - Nalaguraidhoo,Nalaguraidhoo,އދ,އދ - ނަލަގުރައިދޫ,ނަލަގުރައިދޫ
+582,ADh,ADh - Thundufushi,Thundufushi,އދ,އދ - ތުނޑުފުށި,ތުނޑުފުށި
+583,ADh,ADh - Maafushivaru,Maafushivaru,އދ,އދ - މާފުށިވަރު,މާފުށިވަރު
+584,ADh,ADh - Vakarufalhi,Vakarufalhi,އދ,އދ - ވަކަރުފަޅި,ވަކަރުފަޅި
+585,ADh,ADh - Vilamendhoo,Vilamendhoo,އދ,އދ - ވިލަމެންދޫ,ވިލަމެންދޫ
+586,ADh,ADh - Aafinolhu,Aafinolhu,އދ,އދ - އާފިނޮޅު,އާފިނޮޅު
+587,ADh,ADh - Bodufinolhu,Bodufinolhu,އދ,އދ - ބޮޑުފިނޮޅު,ބޮޑުފިނޮޅު
+588,ADh,ADh - Bodukaashihuraa,Bodukaashihuraa,އދ,އދ - ބޮޑުކާށިހުރާ,ބޮޑުކާށިހުރާ
+589,ADh,ADh - Bulhalhohi,Bulhalhohi,އދ,އދ - ބުޅަޅޮހި,ބުޅަޅޮހި
+590,ADh,ADh - Dhiggiri,Dhiggiri,އދ,އދ - ދިއްގިރި,ދިއްގިރި
+591,ADh,ADh - Enboodhoo,Enboodhoo,އދ,އދ - އެނބޫދޫ,އެނބޫދޫ
+592,ADh,ADh - Fushidhiggaa,Fushidhiggaa,އދ,އދ - ފުށިދިއްގާ,ފުށިދިއްގާ
+593,ADh,ADh - Heenfaru,Heenfaru,އދ,އދ - ހީންފަރު,ހީންފަރު
+594,ADh,ADh - Hiyafushi,Hiyafushi,އދ,އދ - ހިޔަފުށި,ހިޔަފުށި
+595,ADh,ADh - Hukurudhoo,Hukurudhoo,އދ,އދ - ހުކުރުދޫ,ހުކުރުދޫ
+596,ADh,ADh - Hurasdhoo,Hurasdhoo,އދ,އދ - ހުރަސްދޫ,ހުރަސްދޫ
+597,ADh,ADh - Huruelhi,Huruelhi,އދ,އދ - ހުރުއެޅި,ހުރުއެޅި
+598,ADh,ADh - Innafushi,Innafushi,އދ,އދ - އިންނަފުށި,އިންނަފުށި
+599,ADh,ADh - Kalhahadhihuraa,Kalhahadhihuraa,އދ,އދ - ކަޅަހަދިހުރާ,ކަޅަހަދިހުރާ
+600,ADh,ADh - Kudadhoo,Kudadhoo,އދ,އދ - ކުޑަދޫ,ކުޑަދޫ
+601,ADh,ADh - Lonuboi,Lonuboi,އދ,އދ - ލޮނުބޮއި,ލޮނުބޮއި
+602,ADh,ADh - Theluveligaa,Theluveligaa,އދ,އދ - ތެލުވެލިގާ,ތެލުވެލިގާ
+603,ADh,ADh - Theyofulhihuraa,Theyofulhihuraa,އދ,އދ - ތެޔޮފުޅިހުރާ,ތެޔޮފުޅިހުރާ
+604,ADh,ADh - Tholhifushi,Tholhifushi,އދ,އދ - ތޮޅިފުށި,ތޮޅިފުށި
+605,V,V - Fulidhoo,Fulidhoo,ވ,ވ - ފުލިދޫ,ފުލިދޫ
+606,V,V - Thinadhoo,Thinadhoo,ވ,ވ - ތިނަދޫ,ތިނަދޫ
+607,V,V - Felidhoo,Felidhoo,ވ,ވ - ފެލިދޫ,ފެލިދޫ
+608,V,V - Keyodhoo,Keyodhoo,ވ,ވ - ކެޔޮދޫ,ކެޔޮދޫ
+609,V,V - Rakeedhoo,Rakeedhoo,ވ,ވ - ރަކީދޫ,ރަކީދޫ
+610,V,V - Anbaraa,Anbaraa,ވ,ވ - އަނބަރާ,އަނބަރާ
+611,V,V - Bodumohuraa,Bodumohuraa,ވ,ވ - ބޮޑުމޮހޮރާ,ބޮޑުމޮހޮރާ
+612,V,V - Alimatha,Alimatha,ވ,ވ - އަލިމަތާ,އަލިމަތާ
+613,V,V - Dhiggiri,Dhiggiri,ވ,ވ - ދިގިއްރި,ދިގިއްރި
+614,V,V - Aarah,Aarah,ވ,ވ - އާރަށް,އާރަށް
+615,V,V - Foththeyo Bodufushi,Foththeyo Bodufushi,ވ,ވ - ފޮށްތެޔޮބޮޑުފުށި,ފޮށްތެޔޮބޮޑުފުށި
+616,V,V - Hulhidhoo,Hulhidhoo,ވ,ވ - ހުޅިދޫ,ހުޅިދޫ
+617,V,V - Kudhiboli,Kudhiboli,ވ,ވ - ކުދިބޮލި,ކުދިބޮލި
+618,V,V - Kunaavashi,Kunaavashi,ވ,ވ - ކުނާވަށި,ކުނާވަށި
+619,V,V - Raggadu,Raggadu,ވ,ވ - ރަށްގަނޑު,ރަށްގަނޑު
+620,V,V - Ruhhurihuraa,Ruhhurihuraa,ވ,ވ - ރުށްހުރިހުރާ,ރުށްހުރިހުރާ
+621,V,V - Thuduhuraa,Thuduhuraa,ވ,ވ - ތުނޑުހުރާ,ތުނޑުހުރާ
+622,V,V - Vashugiri,Vashugiri,ވ,ވ - ވަށުގިރި,ވަށުގިރި
+623,V,V - Vattaru,Vattaru,ވ,ވ - ވަށްޓަރު,ވަށްޓަރު
+624,M,M - Raiymandhoo,Raiymandhoo,މ,މ - ރަތްމަންދޫ,ރަތްމަންދޫ
+625,M,M - Madifushi,Madifushi,މ,މ - މަޑިފުށި,މަޑިފުށި
+626,M,M - Veyvah,Veyvah,މ,މ - ވޭވަށް,ވޭވަށް
+627,M,M - Mulah,Mulah,މ,މ - މުލައް,މުލައް
+628,M,M - Muli,Muli,މ,މ - މުލި,މުލި
+629,M,M - Naalaafushi,Naalaafushi,މ,މ - ނާލާފުށި,ނާލާފުށި
+630,M,M - Kolhufushi,Kolhufushi,މ,މ - ކޮޅުފުށި,ކޮޅުފުށި
+631,M,M - Dhiggaru,Dhiggaru,މ,މ - ދިއްގަރު,ދިއްގަރު
+632,M,M - Maduvvari,Maduvvari,މ,މ - މަޑުއްވަރި,މަޑުއްވަރި
+633,M,M - Hakuraa Huraa,Hakuraa Huraa,މ,މ - ހަކުރާހުރާ,ހަކުރާހުރާ
+634,M,M - Medhufushi,Medhufushi,މ,މ - މެދުފުށި,މެދުފުށި
+635,M,M - Boahuraa,Boahuraa,މ,މ - ބޯހުރާ,ބޯހުރާ
+636,M,M - Dhekunuboduveli,Dhekunuboduveli,މ,މ - ދެކުނުބޮޑުވެލި,ދެކުނުބޮޑުވެލި
+637,M,M - Dhiththudi,Dhiththudi,މ,މ - ދިއްތުނޑި,ދިއްތުނޑި
+638,M,M - Erruh-huraa,Erruh-huraa,މ,މ - އެއްރުއްހުރާ,އެއްރުއްހުރާ
+639,M,M - Fenboafinolhu,Fenboafinolhu,މ,މ - ފެންބޯފިނޮޅު,ފެންބޯފިނޮޅު
+640,M,M - Fenboakurali,Fenboakurali,މ,މ - ފެންބޯކުރަލި,ފެންބޯކުރަލި
+641,M,M - Fenfuraveli,Fenfuraveli,މ,މ - ފެންފުރަވެލި,ފެންފުރަވެލި
+642,M,M - Gaakurali,Gaakurali,މ,މ - ގާކުރަލި,ގާކުރަލި
+643,M,M - Gasveli,Gasveli,މ,މ - ގަސްވެލި,ގަސްވެލި
+644,M,M - Gongalihuraa,Gongalihuraa,މ,މ - ގޮންގަލިހުރާ,ގޮންގަލިހުރާ
+645,M,M - Hurasveli (Uthurugasveli),Hurasveli (Uthurugasveli),މ,މ - ހުރަސްވެލި (އުތުރުގަސްވެލި),ހުރަސްވެލި (އުތުރުގަސްވެލި)
+646,M,M - Kakaahuraa,Kakaahuraa,މ,މ - ކަކާހުރާ,ކަކާހުރާ
+647,M,M - Kekuraalhuveli,Kekuraalhuveli,މ,މ - ކެކުރާޅުވެލި,ކެކުރާޅުވެލި
+648,M,M - Kudausfushi,Kudausfushi,މ,މ - ކުޑައުސްފުށި,ކުޑައުސްފުށި
+649,M,M - Maahuraa,Maahuraa,މ,މ - މާހުރާ,މާހުރާ
+650,M,M - Maalhaveli,Maalhaveli,މ,މ - މާޅަވެލި,މާޅަވެލި
+651,M,M - Mausfushi,Mausfushi,މ,މ - މައުސްފުށި,މައުސްފުށި
+653,M,M - Seedheehuraa,Seedheehuraa,މ,މ - ސީދީހުރާ,ސީދީހުރާ
+654,M,M - Seedihuraaveligandu,Seedihuraaveligandu,މ,މ - ސީދީހުރާވެލިގަނޑު,ސީދީހުރާވެލިގަނޑު
+655,M,M - Thuvaru,Thuvaru,މ,މ - ތުވަރު,ތުވަރު
+656,M,M - Uthuruboduveli,Uthuruboduveli,މ,މ - އުތުރުބޮޑުވެލި,އުތުރުބޮޑުވެލި
+657,M,M - Verineiybe,Verineiybe,މ,މ - ވެރިނެތްބެ,ވެރިނެތްބެ
+658,F,F - Feeali,Feeali,ފ,ފ - ފީއަލި,ފީއަލި
+659,F,F - Bilehdhoo,Bilehdhoo,ފ,ފ - ބިލެތްދޫ,ބިލެތްދޫ
+660,F,F - Magoodhoo,Magoodhoo,ފ,ފ - މަގޫދޫ,މަގޫދޫ
+661,F,F - Dharaboodhoo,Dharaboodhoo,ފ,ފ - ދަރަނބޫދޫ,ދަރަނބޫދޫ
+662,F,F - Nilandhoo,Nilandhoo,ފ,ފ - ނިލަންދޫ,ނިލަންދޫ
+663,F,F - Maafushi,Maafushi,ފ,ފ - މާފުށި,މާފުށި
+664,F,F - Filitheyo,Filitheyo,ފ,ފ - ފިލިތެޔޮ,ފިލިތެޔޮ
+665,F,F - Adhangau,Adhangau,ފ,ފ - އަދަނގައު,އަދަނގައު
+667,F,F - Bandidhuhfusheefinolhu,Bandidhuhfusheefinolhu,ފ,ފ - ބަނޑިދުށްފުށީފިނޮޅު,ބަނޑިދުށްފުށީފިނޮޅު
+669,F,F - Dhiguvaru,Dhiguvaru,ފ,ފ - ދިގުވަރު,ދިގުވަރު
+671,F,F - Embulufushi,Embulufushi,ފ,ފ - އެނބުލުފުށި,އެނބުލުފުށި
+672,F,F - Faanumaahuraa,Faanumaahuraa,ފ,ފ - ފާނުމާހުރާ,ފާނުމާހުރާ
+674,F,F - Himithi,Himithi,ފ,ފ - ހިމިތި,ހިމިތި
+676,F,F - Jinnathgau,Jinnathgau,ފ,ފ - ޖިންނަތުގައު,ޖިންނަތުގައު
+677,F,F - Kadumoonufushi,Kadumoonufushi,ފ,ފ - ކަނޑުމޫނުފުށި,ކަނޑުމޫނުފުށި
+681,F,F - Maavaruhuraa,Maavaruhuraa,ފ,ފ - މާވަރުހުރާ,މާވަރުހުރާ
+682,F,F - Madivaru huraa,Madivaru huraa,ފ,ފ - މަޑިވަރުހުރާ,މަޑިވަރުހުރާ
+683,F,F - Madivaru huraa,Madivaru huraa,ފ,ފ - މަޑިވަރުހުރާ,މަޑިވަރުހުރާ
+684,F,F - Magoodhoobodufinolhu,Magoodhoobodufinolhu,ފ,ފ - މަގޫދޫބޮޑުފިނޮޅު,މަގޫދޫބޮޑުފިނޮޅު
+685,F,F - Makunueri,Makunueri,ފ,ފ - މަކުނުއެރި,މަކުނުއެރި
+686,F,F - Minimasgali,Minimasgali,ފ,ފ - މިނިމަސްގަލި,މިނިމަސްގަލި
+688,F,F - Villiginlivarufinolhu,Villiginlivarufinolhu,ފ,ފ - ވިލިނގިލިވަރުފިނޮޅު,ވިލިނގިލިވަރުފިނޮޅު
+689,Dh,Dh - Meedhoo,Meedhoo,ދ,ދ - މީދޫ,މީދޫ
+690,Dh,Dh - Bandidhoo,Bandidhoo,ދ,ދ - ބަނޑިދޫ,ބަނޑިދޫ
+691,Dh,Dh - Rinbudhoo,Rinbudhoo,ދ,ދ - ރިނބުދޫ,ރިނބުދޫ
+692,Dh,Dh - Hulhudheli,Hulhudheli,ދ,ދ - ހުޅުދެލި,ހުޅުދެލި
+693,Dh,Dh - Gemendhoo,Gemendhoo,ދ,ދ - ގެމެންދޫ,ގެމެންދޫ
+694,Dh,Dh - Vaanee,Vaanee,ދ,ދ - ވާނީ,ވާނީ
+695,Dh,Dh - Maaenboodhoo,Maaenboodhoo,ދ,ދ - މާއެނބޫދޫ,މާއެނބޫދޫ
+696,Dh,Dh - Kudahuvadhoo,Kudahuvadhoo,ދ,ދ - ކުޑަހުވަދޫ,ކުޑަހުވަދޫ
+697,Dh,Dh - Velavaru,Velavaru,ދ,ދ - ވެލަވަރު,ވެލަވަރު
+698,Dh,Dh - Meedhuffushi,Meedhuffushi,ދ,ދ - މީދުއްފުށި,މީދުއްފުށި
+699,Dh,Dh - Aluvifushi,Aluvifushi,ދ,ދ - އަލުވިފުށި,އަލުވިފުށި
+700,Dh,Dh - Ayyukaloahuraa,Ayyukaloahuraa,ދ,ދ - އައްޔުކަލޯހުރާ,އައްޔުކަލޯހުރާ
+701,Dh,Dh - Bhulalafushi,Bhulalafushi,ދ,ދ - ބުލަލަފުށި,ބުލަލަފުށި
+702,Dh,Dh - Bodufushi,Bodufushi,ދ,ދ - ބޮޑުފުށި,ބޮޑުފުށި
+703,Dh,Dh - Dhebaidhoo,Dhebaidhoo,ދ,ދ - ދެބައިދޫ,ދެބައިދޫ
+704,Dh,Dh - Dhoores,Dhoores,ދ,ދ - ދޫރެސް,ދޫރެސް
+705,Dh,Dh - Embudhoofushi,Embudhoofushi,ދ,ދ - އެނބުދޫފުށި,އެނބުދޫފުށި
+706,Dh,Dh - Faandhoo,Faandhoo,ދ,ދ - ފާންދޫ,ފާންދޫ
+710,Dh,Dh - Gahadhiffushi,Gahadhiffushi,ދ,ދ - ގަހަދިއްފުށި,ގަހަދިއްފުށި
+713,Dh,Dh - Hiriyafushi,Hiriyafushi,ދ,ދ - ހިރިޔަފުށި,ހިރިޔަފުށި
+714,Dh,Dh - Hudufushifinolhu,Hudufushifinolhu,ދ,ދ - ހުޑުފުށިފިނޮޅު,ހުޑުފުށިފިނޮޅު
+715,Dh,Dh - Hulhuveli,Hulhuveli,ދ,ދ - ހުޅުވެލި,ހުޅުވެލި
+716,Dh,Dh - Issari,Issari,ދ,ދ - އިއްސަރި,އިއްސަރި
+717,Dh,Dh - Kannefaru,Kannefaru,ދ,ދ - ކަންނެފަރު,ކަންނެފަރު
+718,Dh,Dh - Kedhigadu,Kedhigadu,ދ,ދ - ކެދިގަނޑު,ކެދިގަނޑު
+719,Dh,Dh - Kiraidhoo,Kiraidhoo,ދ,ދ - ކިރައިދޫ,ކިރައިދޫ
+720,Dh,Dh - Lhohi,Lhohi,ދ,ދ - ޅޮހި,ޅޮހި
+721,Dh,Dh - Maadheli,Maadheli,ދ,ދ - މާދެލި,މާދެލި
+722,Dh,Dh - Maafushi,Maafushi,ދ,ދ - މާފުށި,މާފުށި
+723,Dh,Dh - Maagau,Maagau,ދ,ދ - މާގައު,މާގައު
+724,Dh,Dh - Maalefaru,Maalefaru,ދ,ދ - މާލެފަރު,މާލެފަރު
+728,Dh,Dh - Meedhuffushi,Meedhuffushi,ދ,ދ - މީދުއްފުށި,މީދުއްފުށި
+729,Dh,Dh - Minimasgali,Minimasgali,ދ,ދ - މިނިމަސްގަލި,މިނިމަސްގަލި
+730,Dh,Dh - Naibukaloabodufushi,Naibukaloabodufushi,ދ,ދ - ނައިބުކަލޯބޮޑުފުށި,ނައިބުކަލޯބޮޑުފުށި
+732,Dh,Dh - Olhuveli,Olhuveli,ދ,ދ - އޮޅުވެލި,އޮޅުވެލި
+736,Dh,Dh - Thilabolhufushi,Thilabolhufushi,ދ,ދ - ތިލަބޮޅުފުށި,ތިލަބޮޅުފުށި
+737,Dh,Dh - Thinhuraa,Thinhuraa,ދ,ދ - ތިންހުރާ,ތިންހުރާ
+738,Dh,Dh - Udhdhoo,Udhdhoo,ދ,ދ - އުއްދޫ,އުއްދޫ
+739,Dh,Dh - Vaalia,Vaalia,ދ,ދ - ވާލިއާ,ވާލިއާ
+740,Dh,Dh - Vallalhohi,Vallalhohi,ދ,ދ - ވައްލަޅޮހި,ވައްލަޅޮހި
+741,Dh,Dh - Vommuli,Vommuli,ދ,ދ - ވޮށްމުލި,ވޮށްމުލި
+742,Th,Th - Buruni,Buruni,ތ,ތ - ބުރުނީ,ބުރުނީ
+743,Th,Th - Vilufushi,Vilufushi,ތ,ތ - ވިލުފުށި,ވިލުފުށި
+744,Th,Th - Madifushi,Madifushi,ތ,ތ - މަޑިފުށި,މަޑިފުށި
+745,Th,Th - Dhiyamigili,Dhiyamigili,ތ,ތ - ދިޔަމިގިލި,ދިޔަމިގިލި
+746,Th,Th - Guraidhoo,Guraidhoo,ތ,ތ - ގުރައިދޫ,ގުރައިދޫ
+747,Th,Th - Kandoodhoo,Kandoodhoo,ތ,ތ - ކަނޑޫދޫ,ކަނޑޫދޫ
+748,Th,Th - Vandhoo,Vandhoo,ތ,ތ - ވަންދޫ,ވަންދޫ
+749,Th,Th - Hirilandhoo,Hirilandhoo,ތ,ތ - ހިރިލަންދޫ,ހިރިލަންދޫ
+750,Th,Th - Gaadhiffushi,Gaadhiffushi,ތ,ތ - ގާދިއްފުށި,ގާދިއްފުށި
+751,Th,Th - Thimarafushi,Thimarafushi,ތ,ތ - ތިމަރަފުށި,ތިމަރަފުށި
+752,Th,Th - Veymandoo,Veymandoo,ތ,ތ - ވޭމަންޑޫ,ވޭމަންޑޫ
+753,Th,Th - Kinbidhoo,Kinbidhoo,ތ,ތ - ކިނބިދޫ,ކިނބިދޫ
+754,Th,Th - Omadhoo,Omadhoo,ތ,ތ - އޮމަދޫ,އޮމަދޫ
+755,Th,Th - Fondhoo,Fondhoo,ތ,ތ - ފޮންދޫ,ފޮންދޫ
+756,Th,Th - Kanimeedhoo,Kanimeedhoo,ތ,ތ - ކަނިމީދޫ,ކަނިމީދޫ
+757,Th,Th - Bodufinolhu,Bodufinolhu,ތ,ތ - ބޮޑުފިނޮޅު,ބޮޑުފިނޮޅު
+758,Th,Th - Bodurehaa,Bodurehaa,ތ,ތ - ބޮޑުރެހާ,ބޮޑުރެހާ
+759,Th,Th - Dhiffushi,Dhiffushi,ތ,ތ - ދިއްފުށި,ދިއްފުށި
+760,Th,Th - Dhonanfushi,Dhonanfushi,ތ,ތ - ދޮނަންފުށި,ދޮނަންފުށި
+761,Th,Th - Dhururehaa,Dhururehaa,ތ,ތ - ދުރުރެހާ,ދުރުރެހާ
+762,Th,Th - Ekruffushi,Ekruffushi,ތ,ތ - އެކުރުއްފުށި,އެކުރުއްފުށި
+763,Th,Th - Elaa,Elaa,ތ,ތ - އެލާ,އެލާ
+764,Th,Th - Fenfushi,Fenfushi,ތ,ތ - ފެންފުށި,ފެންފުށި
+765,Th,Th - Fenmeerufushi,Fenmeerufushi,ތ,ތ - ފެންމީރުފުށި,ފެންމީރުފުށި
+766,Th,Th - Fonidhaani,Fonidhaani,ތ,ތ - ފޮނިދާނި,ފޮނިދާނި
+767,Th,Th - Funaddhoo,Funaddhoo,ތ,ތ - ފުނައްދޫ,ފުނައްދޫ
+768,Th,Th - Fushi,Fushi,ތ,ތ - ފުށި,ފުށި
+769,Th,Th - Fushifaru,Fushifaru,ތ,ތ - ފުށިފަރު,ފުށިފަރު
+770,Th,Th - Gaalee,Gaalee,ތ,ތ - ގާލީ,ގާލީ
+771,Th,Th - Gaathurehaa,Gaathurehaa,ތ,ތ - ގާތުރެހާ,ގާތުރެހާ
+772,Th,Th - Hathifushi,Hathifushi,ތ,ތ - ހަތިފުށި,ހަތިފުށި
+773,Th,Th - Hikandhilohi,Hikandhilohi,ތ,ތ - ހިކަނދިލޮހި,ހިކަނދިލޮހި
+774,Th,Th - Hiriyanfushi,Hiriyanfushi,ތ,ތ - ހިރިޔަންފުށި,ހިރިޔަންފުށި
+775,Th,Th - Hodelifushi,Hodelifushi,ތ,ތ - ހޮނޑެލިފުށި,ހޮނޑެލިފުށި
+776,Th,Th - Hulhiyanfushi,Hulhiyanfushi,ތ,ތ - ހުޅިޔަންފުށި,ހުޅިޔަންފުށި
+777,Th,Th - Kaadhoo,Kaadhoo,ތ,ތ - ކާދޫ,ކާދޫ
+778,Th,Th - Kadufushi,Kadufushi,ތ,ތ - ކަނޑުފުށި,ކަނޑުފުށި
+779,Th,Th - Kafidhoo,Kafidhoo,ތ,ތ - ކަފިދޫ,ކަފިދޫ
+780,Th,Th - Kakolhas,Kakolhas,ތ,ތ - ކަފޮޅަސް,ކަފޮޅަސް
+781,Th,Th - Kalhudheyfushi,Kalhudheyfushi,ތ,ތ - ކަޅުދޭފުށި,ކަޅުދޭފުށި
+782,Th,Th - Kalhufahalafushi,Kalhufahalafushi,ތ,ތ - ކަޅުފަހަލަފުށި,ކަޅުފަހަލަފުށި
+784,Th,Th - Kani,Kani,ތ,ތ - ކަނި,ކަނި
+785,Th,Th - Kolafushi,Kolafushi,ތ,ތ - ކޮލަފުށި,ކޮލަފުށި
+786,Th,Th - Kolhufushi,Kolhufushi,ތ,ތ - ކޮޅުފުށި,ކޮޅުފުށި
+787,Th,Th - Kolhufushi,Kolhufushi,ތ,ތ - ކޮޅުފުށި,ކޮޅުފުށި
+788,Th,Th - Kudadhoo,Kudadhoo,ތ,ތ - ކުޑަދޫ,ކުޑަދޫ
+789,Th,Th - Kudadhoofinolhu,Kudadhoofinolhu,ތ,ތ - ކުޑަދޫފިނޮޅު,ކުޑަދޫފިނޮޅު
+790,Th,Th - Kudakaadhoo,Kudakaadhoo,ތ,ތ - ކުޑަކާދޫ,ކުޑަކާދޫ
+791,Th,Th - Kudakibidhoo,Kudakibidhoo,ތ,ތ - ކުޑަކިނބިދޫ,ކުޑަކިނބިދޫ
+792,Th,Th - Kuradhuvaru,Kuradhuvaru,ތ,ތ - ކުރަދުވަރު,ކުރަދުވަރު
+793,Th,Th - Kuredhifushi,Kuredhifushi,ތ,ތ - ކުރެއްދިފުށި,ކުރެއްދިފުށި
+794,Th,Th - Lhavaddoo,Lhavaddoo,ތ,ތ - ޅަވައްޑޫ,ޅަވައްޑޫ
+795,Th,Th - Maagulhi,Maagulhi,ތ,ތ - މާގުޅި,މާގުޅި
+796,Th,Th - Maleafushi,Maleafushi,ތ,ތ - މަލެއަފުށި,މަލެއަފުށި
+797,Th,Th - Mathidhoo,Mathidhoo,ތ,ތ - މަތިދޫ,މަތިދޫ
+798,Th,Th - Medhafushi,Medhafushi,ތ,ތ - މެދަފުށި,މެދަފުށި
+799,Th,Th - Olhudhiyafushi,Olhudhiyafushi,ތ,ތ - އޮޅުދިޔަފުށި,އޮޅުދިޔަފުށި
+800,Th,Th - Olhufushi,Olhufushi,ތ,ތ - އޮޅުފުށި,އޮޅުފުށި
+801,Th,Th - Olhufushifinolhu,Olhufushifinolhu,ތ,ތ - އޮޅުފުށިފިނޮޅު,އޮޅުފުށިފިނޮޅު
+802,Th,Th - Olhugiri,Olhugiri,ތ,ތ - އޮޅުގިރި,އޮޅުގިރި
+803,Th,Th - Rihaamaafushi,Rihaamaafushi,ތ,ތ - ރިހާމާފުށި,ރިހާމާފުށި
+804,Th,Th - Ruththibirah,Ruththibirah,ތ,ތ - ރުއްތިބިރަށް,ރުއްތިބިރަށް
+805,Th,Th - Thinkolhufushi,Thinkolhufushi,ތ,ތ - ތިންކޮޅުފުށި,ތިންކޮޅުފުށި
+806,Th,Th - Ufuriyaa,Ufuriyaa,ތ,ތ - އުފުރިޔާ,އުފުރިޔާ
+807,Th,Th - Usfushi,Usfushi,ތ,ތ - އުސްފުށި,އުސްފުށި
+808,Th,Th - Vanbadhi,Vanbadhi,ތ,ތ - ވަންބަނދި,ވަންބަނދި
+825,L,L - Athahedha,Athahedha,ލ,ލ - އަތަހެދަ,އަތަހެދަ
+821,L,L - Baresdhoo,Baresdhoo,ލ,ލ - ބަރެސްދޫ,ބަރެސްދޫ
+826,L,L - Bileitheyrahaa,Bileitheyrahaa,ލ,ލ - ބިލަތްތޭރަހާ,ބިލަތްތޭރަހާ
+827,L,L - Bodufenrahaa,Bodufenrahaa,ލ,ލ - ބޮޑުފެންރަހާ,ބޮޑުފެންރަހާ
+828,L,L - Bodufinolhu,Bodufinolhu,ލ,ލ - ބޮޑުފިނޮޅު,ބޮޑުފިނޮޅު
+829,L,L - Boduhuraa,Boduhuraa,ލ,ލ - ބޮޑުހުރާ,ބޮޑުހުރާ
+830,L,L - Boduhuraa,Boduhuraa,ލ,ލ - ބޮޑުހުރާ,ބޮޑުހުރާ
+833,L,L - Bodumaabulhali,Bodumaabulhali,ލ,ލ - ބޮޑުމާބުޅަލި,ބޮޑުމާބުޅަލި
+834,L,L - Bokaiyfushi,Bokaiyfushi,ލ,ލ - ބޮކައިފުށި,ބޮކައިފުށި
+810,L,L - Dhabidhoo,Dhabidhoo,ލ,ލ - ދަނބިދޫ,ދަނބިދޫ
+836,L,L - Dhekunuvinagadu,Dhekunuvinagadu,ލ,ލ - ދެކުނުވިނަގަނޑު,ދެކުނުވިނަގަނޑު
+837,L,L - Dhonberahaa,Dhonberahaa,ލ,ލ - ދޮންބެރަހާ,ދޮންބެރަހާ
+838,L,L - Fares,Fares,ލ,ލ - ފަރެސް,ފަރެސް
+839,L,L - Fenboahuraa,Fenboahuraa,ލ,ލ - ފެންބޯހުރާ,ފެންބޯހުރާ
+840,L,L - Fenboarahaa,Fenboarahaa,ލ,ލ - ފެންބޯރަހާ,ފެންބޯރަހާ
+816,L,L - Fonadhoo,Fonadhoo,ލ,ލ - ފޮނަދޫ,ފޮނަދޫ
+841,L,L - Fonagaadhoo,Fonagaadhoo,ލ,ލ - ފޮނަގާދޫ,ފޮނަގާދޫ
+842,L,L - Fushi,Fushi,ލ,ލ - ފުށި,ފުށި
+817,L,L - Gaadhoo,Gaadhoo,ލ,ލ - ގާދޫ,ގާދޫ
+814,L,L - Gan,Gan,ލ,ލ - ގަން,ގަން
+843,L,L - Gasgfinolhu,Gasgfinolhu,ލ,ލ - ގަސްފިނޮޅު,ގަސްފިނޮޅު
+844,L,L - Guraidhoo,Guraidhoo,ލ,ލ - ގުރައިދޫ,ގުރައިދޫ
+846,L,L - Haiythoshi,Haiythoshi,ލ,ލ - ހަތްތޮށި,ހަތްތޮށި
+847,L,L - Hanhushi,Hanhushi,ލ,ލ - ހަންހުށި,ހަންހުށި
+848,L,L - Hedha,Hedha,ލ,ލ - ހެދަ,ހެދަ
+849,L,L - Hikandhirahaa,Hikandhirahaa,ލ,ލ - ހިކަނދިރަހާ,ހިކަނދިރަހާ
+819,L,L - Hithadhoo,Hithadhoo,ލ,ލ - ހިތަދޫ,ހިތަދޫ
+850,L,L - Holhurahaa,Holhurahaa,ލ,ލ - ހޮޅުރަހާ,ހޮޅުރަހާ
+823,L,L - Hulhimendhoo,Hulhimendhoo,ލ,ލ - ހުޅިމެންދޫ,ހުޅިމެންދޫ
+851,L,L - Hulhisdhoo,Hulhisdhoo,ލ,ލ - ހުޅިސްދޫ,ހުޅިސްދޫ
+852,L,L - Hulhiyandhoo,Hulhiyandhoo,ލ,ލ - ހުޅިޔަންދޫ,ހުޅިޔަންދޫ
+809,L,L - Isdhoo,Isdhoo,ލ,ލ - އިސްދޫ,އިސްދޫ
+824,L,L - Kadhdhoo,Kadhdhoo,ލ,ލ - ކައްދޫ,ކައްދޫ
+813,L,L - Kalhaidhoo,Kalhaidhoo,ލ,ލ - ކަޅައިދޫ,ކަޅައިދޫ
+853,L,L - Kalhurahaa,Kalhurahaa,ލ,ލ - ކަޅުރަހާ,ކަޅުރަހާ
+854,L,L - Kandaru,Kandaru,ލ,ލ - ކަނޑަރު,ކަނޑަރު
+855,L,L - Kanuhuraa,Kanuhuraa,ލ,ލ - ކަނުހުރާ,ކަނުހުރާ
+858,L,L - Kudafares,Kudafares,ލ,ލ - ކުޑަފަރެސް,ކުޑަފަރެސް
+860,L,L - Kudafushi,Kudafushi,ލ,ލ - ކުޑަފުށި,ކުޑަފުށި
+831,L,L - Kudahuraa,Kudahuraa,ލ,ލ - ކުޑަހުރާ,ކުޑަހުރާ
+861,L,L - Kudakalhaidhoo,Kudakalhaidhoo,ލ,ލ - ކުޑަކަޅައިދޫ,ކުޑަކަޅައިދޫ
+862,L,L - Kudamaabulhahi,Kudamaabulhahi,ލ,ލ - ކުޑަމާބުޅަހި,ކުޑަމާބުޅަހި
+820,L,L - Kunahandhoo,Kunahandhoo,ލ,ލ - ކުނަހަންދޫ,ކުނަހަންދޫ
+811,L,L - Maabaidhoo,Maabaidhoo,ލ,ލ - މާބައިދޫ,މާބައިދޫ
+865,L,L - Maafushi,Maafushi,ލ,ލ - މާފުށި,މާފުށި
+866,L,L - Maakalhuveli,Maakalhuveli,ލ,ލ - މާކަޅުވެލި,މާކަޅުވެލި
+818,L,L - Maamendhoo,Maamendhoo,ލ,ލ - މާމެންދޫ,މާމެންދޫ
+822,L,L - Maandhoo,Maandhoo,ލ,ލ - މާންދޫ,މާންދޫ
+815,L,L - Maavah,Maavah,ލ,ލ - މާވަށް,މާވަށް
+867,L,L - Maaveshi,Maaveshi,ލ,ލ - މާވެށި,މާވެށި
+868,L,L - Mahakanfushi,Mahakanfushi,ލ,ލ - މަހަކަންފުށި,މަހަކަންފުށި
+870,L,L - Medhuvinagadu,Medhuvinagadu,ލ,ލ - މެދުވިނަގަނޑު,މެދުވިނަގަނޑު
+871,L,L - Mendhoo,Mendhoo,ލ,ލ - މެންދޫ,މެންދޫ
+812,L,L - Mundoo,Mundoo,ލ,ލ - މުންޑޫ,މުންޑޫ
+872,L,L - Olhutholhu,Olhutholhu,ލ,ލ - އޮޅުތޮޅި,އޮޅުތޮޅި
+873,L,L - Olhuveli,Olhuveli,ލ,ލ - އޮޅުވެލި,އޮޅުވެލި
+875,L,L - Thunburi,Thunburi,ލ,ލ - ތުނބުރި,ތުނބުރި
+877,L,L - Uthuruvinagadu,Uthuruvinagadu,ލ,ލ - އުތުރުވިނަގަނޑު,އުތުރުވިނަގަނޑު
+878,L,L - Uvadhevifushi,Uvadhevifushi,ލ,ލ - އުވަދެވިފުށި,އުވަދެވިފުށި
+879,L,L - Vadinolhu,Vadinolhu,ލ,ލ - ވަދިނޮޅު,ވަދިނޮޅު
+880,L,L - Veligandufinolhu,Veligandufinolhu,ލ,ލ - ވެލިގަނޑުފިނޮޅު,ވެލިގަނޑުފިނޮޅު
+881,L,L - Ziyaaraiffushi,Ziyaaraiffushi,ލ,ލ - ޒިޔާރަތްފުށި,ޒިޔާރަތްފުށި
+882,GA,GA - Kolamaafushi,Kolamaafushi,ގއ,ގއ - ކޮލަމާފުށި,ކޮލަމާފުށި
+883,GA,GA - Villingili,Villingili,ގއ,ގއ - ވިލިނގިލި,ވިލިނގިލި
+884,GA,GA - Maamendhoo,Maamendhoo,ގއ,ގއ - މާމެންދޫ,މާމެންދޫ
+885,GA,GA - Nilandhoo,Nilandhoo,ގއ,ގއ - ނިލަންދޫ,ނިލަންދޫ
+886,GA,GA - Dhaandhoo,Dhaandhoo,ގއ,ގއ - ދާންދޫ,ދާންދޫ
+887,GA,GA - Dhevvadhoo,Dhevvadhoo,ގއ,ގއ - ދެއްވަދޫ,ދެއްވަދޫ
+888,GA,GA - Kondey,Kondey,ގއ,ގއ - ކޮނޑޭ,ކޮނޑޭ
+889,GA,GA - Dhiyadhoo,Dhiyadhoo,ގއ,ގއ - ދިޔަދޫ,ދިޔަދޫ
+890,GA,GA - Gemanafushi,Gemanafushi,ގއ,ގއ - ގެމަނަފުށި,ގެމަނަފުށި
+891,GA,GA - Kanduhulhudhoo,Kanduhulhudhoo,ގއ,ގއ - ކަނޑުހުޅުދޫ,ކަނޑުހުޅުދޫ
+892,GA,GA - Kooddoo,Kooddoo,ގއ,ގއ - ކޫއްޑޫ,ކޫއްޑޫ
+893,GA,GA - Kendheraa,Kendheraa,ގއ,ގއ - ކެނދެރާ,ކެނދެރާ
+894,GA,GA - Araigaththaa,Araigaththaa,ގއ,ގއ - އަރައިގަތްތާ,އަރައިގަތްތާ
+895,GA,GA - Baavanadhoo,Baavanadhoo,ގއ,ގއ - ބާވަނަދޫ,ބާވަނަދޫ
+896,GA,GA - Baberaahuttaa,Baberaahuttaa,ގއ,ގއ - ބަބެރާހުއްޓާ,ބަބެރާހުއްޓާ
+897,GA,GA - Bakeththaa,Bakeththaa,ގއ,ގއ - ބަކެއްތާ,ބަކެއްތާ
+898,GA,GA - Beyrumauddoo,Beyrumauddoo,ގއ,ގއ - ބޭރުމާއުއްޑޫ,ބޭރުމާއުއްޑޫ
+899,GA,GA - Boaddoo,Boaddoo,ގއ,ގއ - ބޯއްޑޫ,ބޯއްޑޫ
+900,GA,GA - Bodubondeyyaa,Bodubondeyyaa,ގއ,ގއ - ބޮޑުބޮންޑެއްޔާ,ބޮޑުބޮންޑެއްޔާ
+902,GA,GA - Bodehuttaa,Bodehuttaa,ގއ,ގއ - ބޮޑެހުއްޓާ,ބޮޑެހުއްޓާ
+903,GA,GA - Dhevaamaagalaa,Dhevaamaagalaa,ގއ,ގއ - ދެވާމާގަލާ,ދެވާމާގަލާ
+904,GA,GA - Dhevalaabadhoo,Dhevalaabadhoo,ގއ,ގއ - ދެވަލާބަދޫ,ދެވަލާބަދޫ
+905,GA,GA - Dhigudhoo,Dhigudhoo,ގއ,ގއ - ދިގުދޫ,ދިގުދޫ
+906,GA,GA - Dhigurah,Dhigurah,ގއ,ގއ - ދިގުރަށް,ދިގުރަށް
+907,GA,GA - Falhumaafushi,Falhumaafushi,ގއ,ގއ - ފަޅުމާފުށި,ފަޅުމާފުށި
+908,GA,GA - Falhuverrehaa,Falhuverrehaa,ގއ,ގއ - ފަޅުވެއްރެހާ,ފަޅުވެއްރެހާ
+909,GA,GA - Faruhulhudhoo,Faruhulhudhoo,ގއ,ގއ - ފަރުހުޅުދޫ,ފަރުހުޅުދޫ
+910,GA,GA - Fenrehaa,Fenrehaa,ގއ,ގއ - ފެންރެހާ,ފެންރެހާ
+911,GA,GA - Fenrehaahuttaa,Fenrehaahuttaa,ގއ,ގއ - ފެންރެހާހުއްޓާ,ފެންރެހާހުއްޓާ
+912,GA,GA - Fulangi,Fulangi,ގއ,ގއ - ފުލަނގި,ފުލަނގި
+913,GA,GA - Funadhoo,Funadhoo,ގއ,ގއ - ފުނަދޫ,ފުނަދޫ
+914,GA,GA - Funadhooviligillaa,Funadhooviligillaa,ގއ,ގއ - ފުނަދޫވިލިގިއްލާ,ފުނަދޫވިލިގިއްލާ
+915,GA,GA - Funamauddoo,Funamauddoo,ގއ,ގއ - ފުނަމައުއްޑޫ,ފުނަމައުއްޑޫ
+916,GA,GA - Galamadhoo,Galamadhoo,ގއ,ގއ - ގަލަމަދޫ,ގަލަމަދޫ
+917,GA,GA - Hadahaa,Hadahaa,ގއ,ގއ - ހަޑަހާ,ހަޑަހާ
+918,GA,GA - Hagedhoo,Hagedhoo,ގއ,ގއ - ހަގެދޫ,ހަގެދޫ
+919,GA,GA - Hagevillaa,Hagevillaa,ގއ,ގއ - ހަގެވިލާ,ހަގެވިލާ
+920,GA,GA - Heenaamaagalaa,Heenaamaagalaa,ގއ,ގއ - ހީނާމާގަލާ,ހީނާމާގަލާ
+921,GA,GA - Hirihuttaa,Hirihuttaa,ގއ,ގއ - ހިރިހުއްޓާ,ހިރިހުއްޓާ
+922,GA,GA - Hithaadhoo,Hithaadhoo,ގއ,ގއ - ހިތާދޫ,ހިތާދޫ
+923,GA,GA - Hithandhoogalaa,Hithandhoogalaa,ގއ,ގއ - ހިތަންދޫގަލާ,ހިތަންދޫގަލާ
+924,GA,GA - Hulhimendhoo,Hulhimendhoo,ގއ,ގއ - ހުޅިމެންދޫ,ހުޅިމެންދޫ
+925,GA,GA - Huredhdhoo,Huredhdhoo,ގއ,ގއ - ހުރެއްދޫ,ހުރެއްދޫ
+926,GA,GA - Idimaa,Idimaa,ގއ,ގއ - އިޑިމާ,އިޑިމާ
+928,GA,GA - Kanduvilingili,Kanduvilingili,ގއ,ގއ - ކަނޑުވިލިނގިލި,ކަނޑުވިލިނގިލި
+929,GA,GA - Kalhehuttaa,Kalhehuttaa,ގއ,ގއ - ކަޅެހުއްޓާ,ކަޅެހުއްޓާ
+930,GA,GA - Keesseyrahaa,Keesseyrahaa,ގއ,ގއ - ކީއްސޭރަހާ,ކީއްސޭރަހާ
+932,GA,GA - Kodafuttaa,Kodafuttaa,ގއ,ގއ - ކޮޑަފުއްޓާ,ކޮޑަފުއްޓާ
+933,GA,GA - Kodeymatheelaabadhoo,Kodeymatheelaabadhoo,ގއ,ގއ - ކޮނޑޭމަތީލާބަދޫ,ކޮނޑޭމަތީލާބަދޫ
+934,GA,GA - Kodeyvilingili,Kodeyvilingili,ގއ,ގއ - ކޮނޑޭވިލިނގިލި,ކޮނޑޭވިލިނގިލި
+936,GA,GA - Kubumaafushi,Kubumaafushi,ގއ,ގއ - ކުބުމާފުށި,ކުބުމާފުށި
+937,GA,GA - Kudafehala,Kudafehala,ގއ,ގއ - ކުޑަފެހަލަ,ކުޑަފެހަލަ
+938,GA,GA - Kudalafari,Kudalafari,ގއ,ގއ - ކުޑަލަފަރި,ކުޑަލަފަރި
+939,GA,GA - Kudhebondeyyaa,Kudhebondeyyaa,ގއ,ގއ - ކުދެބޮންޑެއްޔާ,ކުދެބޮންޑެއްޔާ
+940,GA,GA - Kuredhdhoo,Kuredhdhoo,ގއ,ގއ - ކުރެއްދޫ,ކުރެއްދޫ
+941,GA,GA - Lhossaa,Lhossaa,ގއ,ގއ - ޅޮއްސާ,ޅޮއްސާ
+942,GA,GA - Maadhiguvara,Maadhiguvara,ގއ,ގއ - މާދިގުވަރު,މާދިގުވަރު
+943,GA,GA - Maafehelaa,Maafehelaa,ގއ,ގއ - މާފެހެލާ,މާފެހެލާ
+944,GA,GA - Maagehuttaa,Maagehuttaa,ގއ,ގއ - މާގެހުއްޓާ,މާގެހުއްޓާ
+945,GA,GA - Maamutaa,Maamutaa,ގއ,ގއ - މާމުތާ,މާމުތާ
+946,GA,GA - Maanaagalaa,Maanaagalaa,ގއ,ގއ - މާނާގަލާ,މާނާގަލާ
+947,GA,GA - Maarandhoo,Maarandhoo,ގއ,ގއ - މާރަންދޫ,މާރަންދޫ
+948,GA,GA - Maarehaa,Maarehaa,ގއ,ގއ - މާރެހާ,މާރެހާ
+949,GA,GA - Mahadhdhoo,Mahadhdhoo,ގއ,ގއ - މަހައްދޫ,މަހައްދޫ
+951,GA,GA - Medhuhuttaa,Medhuhuttaa,ގއ,ގއ - މެދުހުއްޓާ,މެދުހުއްޓާ
+952,GA,GA - Medhurehaa,Medhurehaa,ގއ,ގއ - މެދުރެހާ,މެދުރެހާ
+953,GA,GA - Melaimu,Melaimu,ގއ,ގއ - މެލައިމު,މެލައިމު
+954,GA,GA - Meradhoo,Meradhoo,ގއ,ގއ - މެރަދޫ,މެރަދޫ
+955,GA,GA - Minimensaa,Minimensaa,ގއ,ގއ - މިނިމެންސާ,މިނިމެންސާ
+956,GA,GA - Munandhoo,Munandhoo,ގއ,ގއ - މުނަންދޫ,މުނަންދޫ
+957,GA,GA - Odagallaa,Odagallaa,ގއ,ގއ - އޮޑަގައްލާ,އޮޑަގައްލާ
+958,GA,GA - Raavehrehaa,Raavehrehaa,ގއ,ގއ - ރާވެއްރެހާ,ރާވެއްރެހާ
+959,GA,GA - Ribidhoo,Ribidhoo,ގއ,ގއ - ރިބދޫ,ރިބދޫ
+960,GA,GA - Viligalaa,Viligalaa,ގއ,ގއ - ވިލިގަލާ,ވިލިގަލާ
+961,GA,GA - Vodamulaa,Vodamulaa,ގއ,ގއ - ވޮޑަމުލާ,ވޮޑަމުލާ
+962,GDh,GDh - Madaveli,Madaveli,ގދ,ގދ - މަޑަވެލި,މަޑަވެލި
+963,GDh,GDh - Hoadedhdhoo,Hoadedhdhoo,ގދ,ގދ - ހޯޑެއްދޫ,ހޯޑެއްދޫ
+964,GDh,GDh - Nadellaa,Nadellaa,ގދ,ގދ - ނަޑެއްލާ,ނަޑެއްލާ
+965,GDh,GDh - Gadhdhoo,Gadhdhoo,ގދ,ގދ - ގައްދޫ,ގައްދޫ
+966,GDh,GDh - Rathafandhoo,Rathafandhoo,ގދ,ގދ - ރަތަފަންދޫ,ރަތަފަންދޫ
+967,GDh,GDh - Vaadhoo,Vaadhoo,ގދ,ގދ - ވާދޫ,ވާދޫ
+968,GDh,GDh - Fiyoari,Fiyoari,ގދ,ގދ - ފިޔޯރީ,ފިޔޯރީ
+971,GDh,GDh - Thinadhoo,Thinadhoo,ގދ,ގދ - ތިނަދޫ,ތިނަދޫ
+972,GDh,GDh - Fares-Maathodaa,Fares-Maathodaa,ގދ,ގދ - ފަރެސްމާތޮޑާ,ފަރެސްމާތޮޑާ
+973,GDh,GDh - Konottaa,Konottaa,ގދ,ގދ - ކޮނޮއްޓާ,ކޮނޮއްޓާ
+974,GDh,GDh - Kaadedhdhoo,Kaadedhdhoo,ގދ,ގދ - ކާޑެއްދޫ,ކާޑެއްދޫ
+975,GDh,GDh - Baulhageella,Baulhageella,ގދ,ގދ - ބާއުޅަގީއްލާ,ބާއުޅަގީއްލާ
+976,GDh,GDh - Dhigulaabadhoo,Dhigulaabadhoo,ގދ,ގދ - ދިގުލާބަދޫ,ދިގުލާބަދޫ
+977,GDh,GDh - Dhoonirehaa,Dhoonirehaa,ގދ,ގދ - ދޫނިރެހާ,ދޫނިރެހާ
+978,GDh,GDh - Faanahuttaa,Faanahuttaa,ގދ,ގދ - ފާނަހުއްޓާ,ފާނަހުއްޓާ
+979,GDh,GDh - Farehulhudhoo,Farehulhudhoo,ގދ,ގދ - ފާރެހުޅުދޫ,ފާރެހުޅުދޫ
+980,GDh,GDh - Gan,Gan,ގދ,ގދ - ގަން,ގަން
+981,GDh,GDh - Gazeera,Gazeera,ގދ,ގދ - ގަޒީރާ,ގަޒީރާ
+982,GDh,GDh - Golhallaa,Golhallaa,ގދ,ގދ - ގޮޅައްލާ,ގޮޅައްލާ
+983,GDh,GDh - Haadhoo,Haadhoo,ގދ,ގދ - ހާދޫ,ހާދޫ
+984,GDh,GDh - Havoddaa,Havoddaa,ގދ,ގދ - ހޮވައްޑާ,ހޮވައްޑާ
+985,GDh,GDh - Havodigalaa,Havodigalaa,ގދ,ގދ - ހޮވަޑިގަލާ,ހޮވަޑިގަލާ
+986,GDh,GDh - Hulhuvaarulu,Hulhuvaarulu,ގދ,ގދ - ހުޅުވާރުލު,ހުޅުވާރުލު
+988,GDh,GDh - Kaashidhoo,Kaashidhoo,ގދ,ގދ - ކާށިދޫ,ކާށިދޫ
+989,GDh,GDh - Kadahalagalaa,Kadahalagalaa,ގދ,ގދ - ކަޑަހަލަގަލާ,ކަޑަހަލަގަލާ
+990,GDh,GDh - Kafenaa,Kafenaa,ގދ,ގދ - ކާފެނާ,ކާފެނާ
+991,GDh,GDh - Kalhehamala,Kalhehamala,ގދ,ގދ - ކަޅެހަމަލަ,ކަޅެހަމަލަ
+992,GDh,GDh - Kalherehaa,Kalherehaa,ގދ,ގދ - ކަޅެރެހާ,ކަޅެރެހާ
+993,GDh,GDh - Kodaanafuttaa,Kodaanafuttaa,ގދ,ގދ - ކޮޑާނަފުއްޓާ,ކޮޑާނަފުއްޓާ
+994,GDh,GDh - Odavarrehaa,Odavarrehaa,ގދ,ގދ - އޮޑަވައްރެހާ,އޮޑަވައްރެހާ
+996,GDh,GDh - Kudhelaihaa,Kudhelaihaa,ގދ,ގދ - ކުދެލައިހާ,ކުދެލައިހާ
+997,GDh,GDh - Laihaa,Laihaa,ގދ,ގދ - ލައިހާ,ލައިހާ
+998,GDh,GDh - Lonudhoo,Lonudhoo,ގދ,ގދ - ލޮނުދޫ,ލޮނުދޫ
+999,GDh,GDh - Lonudhoohuttaa,Lonudhoohuttaa,ގދ,ގދ - ލޮނުދޫހުއްޓާ,ލޮނުދޫހުއްޓާ
+1000,GDh,GDh - Gehemaagala,Gehemaagala,ގދ,ގދ - ގެހެމާގަލާ,ގެހެމާގަލާ
+1001,GDh,GDh - Maagoderehaa,Maagoderehaa,ގދ,ގދ - މާގޮޑެރެހާ,މާގޮޑެރެހާ
+1004,GDh,GDh - Maavaarulu,Maavaarulu,ގދ,ގދ - މާވާރުލު,މާވާރުލު
+1005,GDh,GDh - Maavadhdhuvaa,Maavadhdhuvaa,ގދ,ގދ - މާވަށްދުވާ,މާވަށްދުވާ
+1006,GDh,GDh - Magudhdhuvaa,Magudhdhuvaa,ގދ,ގދ - މަގުއްދުވާ,މަގުއްދުވާ
+1007,GDh,GDh - Mallaarehaa,Mallaarehaa,ގދ,ގދ - މައްލާރެހާ,މައްލާރެހާ
+1008,GDh,GDh - Mathihuttaa,Mathihuttaa,ގދ,ގދ - މަތިހުއްޓާ,މަތިހުއްޓާ
+1009,GDh,GDh - Menthandhuvaa,Menthandhuvaa,ގދ,ގދ - މެންތަނޑުވާ,މެންތަނޑުވާ
+1010,GDh,GDh - Mudhimaahuttaa,Mudhimaahuttaa,ގދ,ގދ - މުދިމާހުއްޓާ,މުދިމާހުއްޓާ
+1011,GDh,GDh - Odagallaa,Odagallaa,ގދ,ގދ - އޮޑަގައްލާ,އޮޑަގައްލާ
+1012,GDh,GDh - Rahadhuvaa,Rahadhuvaa,ގދ,ގދ - ރަހަދުވާ,ރަހަދުވާ
+1013,GDh,GDh - Meehunthibenehuttaa,Meehunthibenehuttaa,ގދ,ގދ - މީހުންތިބެނެހުއްޓާ,މީހުންތިބެނެހުއްޓާ
+1014,GDh,GDh - Thinehuttaa,Thinehuttaa,ގދ,ގދ - ތިނެހުއްޓާ,ތިނެހުއްޓާ
+1015,GDh,GDh - Ullegalaa,Ullegalaa,ގދ,ގދ - އުއްލެގަލާ,އުއްލެގަލާ
+1016,GDh,GDh - Vaireyaadhuvaa,Vaireyaadhuvaa,ގދ,ގދ - ވައިރެޔާދުވާ,ވައިރެޔާދުވާ
+1017,GDh,GDh - Vatavarrehaa,Vatavarrehaa,ގދ,ގދ - ވަޓަވައްރެހާ,ވަޓަވައްރެހާ
+1018,GDh,GDh - Gehevelagalaa,Gehevelagalaa,ގދ,ގދ - ގެހެވެލަގަލާ,ގެހެވެލަގަލާ
+1019,GDh,GDh - Veraaviligilillaa,Veraaviligilillaa,ގދ,ގދ - ވެރާވިލިގިލިއްލާ,ވެރާވިލިގިލިއްލާ
+1020,Gn,Gn - Fuvahmulah,Fuvahmulah,ޏ,ޏ - ފުވައްމުލައް,ފުވައްމުލައް
+1021,S,S - Meedhoo,Meedhoo,ސ,ސ - މީދޫ,މީދޫ
+1022,S,S - Hithadhoo,Hithadhoo,ސ,ސ - ހިތަދޫ,ހިތަދޫ
+1023,S,S - Maradhoo,Maradhoo,ސ,ސ - މަރަދޫ,މަރަދޫ
+1024,S,S - Feydhoo,Feydhoo,ސ,ސ - ފޭދޫ,ފޭދޫ
+1025,S,S - Maradhoo-Feydhoo,Maradhoo-Feydhoo,ސ,ސ - މަރަދޫފޭދޫ,މަރަދޫފޭދޫ
+1026,S,S - Hulhudhoo,Hulhudhoo,ސ,ސ - ހުޅުދޫ,ހުޅުދޫ
+1027,S,S - Hulhumeedhoo,Hulhumeedhoo,ސ,ސ - ހުޅުމީދޫ,ހުޅުމީދޫ
+1028,S,S - Gan,Gan,ސ,ސ - ގަން,ގަން
+1029,S,S - Bedeyaurah,Bedeyaurah,ސ,ސ - ބެދޭއައުރަށް,ބެދޭއައުރަށް
+1030,S,S - Boduhajara,Boduhajara,ސ,ސ - ބޮޑުހަޖަރާ,ބޮޑުހަޖަރާ
+1032,S,S - Dheerondi,Dheerondi,ސ,ސ - ދީރޮނޑި,ދީރޮނޑި
+1033,S,S - Dhigihera,Dhigihera,ސ,ސ - ދިގިހެރަ,ދިގިހެރަ
+1034,S,S - Gomahera,Gomahera,ސ,ސ - ގޮމަހެރަ,ގޮމަހެރަ
+1035,S,S - Hankede,Hankede,ސ,ސ - ހަންކެޑެ,ހަންކެޑެ
+1037,S,S - Herethere,Herethere,ސ,ސ - ހެރެތެރެ,ހެރެތެރެ
+1038,S,S - Hikahera,Hikahera,ސ,ސ - ހިކަހެރަ,ހިކަހެރަ
+1039,S,S - Kafathalhaahera,Kafathalhaahera,ސ,ސ - ކަފަތަޅާހެރަ,ކަފަތަޅާހެރަ
+1040,S,S - Kan'dihera,Kan'dihera,ސ,ސ - ކަނޑިހެރަ,ކަނޑިހެރަ
+1041,S,S - Kedavaahera,Kedavaahera,ސ,ސ - ކެޑަވާހެރަ,ކެޑަވާހެރަ
+1042,S,S - Kudamaahera,Kudamaahera,ސ,ސ - ކުޑަމާހެރަ,ކުޑަމާހެރަ
+1043,S,S - Kaohera,Kaohera,ސ,ސ - ކޯހެރަ,ކޯހެރަ
+1044,S,S - Maahera,Maahera,ސ,ސ - މާހެރަ,މާހެރަ
+1045,S,S - Mulike'de,Mulike'de,ސ,ސ - މުލިކެނޑެ,މުލިކެނޑެ
+1046,S,S - Savaaheli,Savaaheli,ސ,ސ - ސަވާހެލި,ސަވާހެލި
+1047,S,S - Villingili,Villingili,ސ,ސ - ވިލިނގިލި,ވިލިނގިލި
+1048,M,M - Muli - Naalaaushi,Muli - Naalaaushi,މ,މ - މުލި - ނާލާފުށި,މުލި - ނާލާފުށި
+1049,GDh,GDh - Madaveli - Hoadehdhoo,Madaveli - Hoadehdhoo,ގދ,ގދ - މަޑަވެލި - ހޯޑެއްދޫ,މަޑަވެލި - ހޯޑެއްދޫ
+1050,S,S - Hulhudhoo - Meedhoo,Hulhudhoo - Meedhoo,ސ,ސ - ހުޅުދޫ - މީދޫ,ހުޅުދޫ
+1051,Sh,SH - Foakaidhoo - Feevah - Feydhoo,Foakaidhoo - Feevah - Feydhoo,ށ,ށ - ފޯކައިދޫ - ފީވައް - ފޭދޫ,ފޯކައިދޫ - ފީވައް - ފޭދޫ
+1052,L,L - Dhanbidhoo - Kalaidhoo,Dhanbidhoo - Kalaidhoo,ލ,ލ - ދަނބިދޫ - ކަޅައިދޫ,ދަނބިދޫ - ކަޅައިދޫ
+1053,L,L - Hithadhoo - Kunahandhoo,Hithadhoo - Kunahandhoo,ލ,ލ - ހިތަދޫ - ކުނަހަންދޫ,ހިތަދޫ - ކުނަހަންދޫ
