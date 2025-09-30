@@ -1,53 +1,65 @@
-﻿Index,project-name-en,project-name-dv
+﻿﻿Index,project-name-en,project-name-dv
 1,Airport,ވައިގެ ބަނދަރު
 2,Airport Expansion,ވައިގެ ބަނދަރު ބޮޑުކުރުން
 3,Airport Extension,ވައިގެ ބަނދަރު ބޮޑުކުރުން
 4,Airport Phase 2,ވައިގެ ބަނދަރު ފެވަނަ ފިޔަވަހި
 5,Airport Reclamation,ވައިގެ ބަނދަރު ހިއްކުން
 6,Artificial Beach,އާޓިފިޝަލް ބީޗް 
-7,Bridge,ބުރިޖު
-8,Building,އިމާރާތް
-9,Classroom,ކުލާސް ރޫމް
-10,Football Ground,ފުޓްބޯޅަ ދަނޑު
-11,Football Ground Fence & Lighting,ފުޓްބޯޅަ ދަނޑު ފެންސް އަދި ލައިޓިން
-12,Football Ground Lighting,ފުޓްބޯޅަ ދަނޑު ލައިޓިން
-13,Football/Futsal,ފުޓު ބޯޅަ/ ފުޓްސަލް
-14,Futsal Ground,ފުޓްސަލް ދަނޑު
-15,Harbour,ބަނދަރު
-16,Health Centre,ޞިއްޙީ މަރުކަޒު
-17,IslamicCenter,އިސްލާމީ މަރުކަޒު
-18,IslamicCenterP2,އިސްލާމީ މަރުކަޒު (ދެވަނަ ފިޔަވަހި)
-19,Island Level (T1) Police Station,ޕޮލިސް ސްޓޭޝަން
-20,Jetty,ޖެޓީ
-21,Junior College,ޖޫނިއާ ކޮލެޖް
-22,Mosque,މިސްކިތް
-23,Mosque 300pax,މިސްކިތް
-24,Mosque 500pax,މިސްކިތް
-25,Multipurpose Hall,މަލްޓި ޕަރޕަސް ހޯލު
-26,Office Building,އޮފީސް އިމާރާތް
-27,Police Post,ޕޮލިސް ޕޯސްޓް
-28,Port,ޕޯޓް
-29,Reclamation,ބިން ހިއްކުން
-30,Road,މަގު
-31,Road P2,މަގު (ދެވަނަ ފިޔަވަހި)
-32,Road Phase 1,މަގު (ފުރަތަމަ ފިޔަވަހި)
-33,Road Phase 2,މަގު (ދެވަނަ ފިޔަވަހި)
-34,School,ސްކޫލް
-35,Sewerage,ނަރުދަމާ ނިޒާމު
-36,Shore,ގޮނޑުދޮށް ހިމާޔަތް ކުރުން
-37,Shore Protection,ގޮނޑުދޮށް ހިމާޔަތް ކުރުނ
-38,Skate Park, ސްކޭޓް ޕާކް
-39,Swimming Track,ފަތާ ޓްރެކް
-40,Volley Court,ވޮލީބޯޅަ ކޯޓު
-41,WMC,ކުނި މެނޭޖްކުރާ މަރުކަޒު
-42,Hospital,ހަސްފަތާލު
-43,Outdoor Gym,އައުޓްޑޯ ގިމް
-44,Fitness & Recreation Centre,އެފް އާރު ސީ
-45,Reclamation and Shore Protection,ބިން ހިއްކުން އަދި ގޮނޑުދޮށް ހިމާޔަތް ކުރުން
-46,Children's Park,ކުޑަކުދުންގެ ޕާކު
-47, Atoll Level Police Station, އަތޮޅު ފެންވަރު ޕޮލިސް ސްޓޭޝަން
-48,Bashi Court,ބަށި ކޯޓު
-49,Learning Centre,ލާނިން ސެންޓަރު
-50,Bridge / Causeway,ބުރިޖު / ކޯޒްވޭ
-51,Causeway,ކޯޒްވޭ
-52,Atoll Level Police Station,އަތޮޅު ފެންވަރު ޕޮލިސް ސްޓޭޝަން
+7,Atoll Level Police Station, އަތޮޅު ފެންވަރު ޕޮލިސް ސްޓޭޝަން
+8,Atoll Level Police Station,އަތޮޅު ފެންވަރު ޕޮލިސް ސްޓޭޝަން
+9,Bashi Court,ބަށި ކޯޓު
+10,Beaching Area,ބީޗީން އޭރިއާ
+11,Bridge,ބުރިޖު
+12,Bridge / Causeway,ބުރިޖު / ކޯޒްވޭ
+13,Building,އިމާރާތް
+14,Campus,ކެމްޕަސް
+15,Causeway,ކޯޒްވޭ
+16,Children's Park,ކުޑަކުދުންގެ ޕާކު
+17,Classroom,ކުލާސް ރޫމް
+18,Classroom & Multipurpose Hall,ކުލާސް ރޫމް އަދި މަލްޓި ޕަރޕަސް ހޯލު
+19,Convention Hall,ކޮންވެންޝަން ހޯލް
+20,Fitness & Recreation Centre,އެފް އާރު ސީ
+21,Football Ground,ފުޓްބޯޅަ ދަނޑު
+22,Football Ground Fence & Lighting,ފުޓްބޯޅަ ދަނޑު ފެންސް އަދި ލައިޓިން
+23,Football Ground Lighting,ފުޓްބޯޅަ ދަނޑު ލައިޓިން
+24,Football/Futsal,ފުޓު ބޯޅަ/ ފުޓްސަލް
+25,Football/Futsal Ground,ފުޓު ބޯޅަ/ ފުޓްސަލް
+26,Futsal Ground,ފުޓްސަލް ދަނޑު
+27,Harbour,ބަނދަރު
+28,Health Centre,ޞިއްޙީ މަރުކަޒު
+29,Hospital,ހަސްފަތާލު
+30,Islamic Centre,އިސްލާމީ މަރުކަޒު
+31,IslamicCenter,އިސްލާމީ މަރުކަޒު
+32,IslamicCenterP2,އިސްލާމީ މަރުކަޒު (ދެވަނަ ފިޔަވަހި)
+33,Island Level (T1) Police Station,ޕޮލިސް ސްޓޭޝަން
+34,Jetty,ޖެޓީ
+35,Junior College,ޖޫނިއާ ކޮލެޖް
+36,Learning Centre,ލާނިން ސެންޓަރު
+37,Mosque,މިސްކިތް
+38,Mosque 300pax,މިސްކިތް
+39,Mosque 500pax,މިސްކިތް
+40,Multipurpose Hall,މަލްޓި ޕަރޕަސް ހޯލު
+41,National Security,ނޭޝަނަލް ސެކިއުރިޓީ
+42,Office Building,އޮފީސް އިމާރާތް
+43,Other,އެހެނިހެން
+44,Outdoor Gym,އައުޓްޑޯ ގިމް
+45,Police Post,ޕޮލިސް ޕޯސްޓް
+46,Port,ޕޯޓް
+47,Reclamation,ބިން ހިއްކުން
+48,Reclamation and Shore Protection,ބިން ހިއްކުން އަދި ގޮނޑުދޮށް ހިމާޔަތް ކުރުން
+49,Road,މަގު
+50,Road P2,މަގު (ދެވަނަ ފިޔަވަހި)
+51,Road Phase 1,މަގު (ފުރަތަމަ ފިޔަވަހި)
+52,Road Phase 2,މަގު (ދެވަނަ ފިޔަވަހި)
+53,Running Track ,ދުވާ ޓުރެކް
+54,School,ސްކޫލް
+55,Sewerage,ނަރުދަމާ ނިޒާމު
+56,Shore,ގޮނޑުދޮށް ހިމާޔަތް ކުރުން
+57,Shore Protection,ގޮނޑުދޮށް ހިމާޔަތް ކުރުނ
+58,Skate Park, ސްކޭޓް ޕާކް
+59,Slipway,ސްލިޕްވޭ
+60,Sports Complex,ސްޕޯޓްސް ކޮމްޕްލެކްސް
+61,Swimming Track,ފަތާ ޓްރެކް
+62,TVET Center,ޓިވެޓް ސެންޓަރ
+63,Volley Court,ވޮލީބޯޅަ ކޯޓު
+64,WMC,ކުނި މެނޭޖްކުރާ މަރުކަޒު
